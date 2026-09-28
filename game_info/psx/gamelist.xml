@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1789846602">
+		<hash>322A09DE</hash>
+		<genreid>768</genreid>
+		<genre>Role Playing Game,Action RPG</genre>
+		<publisher>Konami</publisher>
+		<developer>KCET</developer>
+		<releasedate>19970320T000000</releasedate>
+		<video>media/videos/Castlevania - Symphony Of The Night 1613aa39a004c845706fdf0659bab773.mp4</video>
+		<logo>media/wheels/Castlevania - Symphony Of The Night 9572c831c0e7a8909fb28ec4b4aec1fe.png</logo>
+		<manual>media/manuals/Castlevania - Symphony Of The Night 974d1e14808aa7cee89252f2642e51a6.pdf</manual>
+		<box>media/boxes/Castlevania - Symphony Of The Night 7106687666e5c48c6f98820b7e928db2.png</box>
+		<image>media/images/Castlevania - Symphony Of The Night 8043696cd29159288cab6076bc0a84fa.png</image>
+		<desc>As a descendant of Dracula, you must end the vampire bloodline. Can you rid the world of this unspeakable terror? Uncover the mystery of Castlevania and challenge an adventure as legendary as its name. Over 140 different enemies, bosses, and ghastly creatures. Awesome magical spells - transform into a bat, a wolf, or etheral mist. Hidden weapons, secrets, and characters...the largest Castlevania ever!</desc>
+		<rating>0.95</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania - Symphony Of The Night(ss)</aliases>
+		<name>Akumajo Dracula X: Gekka no Yasokyoku 惡魔城-月下夜想曲</name>
+		<path>Castlevania - Symphony Of The Night.ccd</path>
+	</game>
+	<game source="Recalbox" timestamp="1789852064">
+		<hash>9A29D877</hash>
+		<region>us</region>
+		<genreid>518</genreid>
+		<genre>Shooter / TPV,Adventure / Survival Horror,Shooter,Adventure</genre>
+		<publisher>Capcom</publisher>
+		<developer>Capcom</developer>
+		<releasedate>20001001T000000</releasedate>
+		<video>media/videos/Dino Crisis 2 223728b7f563d0b6b6edcb2d9896678c.mp4</video>
+		<logo>media/wheels/Dino Crisis 2 4ea72840f3446559a0b62cf5d921fc40.png</logo>
+		<manual>media/manuals/Dino Crisis 2 41496c0ecdc28c1c90c26079b6efcdef.pdf</manual>
+		<box>media/boxes/Dino Crisis 2 739ca8316f6251fd09d763ba67febcde.png</box>
+		<image>media/images/Dino Crisis 2 b639ec3ab1b76a06eef20fc0a491f140.png</image>
+		<desc>Dino Crisis 2 is a third-person shooter video game for the Sony PlayStation, published by Capcom in North America, released on September 13, 2000 and publish by Virgin Interactive in Europe, release on November 4, 2000. It was developed by Capcom Production Studio 4. The game is the sequel to Dino Crisis and was followed by Dino Crisis 3 in 2003 and was ported to Microsoft Windows that same year.
+ The story follows the events of the last game, where Regina is now on another mission involving a facility located close to the fictional Edward City, where a major anomaly has caused the whole island to be transported back in time to the era of the dinosaurs, along with all the human inhabitants. Regina is sent on a rescue mission with her new ally Dylan Morton, who has a strange connection to the events on the island. The player's control switches between Regina and Dylan at specific points in the game.
+ </desc>
+		<rating>0.80</rating>
+		<licences>Dino Crisis</licences>
+		<aliases>Dino Crisis 2(ss)</aliases>
+		<name>Dino Crisis 2 恐龍危機2</name>
+		<path>Dino Crisis 2 (USA).cue</path>
+	</game>
+	<game source="Recalbox" timestamp="1789851950">
+		<hash>84774766</hash>
+		<region>us</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>Capcom</publisher>
+		<developer>Capcom</developer>
+		<releasedate>19970715T000000</releasedate>
+		<video>media/videos/Mega Man X4 1a2ecf4375f84d3a9d740352723b1522.mp4</video>
+		<logo>media/wheels/Mega Man X4 73e279f9065e2046a02901b59e8d331c.png</logo>
+		<manual>media/manuals/Mega Man X4 d4970f904214e6e64d5fd1223e470d75.pdf</manual>
+		<box>media/boxes/Mega Man X4 29c68802d76931dd56b653550237cdfc.png</box>
+		<image>media/images/Mega Man X4 0f4cd34bb361ee1e7d3a43defdd2fd9b.png</image>
+		<desc>It is the year 21XX, following years after the Doppler rebellion and the revelation of the Maverick Virus, a new global Reploid military force, apty-named Repliforce, was founded to combat the ongoing Maverick attacks and uprisings. However, humans quickly began to fear and distrust Repliforce's military power and their methods of fighting Mavericks proved to be very destructive with little disregard for human life. One day, the floating city Sky Lagoon was under attack by Mavericks and Repliforce arrived on the scene after the city has crash landed on the ground, where one of their leaders, Colonel, was being ordered by the Maverick Hunters X and Zero to lower his weapons for questioning as suspects for the incident. Out of pride and contempt towards human government, Colonel refused to comply, and following the accusations behind the Sky Lagoon incident, the Repliforce General decided stage a coup d'état, seeking to create a new utopia just for Reploids. Repliforce were then labeled as Mavericks by the government, thus the Maverick Hunters must fight against their former allies and stop their coup.</desc>
+		<rating>0.80</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man X4(ss)</aliases>
+		<name>Mega Man X4 洛克人X4</name>
+		<path>Megaman X4.bin</path>
+	</game>
+	<game source="Recalbox" timestamp="1789846061">
+		<hash>34753439</hash>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>Capcom</publisher>
+		<developer>Capcom</developer>
+		<releasedate>19970801T000000</releasedate>
+		<video>media/videos/Mega Man X4 1a2ecf4375f84d3a9d740352723b1522.mp4</video>
+		<logo>media/wheels/Mega Man X4 633ad4c6921e63a6f0f315890fc00bd1.png</logo>
+		<manual>media/manuals/Mega Man X4 d4970f904214e6e64d5fd1223e470d75.pdf</manual>
+		<box>media/boxes/Mega Man X4 a6f4df42ff5f7114baf7185808582ab7.png</box>
+		<image>media/images/Mega Man X4 d97f1bab80699bb05181c1a3053536b9.png</image>
+		<desc>It is the year 21XX, following years after the Doppler rebellion and the revelation of the Maverick Virus, a new global Reploid military force, apty-named Repliforce, was founded to combat the ongoing Maverick attacks and uprisings. However, humans quickly began to fear and distrust Repliforce's military power and their methods of fighting Mavericks proved to be very destructive with little disregard for human life. One day, the floating city Sky Lagoon was under attack by Mavericks and Repliforce arrived on the scene after the city has crash landed on the ground, where one of their leaders, Colonel, was being ordered by the Maverick Hunters X and Zero to lower his weapons for questioning as suspects for the incident. Out of pride and contempt towards human government, Colonel refused to comply, and following the accusations behind the Sky Lagoon incident, the Repliforce General decided stage a coup d'état, seeking to create a new utopia just for Reploids. Repliforce were then labeled as Mavericks by the government, thus the Maverick Hunters must fight against their former allies and stop their coup.</desc>
+		<rating>0.80</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man X4(ss)</aliases>
+		<name>Rockman X4 洛克人X4</name>
+		<path>Megaman X4.cue</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848883">
+		<hash>EEC944E9</hash>
+		<region>us</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>Capcom</publisher>
+		<developer>Capcom</developer>
+		<releasedate>20010131T000000</releasedate>
+		<video>media/videos/Mega Man X5 549a89c9e6e2b7d463693bcca960e61c.mp4</video>
+		<logo>media/wheels/Mega Man X5 5014d645439b8cc22ed8e07625af93a4.png</logo>
+		<manual>media/manuals/Mega Man X5 d2835c045502d164882c58db28e45723.pdf</manual>
+		<box>media/boxes/Mega Man X5 3e2e7ac8793a96f839c823863c37eca0.png</box>
+		<image>media/images/Mega Man X5 ba134b04eeee0293d0135deaf65b81ab.png</image>
+		<desc>Years after the Reploid Wars, all seems peaceful in the world. But peace was not meant to last forever. When the "Eurasia" space colony is attacked by an unknown virus, the call goes out! X and Zero are called back into action to help destroy the colony, which is now on a collision course with Earth, and is expected to collide into the planet in only 16 hours! At the same time, guess who decides to show up once again...give you a hint: his name is a Greek letter.
+
+With all new features like advanced Maverick AI, bigger, more challenging stages, new gameplay features like ducking and swinging on vines and ropes, this is set to be the most insane mission X and Zero have ever had to face!</desc>
+		<rating>0.80</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man X5(ss)</aliases>
+		<name>Mega Man X5 洛克人X5</name>
+		<path>Megaman X5.bin</path>
+	</game>
+	<game source="Recalbox" timestamp="1789851522">
+		<hash>F59A6B23</hash>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>Capcom</publisher>
+		<developer>Capcom</developer>
+		<releasedate>20001130T000000</releasedate>
+		<video>media/videos/Mega Man X5 549a89c9e6e2b7d463693bcca960e61c.mp4</video>
+		<logo>media/wheels/Mega Man X5 708803aa463135c71e0a37d38c814be6.png</logo>
+		<manual>media/manuals/Mega Man X5 a8d97d6ed093d55f293dabdb9c07558b.pdf</manual>
+		<box>media/boxes/Mega Man X5 5fb9761f2d8f8241bce35b4a8fe9c5a8.png</box>
+		<image>media/images/Mega Man X5 aed8d849a461371333ddccd19c5a9e51.png</image>
+		<desc>Years after the Reploid Wars, all seems peaceful in the world. But peace was not meant to last forever. When the "Eurasia" space colony is attacked by an unknown virus, the call goes out! X and Zero are called back into action to help destroy the colony, which is now on a collision course with Earth, and is expected to collide into the planet in only 16 hours! At the same time, guess who decides to show up once again...give you a hint: his name is a Greek letter.
+
+With all new features like advanced Maverick AI, bigger, more challenging stages, new gameplay features like ducking and swinging on vines and ropes, this is set to be the most insane mission X and Zero have ever had to face!</desc>
+		<rating>0.80</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man X5(ss)</aliases>
+		<name>Rockman X5 洛克人X5</name>
+		<path>Megaman X5.cue</path>
+	</game>
+	<game source="Recalbox" timestamp="1789851415">
+		<hash>25953104</hash>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>Capcom</publisher>
+		<developer>Capcom</developer>
+		<releasedate>20011129T000000</releasedate>
+		<video>media/videos/Mega Man X6 270be0e5e0a3a7f508148e50f47cdc84.mp4</video>
+		<logo>media/wheels/Mega Man X6 69c849e15721e27b5465da77436b2219.png</logo>
+		<manual>media/manuals/Mega Man X6 5e95a2c4397acef884366660b5fbfe29.pdf</manual>
+		<box>media/boxes/Mega Man X6 f699eaae23db76d83063d32aa7df0ad1.png</box>
+		<image>media/images/Mega Man X6 6d000bdbdfa9d1b00594711f12de617f.png</image>
+		<desc>Three weeks after the Eurasia space colony incident, the Earth's surface was severely damaged and humans were forced to flee underground to escape from the planet's severe pollution, and Zero is still missing, presumed to be dead. Reploids were sent in to terraform the land in an attempt to make the planet habitable for humans once more, however, a Reploid and former colleague of Alia named Gate discovered something unusual amidst the ruins of Earth — a piece of Zero's DNA. After examining Zero's DNA, Gate became mad with power and an outbreak of bizarre Mavericks occurred. Weeks passed, Isoc, a Reploid scientist and an associate of Gate, announced to the people that a new phenomenon known as "Nightmare" has quickly spread throughout the world, causing Reploids to hallucinate and eventually destroy themselves. Isoc suspects the cause of the outbreak is none other than Zero who been spreading the phenomenon as he goes, much to X's anger and confusion. Isoc rallies Reploids throughout the world to aid the Nightmare Investigators, led by the powerful High-Max, at key locations to track down the source of this new phenomenon as well as Zero. X, along with the Maverick Hunters, must confront the Nightmare Investigators as they try to solve the mystery behind the Nightmare Phenomenon and clear Zero's name.</desc>
+		<rating>0.80</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man X6(ss)</aliases>
+		<name>RockMan X6 洛克人X6</name>
+		<path>(Playstation) Megaman X6.cue</path>
+	</game>
+	<game source="Recalbox" timestamp="1790189595">
+		<hash>D2724428</hash>
+		<region>us</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting</genre>
+		<publisher>Capcom</publisher>
+		<developer>Capcom</developer>
+		<releasedate>20020814T000000</releasedate>
+		<video>media/videos/Capcom Vs Snk b9865f770eed8e7b0c126ace81914463.mp4</video>
+		<logo>media/wheels/Capcom Vs Snk 01d6e3d71e7d2adf7d411c31bfd5050f.png</logo>
+		<manual>media/manuals/Capcom Vs Snk 4f7e5ac5d85130f00a1f0fff6543fda6.pdf</manual>
+		<box>media/boxes/Capcom Vs Snk b0256bb0a5dc4ab4e8e50f3e163fd90d.png</box>
+		<image>media/images/Capcom Vs Snk ad983926bdf069ffc915e2b2d57c23c6.png</image>
+		<desc>Capcom vs. SNK Pro is the challenge of the millennium, with two monster corporations at war only one solution. A massive martial arts event organized to settle the score and eliminate all conflict between the two parties. Many of the world's most famous warriors have joined and the public is going mad with anticipation. Join over 30 brawlers from Capcom's legendary Street Fighter and SNK's world-renowned King of Fighters series as they fight for universal domination. Capcom vs. SNK Pro is the ultimate collision of strength and power.</desc>
+		<rating>0.90</rating>
+		<licences>SNK Vs. Capcom</licences>
+		<aliases>Capcom Vs Snk(ss)</aliases>
+		<name>Capcom vs. SNK Pro</name>
+		<path>Capcom vs. SNK - Millennium Fight 2000 Pro [NTSC-U] [SLUS-01476].bin</path>
+	</game>
+	<game source="Recalbox" timestamp="1790615836">
+		<hash>0D6B5E4F</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>SNK</publisher>
+		<developer>SNK</developer>
+		<releasedate>19970627T000000</releasedate>
+		<video>media/videos/Shinsetsu Samurai Spirits - Bushidou Retsuden b41283d51df385b69508280259ca95cd.mp4</video>
+		<logo>media/wheels/Shinsetsu Samurai Spirits - Bushidou Retsuden c7e37d1945362f61094e36392d4130d0.png</logo>
+		<box>media/boxes/Shinsetsu Samurai Spirits - Bushidou Retsuden 81caf35354d6a98821e3442d66fbc531.png</box>
+		<image>media/images/Shinsetsu Samurai Spirits - Bushidou Retsuden 200db33d0d5497a32f443bd89e189dd0.png</image>
+		<desc>
+ The development history of the game is fairly storied. It was announced for development at the height of the Samurai Shodown series' popularity in 1995, and underwent many delays in the process, finally being released a few years later. For some time, rumors abounded that it was never going to come out.
+ As originally envisioned, the game was to be split into three episodes: one for each of the three games in the series. For a while, it was to be a NeoCD exclusive, but developmental and financial pressures caused SNK to also release it for the other two current systems. In a somewhat inexplicable marketing move, SNK decided that each version was to contain only two of the three episodes, thereby necessitating a player to buy two copies of the game in order to get the whole thing. Unsurprisingly, this plan resulted in a significant backlash from fans, and was discarded.</desc>
+		<aliases>Shinsetsu Samurai Spirits - Bushidou Retsuden(ss)</aliases>
+		<name>Shinsetsu Samurai Spirits : Bushidou Retsuden</name>
+		<path>Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan).chd</path>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<name>Shinsetsu Samurai Spirits CHS 武士道列傳-簡中</name>
+		<path>Shinsetsu Samurai Spirits CHS.cue</path>
+	</game>
+</gameList>

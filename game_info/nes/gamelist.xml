@@ -1,0 +1,685 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1789510124">
+		<hash>EBD96A66</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>科拿米</publisher>
+		<developer>科拿米</developer>
+		<releasedate>19910105T000000</releasedate>
+		<video>media/videos/Wai Wai World 2 - SOS!! Paseri Jou (Japan) F4C89944A41756EB8A7CD6D9814302FA.mp4</video>
+		<logo>media/wheels/Wai Wai World 2 - Sos Paseri Jou 17462c751f84a78228ae3b52d609bd42.png</logo>
+		<manual>media/manuals/Wai Wai World 2 - Sos Paseri Jou 7524b86a55e7ac3cb861614f4af13468.pdf</manual>
+		<box>media/boxes/Wai Wai World 2 - Sos Paseri Jou 5c340d180ac9ff6962c2bead7f90754b.png</box>
+		<image>media/images/Wai Wai World 2 - SOS!! Paseri Jou (Japan) 0E356876CE1EF56795AC66B6F1F50B7B.png</image>
+		<desc>科拿米世界2：SOS香芹城是《科拿米世界》的續集，由多個科拿米角色主演。玩家選擇由三個不同的科拿米角色組成的四個角色組之一來開始遊戲。大多數關卡都是對科拿米遊戲中各種不同關卡的惡搞。遊戲玩法大多像一個簡單的平台遊戲，類似魂斗羅。在這些關卡中，你從主角Rickle或Rikkuru開始，他透過收集特殊的能量提升，可以暫時轉變為玩家在遊戲開始時選擇的三個不同角色之一。還有太空射擊、駕駛和解謎關卡。在達到某個等級後，您可以選擇由不同階段組成的不同路徑。</desc>
+		<rating>0.80</rating>
+		<aliases>Wai Wai World 2 - Sos!! Paseri Jou(ss)</aliases>
+		<name>Wai Wai World 2 - Sos!! Paseri Jou 科拿米世界2 - SOS!!香芹城</name>
+		<path>Wai Wai World 2 - SOS!! Paseri Jou (Japan).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>96529C68</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>260</genreid>
+		<genre>Shoot'em Up</genre>
+		<publisher>科拿米</publisher>
+		<developer>科拿米</developer>
+		<releasedate>19890929T000000</releasedate>
+		<video>media/videos/TwinBee 3 - Poko Poko Daimaou (Japan) 1BD821369501920CFDA28887BFB4E43B.mp4</video>
+		<logo>media/wheels/Twinbee 3 - Poko Poko Daimao 0aafc9293b55581eb50f0ed7bdc2c01c.png</logo>
+		<manual>media/manuals/Twinbee 3 - Poko Poko Daimao 310508d82f424947cfcab9bae5767143.pdf</manual>
+		<box>media/boxes/Twinbee 3 - Poko Poko Daimao 3844d6bf9d9cc5a6ebbb465e1dc3ccbf.png</box>
+		<image>media/images/TwinBee 3 - Poko Poko Daimaou (Japan) 0ABB4B2244C327194CC162E0BDCE5D39.png</image>
+		<desc>兵蜂系列垂直滾動超現實可愛遊戲的第三款遊戲，首創雙打「靈魂復活」與關卡順序自選系統。你再次扮演Twinbee或Winbee的角色（Gwinbee被最終Boss綁架），他們飛過幻想王國，射擊他們的……呃……敵人，或者無論他們是什麼。與該系列的其他遊戲一樣，你可以在擊敗一定數量的敵人後，通過射擊他們留下的魔法鈴來獲得能量提升，根據你射擊它們的次數，它們會改變顏色，從而提供不同的能量提升，例如多次射擊、選項等。如果正確通電，兩艘船都可以聯合起來執行清屏攻擊，你可以從前四個階段中的任何一個中選擇你的起始階段（第五個也是最後一個保持鎖定，直到你清除所有其他階段）。</desc>
+		<rating>0.70</rating>
+		<licences>Twinbee</licences>
+		<aliases>Twinbee 3 - Poko Poko Daimao(ss)</aliases>
+		<name>Twinbee 3 - Poko Poko Daimao 兵蜂3:波可波可大魔王</name>
+		<path>TwinBee 3 - Poko Poko Daimaou (Japan).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510147">
+		<hash>4433BA0A</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>260</genreid>
+		<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+		<publisher>科拿米</publisher>
+		<developer>科拿米</developer>
+		<releasedate>19860104T000000</releasedate>
+		<video>media/videos/Twinbee d744c22f64c8f9f97e5079cb67d41db7.mp4</video>
+		<logo>media/wheels/Twinbee 28c11eb851aaef5eccc9c476b000c07f.png</logo>
+		<manual>media/manuals/Twinbee 15d2da2403e499dd77f06522be4be3db.pdf</manual>
+		<box>media/boxes/Twinbee fd63f5d7fdf196d64b3abf3180530e5f.png</box>
+		<image>media/images/Twinbee eb7d8b11f39ee8d3f192e0af373b5185.png</image>
+		<desc>兵蜂是一款垂直捲軸射擊遊戲。玩家用擬人化的手臂控制卡通般的太空船，玩家一是TwinBee（青色），玩家二是WinBee（紅色）。飛船可以8個方向移動，一鍵用於定期射擊飛行的敵人，一鍵用於投擲地面炸彈。可以透過射擊雲來收集鈴鐺提升能量。如果鈴鐺被玩家射擊，鈴鐺的顏色將會改變：
+1.黃色：給予獎勵積分；
+2.白色：將玩家的槍升級為雙聯砲；
+3.藍色：增加玩家的速度（最多五級）；
+4.綠色：創建飛船的圖像副本以獲得更多火力；
+5.紅色：提供承受傷害的護盾。
+綠色和紅色的鈴鐺不能組合在一起。可以從地面收集備用電源，例如用三向槍升級飛船的備用鐘和摧毀螢幕上所有敵人的星星。飛船中部的一發子彈就會摧毀它。擊中飛行器其中一隻手臂的子彈只會摧毀該手臂。如果雙臂失去，飛行器將無法再發射炸彈，必須由救護車修理。在兩人模式下，TwinBee和WinBee具有相同的速度，它們可以「肉搏」並發射超級爆炸。同樣在兩人模式下，如果一艘飛船被另一艘飛船從後面擊中，它將發射四次多向射擊。</desc>
+		<licences>Twinbee</licences>
+		<aliases>Twinbee(ss)</aliases>
+		<name>TwinBee 兵蜂</name>
+		<path>TwinBee (Japan).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>8032BDB7</hash>
+		<region>jp</region>
+		<genreid>2816</genreid>
+		<genre>Puzzle / Fall,Puzzle</genre>
+		<publisher>Bullet Proof Software</publisher>
+		<developer>Bullet Proof Software</developer>
+		<releasedate>19881222T000000</releasedate>
+		<video>media/videos/Tetris (Bulletproof) (Japan) (Rev B) 0010EFDDD98E68B47E8A23EE8DE4520A.mp4</video>
+		<logo>media/wheels/Tetris (bulletproof) 1f065b48245847637e52ba8a4f323118.png</logo>
+		<manual>media/manuals/Tetris (bulletproof) ffc2e01ffb1d3cdeeed2aabf73ad0a1c.pdf</manual>
+		<box>media/boxes/Tetris (bulletproof) c83bb987ff6a98fe563082c2a1443815.png</box>
+		<image>media/images/Tetris (Bulletproof) (Japan) (Rev B) 47F2B423FDF40F3323C82A15A32E0485.png</image>
+		<desc>在日本為紅白機發布的俄羅斯方塊版本與在世界其他地區為NES發布的俄羅斯方塊版本有很大不同。它由Henk Roger的公司Bullet Proof Software开发，保留了不寻常的控制方案，这使其成为硬體上最不受欢迎的俄罗斯方块转换之一（包括未经许可的Tengen版本）。除了控制之外，這個版本的俄羅斯方塊的獨特之處還在於玩家必須在遊戲結束之前耗盡「生命」。玩家需要完成25行才能進入下一級。</desc>
+		<licences>Tetris</licences>
+		<aliases>Tetris (bulletproof)(ss)</aliases>
+		<name>Tetris (bulletproof) 俄羅斯方塊（防彈軟體版）</name>
+		<path>Tetris (Bulletproof) (Japan) (Rev B).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510122">
+		<hash>3BC2E2DF</hash>
+		<region>eu</region>
+		<players>1-2</players>
+		<genreid>257</genreid>
+		<genre>Platform,Platform / Run &amp; Jump</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂</developer>
+		<releasedate>19900212T000000</releasedate>
+		<tips>media/tipsandtricks/Super Mario Bros. 3 (Europe) 0df89b8803566b7e8d74aef1bc0d14b0.md</tips>
+		<video>media/videos/Super Mario Bros. 3 (Europe) C6E588503BD63E25C6278F41D438081E.mp4</video>
+		<logo>media/wheels/Super Mario Bros. 3 d14805dad4470ce6d2c254a8e716d0cc.png</logo>
+		<manual>media/manuals/Super Mario Bros. 3 b782660889f5fc8328fab563fb6f2d05.pdf</manual>
+		<box>media/boxes/Super Mario Bros. 3 dca62383ce1c1326406cb30e8ff1246a.png</box>
+		<image>media/images/Super Mario Bros. 3 (Europe) 729E46291B962CE9027945FF21C4F1F7.png</image>
+		<desc>庫巴回來了，他和庫巴的​​孩子們一起再次破壞馬裡奧的一天。這次，除了抓到公主之外，庫巴團隊還從各國國王那裡奪走了魔杖，並將它們變成生物。馬瑪利歐路易吉必須在這一天結束之前取回魔杖、擊敗庫巴並拯救公主。瑪利歐兄弟的每個關卡中都有強化道具，包括超級蘑菇和火焰花的回歸，以及新的強化道具，包括青蛙套裝、經笛，以及最重要的葉子，它允許玩家飛行並用尾巴攻擊敵人。</desc>
+		<rating>0.95</rating>
+		<licences>Super Mario Bros | Mario</licences>
+		<aliases>Super Mario Bros. 3(ss)</aliases>
+		<name>Super Mario Bros. 3 超級瑪利歐兄弟3</name>
+		<path>Super Mario Bros. 3 (Europe).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510240">
+		<hash>4F708A78</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂 EAD</developer>
+		<releasedate>20101111T000000</releasedate>
+		<logo>media/wheels/25th Anniversary Super Mario Bros. a418c4f2c1e69bdf3336c1a37e91a5dc.png</logo>
+		<image>media/images/Super Mario Bros. 25 Shuunen Version (Japan) (En) (Promo, Virtual Console) 639F917285C1EA1A5EA3466EBFEA1428.png</image>
+		<desc>這款《超級瑪利歐兄弟》虛擬主機特別版僅在日本和澳洲發售，並預先安裝在2010年11月11日發布的紅色Wii主機組合包中。《超級瑪利歐兄弟25週年紀念版》引入了兩項變更：“？”每個問題區塊上的數字被替換為“25”，標題畫面上的版權日期從“1985”更改為“1985-2010”。儘管任天堂的日本網站將這款遊戲稱為“超級瑪利歐兄弟25週年紀念版”，但他們的一張螢幕截圖顯示了另一個標題“25週年超級瑪利歐兄弟”。在Wii頻道資訊畫面上。</desc>
+		<rating>0.70</rating>
+		<aliases>25th Anniversary Super Mario Bros.(ss)</aliases>
+		<name>25th Anniversary Super Mario Bros. 超級瑪利歐兄弟25週年紀念</name>
+		<path>Super Mario Bros. 25 Shuunen Version (Japan) (En) (Promo, Virtual Console).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>3337EC46</hash>
+		<region>wor</region>
+		<players>1-2</players>
+		<genreid>257</genreid>
+		<genre>Platform,Platform / Run &amp; Jump</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂</developer>
+		<releasedate>19851117T000000</releasedate>
+		<tips>media/tipsandtricks/Super Mario Bros. (World) c1fa46f37871a601d623a95747cc952f.md</tips>
+		<video>media/videos/Super Mario Bros. (World) 510A7632D687E350D94FD4ECC78D353D.mp4</video>
+		<logo>media/wheels/Super Mario Bros. 0caac868159064a70174c6035d122a7c.png</logo>
+		<manual>media/manuals/Super Mario Bros. 80d3f763b5a73798ae706d1e7fcd123c.pdf</manual>
+		<box>media/boxes/Super Mario Bros. aa5e82cca17fd7b67df31b520e0229dd.png</box>
+		<image>media/images/Super Mario Bros. (World) 408DC789C1DB7AD0A920025072E3EC0C.png</image>
+		<desc>《超級瑪利歐兄弟》講述了瑪利歐和路易吉競相從邪惡的庫巴手中拯救碧琪公主的故事。在他們的首次平台跳躍任務中，兄弟倆跨越充滿敵人的關卡，躲避陷阱，並發現隱藏的獎勵。超級蘑菇讓馬裡奧成長，火焰花賦予他火力，星星賦予他短暫的無敵能力。每個關卡都以一根旗桿結束，你抓住旗桿越高，得分就越多。</desc>
+		<rating>0.90</rating>
+		<licences>Super Mario Bros | Mario</licences>
+		<aliases>Super Mario Bros.(ss)</aliases>
+		<name>Super Mario Bros. 超級瑪利歐兄弟</name>
+		<path>Super Mario Bros. (World).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>701F4326</hash>
+		<region>us</region>
+		<players>1-2</players>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>卡普空</publisher>
+		<developer>SOL</developer>
+		<releasedate>19911206T000000</releasedate>
+		<tips>media/tipsandtricks/Snow Brothers (USA) d7fc684b3c55964c2e735ee1f819a7a1.md</tips>
+		<video>media/videos/Snow Brothers (USA) 39B5305A7ABDFA905591585C0993285E.mp4</video>
+		<logo>media/wheels/Snow Brothers b98a5ee35f78c56eeba51b8812f85015.png</logo>
+		<manual>media/manuals/Snow Brothers 05e17150f178c78642ba2a19041f27ff.pdf</manual>
+		<box>media/boxes/Snow Brothers 59e078252a2bfebef6b7b2ab8a146db2.png</box>
+		<image>media/images/Snow Brothers (USA) 984ADEB20368AF470D94D063F3A5630C.png</image>
+		<desc>尼克和湯​​姆是兩位王子，他們與兩位美麗的公主一起實現夢想。邪惡的斯科奇國王突然凍結了尼克王子和湯姆，並綁架了公主們。現在尼克和湯姆發現自己有能力應付冰雪。這兩個雪兄弟需要追捕邪惡的斯科奇國王並拯救公主。《Snow B os.》是一款固定螢幕平台遊戲，玩家必須擊敗每個關卡的所有敵人，總共50個。雪兄人弟使用雪作為武器，將其扔向敵人以擊暈他們。當大量的雪被丟向敵人時，敵人就會陷入混亂並無法移動。它們可以滾成巨大的雪球，然後推或踢到其他敵人身上。如果放任不管，敵人最終會解凍並對玩家生氣。充滿敵人的雪球是比普通的一把雪更強大的武器，也是尼克和湯姆對抗BOSS唯一有效武器。</desc>
+		<rating>0.80</rating>
+		<licences>Snow Bros.</licences>
+		<aliases>Snow Brothers(ss)</aliases>
+		<name>Snow Brothers 雪人兄弟</name>
+		<path>Snow Brothers (USA).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510122">
+		<hash>BABD39FA</hash>
+		<region>us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Tecmo 特庫摩</publisher>
+		<developer>Tecmo 特庫摩</developer>
+		<releasedate>19910801T000000</releasedate>
+		<tips>media/tipsandtricks/Ninja Gaiden III - The Ancient Ship of Doom (USA) c6de7c69f479496af1c51d4bc2cdaa5a.md</tips>
+		<video>media/videos/Ninja Gaiden III - The Ancient Ship of Doom (USA) 05942D222C7C27999868E3065C1F6E20.mp4</video>
+		<logo>media/wheels/Ninja Gaiden 3 - The Ancient Ship Of Doom 91e8f8e596dacadf8b3c4b579675019c.png</logo>
+		<manual>media/manuals/Ninja Gaiden 3 - The Ancient Ship Of Doom e57855b5dc2046b2e8760d755e3cd21d.pdf</manual>
+		<box>media/boxes/Ninja Gaiden 3 - The Ancient Ship Of Doom e002119cef06dc737219e204d1cb1387.png</box>
+		<image>media/images/Ninja Gaiden III - The Ancient Ship of Doom (USA) 930400E74D44892ABBB6361A8F093592.png</image>
+		<desc>這是系列的第三款作品，自從擊敗阿斯塔和復活的賈奎奧以來已經過去了一段時間，艾琳·盧接到了新的任務要完成。她要觀察並調查最近出於未知目的而建造的奇怪工廠。她繼續偵察，但被她的朋友Ryu Hayabusa攔截並顯然暗殺了……只不過不是Ryu。這是一個冒名頂替者。真正的Ryu對她的死以及隨後他謀殺她的錯誤指控感到憤怒，繼續她的任務並繼續調查工廠。
+    
+這是為NES製作的常規系列中的最後一款遊戲，它具有該系列之前的遊戲所沒有的許多功能，例如延長劍長度的能力、新的垂直“波浪”攻擊和垂直滾動關卡。該遊戲的美國版本被認為是該系列中最難的，因為擊中時會產生額外傷害，常規劍長度稍短，持續時間有限，敵人更多。Lynx移植版是該平台上的第二款忍者龍劍傳遊戲，第一款是街機版的移植版。該端口與NES遊戲相同，但遊戲中的圖像針對Lynx的較小螢幕進行了壓縮。</desc>
+		<rating>0.70</rating>
+		<licences>Ninja Gaiden</licences>
+		<aliases>Ninja Gaiden 3 - The Ancient Ship Of Doom(ss)</aliases>
+		<name>Ninja Gaiden 3 - The Ancient Ship Of Doom 忍者龍劍傳3-末日古船</name>
+		<path>Ninja Gaiden III - The Ancient Ship of Doom (USA).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510147">
+		<hash>9D135A8E</hash>
+		<region>us</region>
+		<genreid>263</genreid>
+		<genre>Beat'em Up</genre>
+		<publisher>Tecmo 特庫摩</publisher>
+		<developer>Tecmo 特庫摩</developer>
+		<releasedate>19900406T000000</releasedate>
+		<tips>media/tipsandtricks/Ninja Gaiden II - The Dark Sword of Chaos (USA) 0631db907566531cb3f73b496bb65755.md</tips>
+		<video>media/videos/Ninja Gaiden II - The Dark Sword of Chaos (USA) 40F1C001AD9ECFFD2BE1880892D2042A.mp4</video>
+		<logo>media/wheels/Shadow Warriors II - Ninja Gaiden II 7c634552b3ef23575d3fa78c78bb8278.png</logo>
+		<manual>media/manuals/Shadow Warriors II - Ninja Gaiden II 7271b4eba8aa94a01f622f62a80721be.pdf</manual>
+		<box>media/boxes/Shadow Warriors II - Ninja Gaiden II 85d718a99d6fc04aec7ce46c83082e8a.png</box>
+		<image>media/images/Ninja Gaiden II - The Dark Sword of Chaos (USA) AE678FB94D626F8F93BB466627840499.png</image>
+		<desc>在初代《忍者龍劍傳》事件發生一年後，一位名叫阿斯塔的新反派收到了賈奎奧被擊敗的消息。阿斯塔利用這個機會制定了一個新計劃，讓世界陷入黑暗。忍者隼龍踏上旅程，消滅一切。影分身系統（Split of the Clone）是2代最靈魂的系統。</desc>
+		<rating>0.95</rating>
+		<licences>Ninja Gaiden</licences>
+		<aliases>Shadow Warriors II - Ninja Gaiden II(ss)</aliases>
+		<name>Shadow Warriors II - Ninja Gaiden II 影子武士II - 忍者龍劍傳II</name>
+		<path>Ninja Gaiden II - The Dark Sword of Chaos (USA).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>11F953F6</hash>
+		<region>us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Tecmo 特庫摩</publisher>
+		<developer>Tecmo 特庫摩</developer>
+		<releasedate>19890302T000000</releasedate>
+		<tips>media/tipsandtricks/Ninja Gaiden (USA) 554067118370164a6b95a589f5cc2079.md</tips>
+		<video>media/videos/Ninja Gaiden (USA) 3839667FF9F5F6CE2494BD8F42C04119.mp4</video>
+		<logo>media/wheels/Shadow Warriors 3cd0ea2005b2d57527340f27f009c44c.png</logo>
+		<manual>media/manuals/Shadow Warriors d39119018ece8484b69cf028bdf91bdd.pdf</manual>
+		<box>media/boxes/Shadow Warriors bfaae5d904acec324edb899a14ef8e8f.png</box>
+		<image>media/images/Ninja Gaiden (USA) 3871F3DE2A684ED68AA5D17CFC29AAB1.png</image>
+		<desc>《忍者龍劍傳》以當時罕見的電影動畫開場，2位忍者生死決鬥。據透露，落敗的忍者是隼龍的父親。當Ryu得知此事後，他開始調查是誰殺了他的父親以及原因。這個任務讓他前往美國尋找一位與Ryu的父親一起工作的考古學家。從那時起，Ryu捲入了一個邪惡的超自然陰謀，其中涉及一個名叫Jaquio的惡棍，他計劃利用一座古老的城堡和一些文物向世界釋放可怕的邪惡。《忍者龍劍傳》是一款橫向捲軸遊戲，忍者龍可以奔跑、跳躍，並用他的忍者劍砍殺。他也可以附著在任何垂直表面上。整個場景中散佈著能量提昇道具，讓Ryu可以投擲火球和忍者之星，並執行其他壯舉。</desc>
+		<rating>0.80</rating>
+		<licences>Ninja Gaiden</licences>
+		<aliases>Shadow Warriors(ss)</aliases>
+		<name>Shadow Warriors 影子武士</name>
+		<path>Ninja Gaiden (USA).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>4E6E3334</hash>
+		<region>jp</region>
+		<players>1-4</players>
+		<genreid>1538</genreid>
+		<genre>Sports / Football (Soccer),Sports</genre>
+		<publisher>任天堂</publisher>
+		<developer>Million</developer>
+		<releasedate>19901201T000000</releasedate>
+		<tips>media/tipsandtricks/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan) e3bc60448e82977db3da9616c61d52de.md</tips>
+		<video>media/videos/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan) 1976D6B172A15FD5B55743213677D811.mp4</video>
+		<logo>media/wheels/Nintendo World Cup c0681cc0d7ec8d4cd606030923984bee.png</logo>
+		<manual>media/manuals/Nintendo World Cup 0ee114adc4bbb32b09df0b0eb63f8efd.pdf</manual>
+		<box>media/boxes/Nintendo World Cup d171fd229982f5737d797031157938f8.png</box>
+		<image>media/images/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan) ECD100BBA7EDC3DAF8093A030867B029.png</image>
+		<desc>這款足球遊戲是在任天堂推出四人轉接器時製作的，並且可能是為了四人比賽而製作的。當您選擇與2名或更多玩家一起玩時，這一點會清楚地顯示出來。然後你可以在許多不同的地面層之間進行選擇，例如冰、草和石頭，這增加了可重玩性。當你玩單人遊戲時，你將作為當時頂級足球國家之一參加世界杯，並且你會按照固定的順序遇到國家。喀麥隆隊的首場比賽和決賽都是對上西德隊。按照老式的方式，當你打平手時你就輸了，沒有任何額外的時間。
+
+在遊戲中，您始終只能駕駛一個角色，該角色是您在比賽開始前選擇的。然後，您可以向隊友發出簡單的命令，例如傳球、攔截和射門。你的動作也僅限於這些動作。這場比賽完全無法無天，所以你可以在裁判不眨眼的情況下隨意用肘部鏟球。這樣做可能是為了讓與朋友一起玩更有趣。</desc>
+		<rating>0.70</rating>
+		<aliases>Nintendo World Cup(ss)</aliases>
+		<name>Nintendo World Cup 任天堂世界盃</name>
+		<path>Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510122">
+		<hash>0F7558AA</hash>
+		<region>jp</region>
+		<players>1-4</players>
+		<genreid>1538</genreid>
+		<genre>Sports / Dodgeball,Sports</genre>
+		<publisher>CSG Imagesoft</publisher>
+		<developer>Million</developer>
+		<releasedate>19880726T000000</releasedate>
+		<tips>media/tipsandtricks/Nekketsu Koukou Dodgeball-bu (Japan) 465cfde24b9cc4802a57c450c8449663.md</tips>
+		<video>media/videos/Super Dodge Ball b19e6e26624e374a30cefb0a4292a01c.mp4</video>
+		<logo>media/wheels/Super Dodge Ball b618542818da1f77dd61e8c34f520181.png</logo>
+		<manual>media/manuals/Super Dodge Ball 6fd4f87d831d3cbbf80ca7796d5729af.pdf</manual>
+		<box>media/boxes/Super Dodge Ball b344e75261102c885710bfc2ce9fe2e8.png</box>
+		<image>media/images/Super Dodge Ball 404d8c05525ba58bd7e440e785175465.png</image>
+		<desc>控制你的六名球員組成的躲避球隊，只使用球和你球隊的獨特技能來擊敗對方球隊。每個玩家都有自己的特殊攻擊，每個團隊都有自己獨特的屬性。
+玩世界盃模式，與來自世界各地的球隊爭奪冠軍。你扮演明星美國隊，必須與來自英格蘭、冰島、日本等國家的球隊進行較量，最終戰勝當前的世界冠軍蘇聯。
+或者，您可以在對戰模式中挑戰朋友，並與您選擇的任何團隊進行正面交鋒。
+或者，如果你只是想放鬆一下，你可以玩「鬥球」模式，這是在校園裡自由玩耍的人人嬉戲的模式。成為最後一個站著的人。你可以單獨玩，也可以和朋友一起玩，但電腦將控制剩下的 4-5 名玩家。</desc>
+		<rating>0.80</rating>
+		<licences>Kunio-Kun</licences>
+		<aliases>Super Dodge Ball(ss)</aliases>
+		<name>Nekketsu Koukou Dodgeball-bu 熱血高校躲避球部</name>
+		<path>Nekketsu Koukou Dodgeball-bu (Japan).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>1D714F05</hash>
+		<region>jp</region>
+		<players>1-4</players>
+		<genreid>263</genreid>
+		<genre>Fighting</genre>
+		<publisher>Technos Japan</publisher>
+		<developer>Technos Japan</developer>
+		<releasedate>19991223T000000</releasedate>
+		<tips>media/tipsandtricks/Nekketsu Kakutou Densetsu (Japan) cfefddfa3a334e4df0683d9df0bf411b.md</tips>
+		<video>media/videos/Nekketsu Kakutou Densetsu (Japan) F1D40214CB36B1E4F470BCFD2D2A1743.mp4</video>
+		<logo>media/wheels/Nekketsu Kakutou Densetsu ba2685d20e88905e74052724e6352725.png</logo>
+		<manual>media/manuals/Nekketsu Kakutou Densetsu 573c25bb8ded331661d0f67856d44a85.pdf</manual>
+		<box>media/boxes/Nekketsu Kakutou Densetsu f7fe7e4e004e4f503d96b75ae40f9475.png</box>
+		<image>media/images/Nekketsu Kakutou Densetsu (Japan) C2A4D53211B17CD5665499DCABA48F64.png</image>
+		<desc>熱血高校裡的又一天，電視劇明星國夫在他的儲物櫃裡發現了一張紙條，向他發起一場秘密武術錦標賽的挑戰。果然，國夫和他的朋友力木接受了挑戰，並滿懷成為這座城市的冠軍的希望。熱血格鬥是熱血高校系列中的另一款2D橫向捲軸清版遊戲，具有相同的遊戲玩法，包括在橫向捲軸關卡中結合拳擊、踢和特殊動作擊敗敵人。
+    
+然而，這款遊戲的不同之處在於，整個遊戲是在非滾動競技場中進行2對2錦標賽戰鬥，您的團隊必須取得勝利並晉級下一輪。你可以與國夫一起玩，也可以創建自己的角色，並在他穿著標準熱血高校制服時提升他的統計數據，你可以與人工智能控制的伙伴或朋友一起玩（你也可以在對戰模式下進行4人大逃殺）。背景在戰鬥中起著重要作用，有幾個危險區域和獨特的功能，遊戲也鼓勵團隊合作，因為許多特殊動作只有透過組合兩個角色才能解鎖（取決於他們的兼容性）</desc>
+		<licences>Kunio-Kun</licences>
+		<aliases>Nekketsu Kakutou Densetsu(ss)</aliases>
+		<name>Nekketsu Kakutou Densetsu 熱血格鬥傳說</name>
+		<path>Nekketsu Kakutou Densetsu (Japan).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510122">
+		<hash>01850362</hash>
+		<region>jp</region>
+		<genreid>263</genreid>
+		<genre>Beat'em Up</genre>
+		<publisher>卡普空</publisher>
+		<developer>卡普空</developer>
+		<releasedate>19930611T000000</releasedate>
+		<tips>media/tipsandtricks/Mighty Final Fight (Japan) 4e10845727665b7ef7dbf81d5e7e0c31.md</tips>
+		<video>media/videos/Mighty Final Fight (Japan) C5250BB79607152A55E6D2828F487711.mp4</video>
+		<logo>media/wheels/Mighty Final Fight d966332e9fde95285de62db5794d2939.png</logo>
+		<manual>media/manuals/Mighty Final Fight 6def571905842f9a025510fdd03c10b4.pdf</manual>
+		<box>media/boxes/Mighty Final Fight b4a4228c465360ecc0b22151cdc04741.png</box>
+		<image>media/images/Mighty Final Fight (Japan) 371F398D9E10F1F4050639ED8F34ABAE.png</image>
+		<desc>《SD街頭快打》是卡普空唯一的街頭快打8位元移植，它沿襲了第一款街頭快打遊戲的故事情節和角色。大都會市長邁克·哈格(Mike_Haggar)、他的忍者朋友蓋伊(Guy)和他女兒的男友科迪(Cody)得知哈格的女兒傑西卡(Jessica)被瘋狂齒輪幫(Mad Gear Gang)綁架，而該幫派的頭目愛上了她，並希望愛管閒事的邁克·哈格離開小鎮。
+    
+選擇三名戰士中的一名，玩家將在大都會城的街道上展開格鬥任務。遊戲是一款橫向捲軸清版遊戲，也是一款單人遊戲（與其他街頭快打移植版不同）。這款特定的街頭快打遊戲的另一個獨特之處是體驗系統，它允許透過升級來學習額外的動作，類似於紅白機《雙截龍》一代。所有角色都被重繪成8位元SD版，從圖形上看有點像《熱血物語》。每個角色都有一個攻擊按鈕和一個跳躍按鈕。將兩者按在一起會釋放出角色特定的超級動作。透過將玩家移動到敵人附近也可以完成各種抓取動作和投擲動作。</desc>
+		<rating>0.65</rating>
+		<licences>Final Fight</licences>
+		<aliases>Mighty Final Fight(ss)</aliases>
+		<name>Mighty Final Fight 街頭快打SD</name>
+		<path>Mighty Final Fight (Japan).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510122">
+		<hash>A2C89CB9</hash>
+		<region>us</region>
+		<genreid>257</genreid>
+		<genre>Adventure,Platform</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂</developer>
+		<releasedate>19880115T000000</releasedate>
+		<tips>media/tipsandtricks/Metroid (USA) 505e1ac51452849a3c9f8f6118ff0f92.md</tips>
+		<video>media/videos/Metroid (USA) 54B1BB6FD4FF164A226E05BAC787D9A4.mp4</video>
+		<logo>media/wheels/Metroid b911c7c4be705168751f3b294847a115.png</logo>
+		<manual>media/manuals/Metroid 42b308762fe1fbbe15317f700447311c.pdf</manual>
+		<box>media/boxes/Metroid 5e9a2098aec53a4ee0ed2c37530b47b2.png</box>
+		<image>media/images/Metroid (USA) F7CECF5AC68B958E458A5B26D3BD66B5.png</image>
+		<desc>宇宙曆20X5年，銀河聯邦的科學探索船在「SR388星球」上發現了一種神祕的未知生命體。這種生物具有極強的生命力，且在受到Beta射線照射後會大量增殖，甚至能吸乾其他生物的生命能量。聯邦將其命名為「密特羅德」（Metroid），並將其帶回冷凍保存，準備進行和平研究。返航途中，聯邦的研究船遭到惡名昭彰的宇宙海盜襲擊，所有的「密特羅德」樣本全數被奪走。宇宙海盜將密特羅德帶回了他們的根據地—要塞星球「澤貝斯」（Zebes）。幕後領袖「母腦」（一個巨大的生化大腦控制系統）企圖利用Beta射線大量複製密特羅德並改造成生化武器，消滅銀河聯邦稱霸宇宙。
+    
+聯邦高層僱用宇宙中實力最強、最神祕的賞金獵人薩姆斯·亞蘭（Samus_Aran），潛入要塞執行暗殺與破壞任務。你必須使用動力服吸收寶貴的能量來進行搜索，並獲得使用冰凍光束或波動光束、跳高靴和瓦里亞防護服等能量裝備的能力。如果你倖存下來，那將是你和你獲得的力量對抗母腦。</desc>
+		<rating>0.80</rating>
+		<licences>Metroid</licences>
+		<aliases>Metroid(ss)</aliases>
+		<name>Metroid 銀河戰士</name>
+		<path>Metroid (USA).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510122">
+		<hash>98CEFA51</hash>
+		<region>us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Irem Corporation</publisher>
+		<developer>Tamtex</developer>
+		<releasedate>19910202T000000</releasedate>
+		<tips>media/tipsandtricks/Metal Storm (USA) 13dad1b8e0a34c99b70c6fe11c03e864.md</tips>
+		<video>media/videos/Metal Storm (USA) 39507BAD57F637C006F0CA4F66528745.mp4</video>
+		<logo>media/wheels/Metal Storm 2e76d76080c2674006ec1eb94854036d.png</logo>
+		<manual>media/manuals/Metal Storm b3222306ae0e943a039a80bb48459f81.pdf</manual>
+		<box>media/boxes/Metal Storm d3e2d89686045691cae08c6bd7c8e4c2.png</box>
+		<image>media/images/Metal Storm (USA) 9B59A41B4D5298DA55ED38CA29258C40.png</image>
+		<desc>《Metal Storm》是一款動作遊戲，玩家控制巨型機甲M-308_Gunner來阻止故障的電腦威脅。為了避免它成為另一款通用動作遊戲，創新透過快節奏的遊戲玩法和「重力翻轉」能力來體現，該能力使角色能夠在沿著地板或天花板移動之間自由切換。雖然遊戲只有七個關卡，但難度卻迅速上升，因此掌握重力技術和記住關卡成為生存的絕對必要條件。</desc>
+		<rating>0.85</rating>
+		<aliases>Metal Storm(ss)</aliases>
+		<name>Metal Storm 金屬風暴</name>
+		<path>Metal Storm (USA).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510150">
+		<hash>1752EF8A</hash>
+		<region>us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>任天堂</publisher>
+		<developer>HAL Laboratory</developer>
+		<releasedate>19930323T000000</releasedate>
+		<tips>media/tipsandtricks/Kirby's Adventure (USA) 72a90c0cd22214c4583cff695af0163b.md</tips>
+		<video>media/videos/Kirby's Adventure (USA) 808DD2F4850C8C786ACE8826A83B34CD.mp4</video>
+		<logo>media/wheels/Kirbys Adventure 2386c74a0db2196546fcd4a49aeba702.png</logo>
+		<manual>media/manuals/Kirbys Adventure 8a29a342d0a20d5d996e997c798e2a3c.pdf</manual>
+		<box>media/boxes/Kirbys Adventure 8711ba72518cf7139bdc50bdc976b250.png</box>
+		<image>media/images/Kirby's Adventure (USA) 93B0D2C2134E47DA72D1AC2EB1978FF7.png</image>
+		<desc>一切夢想之源的夢泉已經乾涸，導致夢境之地的一切夢想都消失了。現在輪到卡比拯救夢想之地了！《卡比的冒險》是一款動作冒險橫向捲軸平台遊戲。身為粉紅色馬勃卡比，你將探索無數色彩繽紛的土地，並擊敗各種敵人。為了幫助他的旅程，卡比有能力吃掉敵人並將它們作為彈體吐出來。對於某些敵人，卡比可以捕獲他們的能力，例如獲得一把劍，發射激光，甚至在關卡中飛行。有七個不同的階段，每個階段分為多個級別，有時還包含幾個獎勵迷你遊戲。遊戲卡附有備用電池，無需密碼即可保存遊戲。</desc>
+		<rating>0.80</rating>
+		<licences>Kirby</licences>
+		<aliases>Kirby's Adventure(ss)</aliases>
+		<name>Kirby's Adventure 星之卡比大冒險</name>
+		<path>Kirby's Adventure (USA).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510145">
+		<hash>DD9F3727</hash>
+		<genre>Rhythm,Music and Dancing</genre>
+		<publisher>Open Source</publisher>
+		<developer>Deniiguess</developer>
+		<logo>media/wheels/taikones_title.png</logo>
+		<image>media/images/taikones_gameplay.png</image>
+		<desc>作者Deniiguess的開源專案，利用組合語言將人氣作品《太鼓之達人》移植至紅白機。巧妙藉由Namco163（N163）晶片擴充音源與記憶體空間，成功在復古硬體上還原街機般的節奏敲擊體驗。</desc>
+		<name>taiko_nes 太鼓達人紅白機ver1.1</name>
+		<path>taiko_nes_ver1.1.nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510124">
+		<hash>FAD06951</hash>
+		<region>us</region>
+		<players>1-2</players>
+		<genreid>2816</genreid>
+		<genre>Puzzle / Fall,Puzzle</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂</developer>
+		<releasedate>19901002T000000</releasedate>
+		<tips>media/tipsandtricks/Dr. Mario (USA) (Beta) (Between 1990-02-02 &amp; 1990-04-27, later) 87e3e08d4e675e88aca0b59db5474523.md</tips>
+		<video>media/videos/Dr. Mario (USA) (Beta) (Between 1990-02-02 &amp; 1990-04-27, later) 1AAEC64CB63725825544E040222448B1.mp4</video>
+		<logo>media/wheels/Dr. Mario 41cb2cbbb4690dbc98934de651ea1441.png</logo>
+		<manual>media/manuals/Dr. Mario 8ce289dd7fe59d27ab05f7d61cb1b5e2.pdf</manual>
+		<box>media/boxes/Dr. Mario 5b1ef6f7c12537a6f88d534379abef79.png</box>
+		<image>media/images/Dr. Mario (USA) (Beta) (Between 1990-02-02 &amp; 1990-04-27, later) B07C6339C9CA17686CE49F0384473F56.png</image>
+		<desc>在這款俄羅斯方塊風格的遊戲中，您扮演瑪莉歐醫生，他必須將不同顏色的藥丸扔到病毒上，以將其從瓶子中清除。每個藥丸被分成兩部分，每一面都有不同的顏色。將該顏色與病毒的顏色相匹配，病毒就會從瓶子中清除。遊戲包括普通模式、計時賽和兩人對戰模式，看看誰能清除最多的病毒。</desc>
+		<rating>0.75</rating>
+		<licences>Dr. Mario | Mario</licences>
+		<aliases>Dr. Mario(ss)</aliases>
+		<name>Dr. Mario 瑪莉歐醫生</name>
+		<path>Dr. Mario (USA) (Beta) (Between 1990-02-02 &amp; 1990-04-27, later).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1790618571">
+		<hash>E34FC4AF</hash>
+		<releasedate>20260928T180134</releasedate>
+		<image>media/images/ZZZ(notgame)NONGAME 190382c2b14ad7fed3705ebac1e3c37b.png</image>
+		<aliases>ZZZ(notgame):#NONGAME(ss)</aliases>
+		<name>ZZZ(notgame):#NONGAME</name>
+		<path>Nekketsu Koushinkyoku - Soreyuke Daiundoukai.nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>7A6E0454</hash>
+		<region>us</region>
+		<players>1-2</players>
+		<genreid>263</genreid>
+		<genre>Beat'em Up</genre>
+		<publisher>Acclaim Entertainment</publisher>
+		<developer>Technos Japan</developer>
+		<releasedate>19910202T000000</releasedate>
+		<video>media/videos/Double Dragon III - The Sacred Stones (USA) 51321EF2417C4B1E6039AEBDF0A0848D.mp4</video>
+		<logo>media/wheels/Double Dragon 3 - The Sacred Stones a0cc090ca6a7daa42b1085c2c9510b80.png</logo>
+		<manual>media/manuals/Double Dragon 3 - The Sacred Stones 1a751a5214fd37ecb0353cc38a3b6214.pdf</manual>
+		<box>media/boxes/Double Dragon 3 - The Sacred Stones 5695f65c7c4df0f930623d02469ea2ff.png</box>
+		<image>media/images/Double Dragon III - The Sacred Stones (USA) 2B33449365A6184829B62F97C626EDD2.png</image>
+		<desc>三部曲中的最後一款遊戲。比利和吉米李剛從武術訓練回來，就遇到了一位算命師。她告訴他們埃及有一個巨大的邪惡，這是他們迄今為止最強大的對手，以及羅塞塔石碑如何幫助他們。遊戲設有武器商店，比利和吉米可以在那裡購買能量提升、技巧、能量和額外生命來幫助他們完成任務。能量提升使比利和吉米的體型增加了一倍，增加了他們的傷害和攻擊範圍。角色圖形發生了變化，從卡通風格圖形轉向更逼真的角色。</desc>
+		<rating>0.80</rating>
+		<licences>Double Dragon</licences>
+		<aliases>Double Dragon 3 - The Sacred Stones(ss)</aliases>
+		<name>Double Dragon 3 - The Sacred Stones 雙截龍3-聖石</name>
+		<path>Double Dragon III - The Sacred Stones (USA).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>CECFBF92</hash>
+		<region>us</region>
+		<players>1-2</players>
+		<genreid>263</genreid>
+		<genre>Beat'em Up</genre>
+		<publisher>Acclaim Entertainment</publisher>
+		<developer>Technos Japan</developer>
+		<releasedate>19900102T000000</releasedate>
+		<tips>media/tipsandtricks/Double Dragon II - The Revenge (USA) 1569ceba7ec20add40b5ff30a47f5f86.md</tips>
+		<video>media/videos/Double Dragon II - The Revenge (USA) 596CA4F8AB299A25942B3C71AAD10835.mp4</video>
+		<logo>media/wheels/Double Dragon 2 - The Revenge 890f8146ad9bb0941e3cc30d651bc794.png</logo>
+		<manual>media/manuals/Double Dragon 2 - The Revenge bf8730f60e254308bf81535bf4f31d83.pdf</manual>
+		<box>media/boxes/Double Dragon 2 - The Revenge 446b3030effa3522bb518bb50fc0e26c.png</box>
+		<image>media/images/Double Dragon II - The Revenge (USA) FEFFEE241D1D82BEDFD530D6973A705D.png</image>
+		<desc>在第一部《雙截龍》遊戲中，瑪麗安被比利和吉米·李從黑武士團伙的手中救出，但現在黑武士團夥為了報復他們早期的失敗而殺死了她。龍之隊現在必須執行一項任務，為她報仇，並第二次也是最後一次擊敗黑武士。《雙龍II》本質上是第一款遊戲的改良版。除了提供更新的音訊和視覺效果以及新的陷阱、動作和敵人角色之外，它還放棄了傳統的拳擊和踢腿按鈕，轉而採用類似於原始Technos格鬥遊戲Renegade的定向攻擊系統。NES版有新的關卡、新的動作和插圖過場動畫，以及新的最終Boss和新的結局。與第一代不同，它提供了2人合作遊戲，並且可以選擇關閉友軍火力。</desc>
+		<rating>0.90</rating>
+		<licences>Double Dragon</licences>
+		<aliases>Double Dragon 2 - The Revenge(ss)</aliases>
+		<name>Double Dragon 2 - The Revenge 雙截龍2-復仇</name>
+		<path>Double Dragon II - The Revenge (USA).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>007D6A0D</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>263</genreid>
+		<genre>Beat'em Up</genre>
+		<publisher>Tradewest</publisher>
+		<developer>Technos Japan</developer>
+		<releasedate>19880602T000000</releasedate>
+		<tips>media/tipsandtricks/Double Dragon - Sou Setsu Ryuu (Japan) 478f53aeb63f6f09386d876cfe955e61.md</tips>
+		<video>media/videos/Double Dragon - Sou Setsu Ryuu (Japan) D4832273C32AE88B8906743337BEAA8F.mp4</video>
+		<logo>media/wheels/Double Dragon e81f4d908fad97279e047294c22fbbad.png</logo>
+		<manual>media/manuals/Double Dragon 59e0bcb434ed344a854165a3e56c93d1.pdf</manual>
+		<box>media/boxes/Double Dragon 0e0d21169cc2cdb2dadcba7eb4bf57f0.png</box>
+		<image>media/images/Double Dragon - Sou Setsu Ryuu (Japan) DAEC9DA3FE3DC56422A238611CACEB08.png</image>
+		<desc>《雙截龍》以後世界末日的紐約為背景，講述了比利李和吉米李這對雙胞胎兄弟接受雙節劍格鬥風格訓練的故事。他們共同管理一所小型武術訓練學校，教導學生自衛術。有一天，比利的女朋友瑪麗安在街上被「黑武士」綁架，「黑武士」是一個名叫威利的男子領導的野蠻街頭幫派。黑武士要求李氏兄弟公開他們的武術秘密，以換取瑪莉安的自由。李兄弟開始執行救援任務，粉碎黑武士並拯救瑪莉安。李氏兄弟必須使用他們所掌握的一切技術，從基本的拳打腳踢到刀槍不入的肘擊，以及他們手中的任何武器，必須追擊該團夥穿過城市貧民窟、工業區和森林，然後到達他們的藏身處，與大佬威利對峙。</desc>
+		<rating>0.75</rating>
+		<licences>Double Dragon</licences>
+		<aliases>Double Dragon(ss)</aliases>
+		<name>Double Dragon 雙截龍</name>
+		<path>Double Dragon - Sou Setsu Ryuu (Japan).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>8A96A3C4</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>256</genreid>
+		<genre>Shooter / Run and Gun,Shooter</genre>
+		<publisher>科拿米</publisher>
+		<developer>科拿米</developer>
+		<releasedate>19880202T000000</releasedate>
+		<tips>media/tipsandtricks/Contra (Japan) bcfd8e83d6cd7034cdab1efa179fbd6c.md</tips>
+		<video>media/videos/Contra (Japan) 0C73F8A4C9C2BF15F4D8EC175BEF5EC1.mp4</video>
+		<logo>media/wheels/Contra 9b1f890cbf270be0be82ef46a78fcfed.png</logo>
+		<manual>media/manuals/Contra 2e0df68653404aa2fc3097de1bcecee2.pdf</manual>
+		<box>media/boxes/Contra ebba789b94ffab8b11a87e32e45a7964.png</box>
+		<image>media/images/Contra (Japan) 8051096ECC8BC1F36F5DEF47E74BD0E9.png</image>
+		<desc>2631年，一顆小隕石落入位於紐西蘭海岸東北方20公里處的加盧加群島。兩年後，一個名為「紅隼」的恐怖組織佔領了該島，為外星人入侵做準備。地球海軍陸戰隊派出了兩名精銳的反叛部隊成員比爾·裡澤和蘭斯·比恩前去鎮壓恐怖分子。無論是比爾（玩家1）還是蘭斯（玩家2），玩家都必須到達每個階段的末尾，射擊視線中的一切，同時避免敵人的火力。玩家可以將他們的標準步槍升級為四種不同武器之一，包括強大的散彈。</desc>
+		<rating>0.80</rating>
+		<licences>Contra</licences>
+		<aliases>Contra(ss)</aliases>
+		<name>Contra 魂斗羅</name>
+		<path>Contra (Japan).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510240">
+		<hash>2B74B0DC</hash>
+		<region>jp</region>
+		<players>0</players>
+		<genreid>260</genreid>
+		<genre>Shoot'em Up</genre>
+		<publisher>Broke Studio</publisher>
+		<developer>許茶貓電子遊戲貿易公司</developer>
+		<releasedate>20241216T000000</releasedate>
+		<video>media/videos/Chouyoku Senki Estique_trail.mp4</video>
+		<logo>media/wheels/Chouyoku Senki Estique_wheel.png</logo>
+		<box>media/boxes/Chouyoku Senki Estique_box.png</box>
+		<image>media/images/Chouyoku Senki Estique_gameplay.png</image>
+		<desc>本作是以世界各大都市為主題的橫向捲軸射擊遊戲，全六關卡構成。20XX年，地球正遭受「異星人」的逐步侵蝕。他們首先控制了全球五大經濟都會的領導者，正穩步推進將地球據為己有的準備工作。率先察覺此野心的草壁博士，動用旗下「草壁企業」的資金，秘密研發出超可變型機器人「※艾斯提克-ESTIQUE」。然而在最終測試前夕，異星魔爪已伸向博士。
+(※)Eastern Super Technological Invincible Quick-actionable Ultimate Equipment = 東方超技術無敵高機動究極裝備
+
+身負重傷的草壁博士將地球最後的希望託付給趕來的孫女瑪莉和神秘女孩卡農⋯⋯
+飛翔吧！艾斯提克！裂開大地，貫穿蒼穹！！</desc>
+		<rating>0.85</rating>
+		<name>Chouyoku Senki Estique[fixed]超翼戰騎艾斯提克-畫面修復版</name>
+		<path>Chouyoku Senki Estique (J) (Unl) [Full Fixed].nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510124">
+		<hash>B412DBCA</hash>
+		<region>jp</region>
+		<players>0</players>
+		<genreid>260</genreid>
+		<genre>Shoot'em Up</genre>
+		<publisher>Broke Studio</publisher>
+		<developer>許茶貓電子遊戲貿易公司</developer>
+		<releasedate>20241216T000000</releasedate>
+		<video>media/videos/Chouyoku Senki Estique_trail.mp4</video>
+		<logo>media/wheels/Chouyoku Senki Estique_wheel.png</logo>
+		<box>media/boxes/Chouyoku Senki Estique_box.png</box>
+		<image>media/images/Chouyoku Senki Estique_gameplay.png</image>
+		<desc>本作是以世界各大都市為主題的橫向捲軸射擊遊戲，全六關卡構成。20XX年，地球正遭受「異星人」的逐步侵蝕。他們首先控制了全球五大經濟都會的領導者，正穩步推進將地球據為己有的準備工作。率先察覺此野心的草壁博士，動用旗下「草壁企業」的資金，秘密研發出超可變型機器人「艾斯提克-ESTIQUE」。然而在最終測試前夕，異星魔爪已伸向博士。
+
+身負重傷的草壁博士將地球最後的希望託付給趕來的孫女瑪莉和神秘女孩卡農⋯⋯
+飛翔吧！艾斯提克！裂開大地，貫穿蒼穹！！</desc>
+		<rating>0.85</rating>
+		<name>Chouyoku Senki Estique[god-mode]超翼戰騎艾斯提克-無敵版</name>
+		<path>Chouyoku Senki Estique (J) (Unl) [Full Fixed-God Mode].nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510144">
+		<hash>F599A07E</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>256</genreid>
+		<genre>Shooter</genre>
+		<publisher>Namcot</publisher>
+		<developer>Namco</developer>
+		<releasedate>19850909T000000</releasedate>
+		<video>media/videos/BattleCity (Japan) F03104ADC35CC0E7CE6CD025015C992F.mp4</video>
+		<logo>media/wheels/Battle City bf98e66c9122241f905cb60aa3c84f85.png</logo>
+		<manual>media/manuals/Battle City d824873f54c92b1236be5309081508e8.pdf</manual>
+		<box>media/boxes/Battle City 94857fec9d03038e9efc2234abb334e5.png</box>
+		<image>media/images/BattleCity (Japan) DFA1694C4B17B725E37669A8F522F734.png</image>
+		<desc>Namco的舊街機遊戲《坦克營》的改良版。摧毀不同的敵方坦克，同時努力讓它們遠離你的基地。當您摧毀20輛敵方坦克後，您將進入具有不同佈局的下一個關卡。每個關卡都有一些障礙，您可以利用它們來發揮自己的優勢。障礙物包括可以射擊的紅磚、高度裝甲的銀磚、水和冰。你從一輛基本坦克開始遊戲，你可以一點一點地增強它的性能。NES遊戲包含建造模式，因此當您玩完所有35個原始關卡後，您可以建立自己的關卡。</desc>
+		<rating>0.75</rating>
+		<aliases>Battle City(ss)</aliases>
+		<name>Battle City 坦克大決戰</name>
+		<path>BattleCity (Japan).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510122">
+		<hash>E14A7971</hash>
+		<region>us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Sunsoft 太陽電子</publisher>
+		<developer>Sunsoft 太陽電子</developer>
+		<releasedate>19911202T000000</releasedate>
+		<tips>media/tipsandtricks/Batman - Return of the Joker (USA) 7dc2e2ff37c2ed6ac5325ae2d352e891.md</tips>
+		<video>media/videos/Batman - Return of the Joker (USA) 1A400BD1D9E62D8F92462915533C2232.mp4</video>
+		<logo>media/wheels/Batman - Return Of The Joker 01c2562d1b67b9496693ece3743b442a.png</logo>
+		<manual>media/manuals/Batman - Return Of The Joker c1ed6736efbeae8750b0f45e34f30050.pdf</manual>
+		<box>media/boxes/Batman - Return Of The Joker 8a99448dfd0e00978a6e4bab1eb4510f.png</box>
+		<image>media/images/Batman - Return of the Joker (USA) 07E9CD9781B1BEF9CBE6F340C97F2ED4.png</image>
+		<desc>小丑再次出現在SunSoft的NES原版續作中。小丑不知何故再次逃離了阿卡漢瘋人院，蝙蝠俠必須在七個階段與他戰鬥，以恢復高譚市的和平。蝙蝠俠默認攜帶手套射擊基本子彈。這可以透過位於整個關卡中的盒子中的武器強化進行升級，從而可以使用尋的武器和能量武器。每個升級武器都可以為二次攻擊充電，每種武器的情況不同。蝙蝠俠還有一個對付大多數敵人和一些首領的幻燈片。
+
+Boss戰引入了一種系統，其中生命是透過點而不是刻度線或條來衡量的。在這些部分中，蝙蝠俠的生命值顯著提高，並且在與這些更強大的敵人戰鬥時可以承受更多的打擊。關卡包括雪景、移動的火車、軍事基地和下水道。兩個關卡要求您奔跑並躲避爆炸，同時車輛在後台保持速度。有些關卡還讓蝙蝠俠啟動噴射背包並透過短篇橫向捲軸射擊遊戲進行遊戲。該遊戲是少數不直接基於電影或電視劇的蝙蝠俠遊戲之一。</desc>
+		<rating>0.75</rating>
+		<licences>Batman</licences>
+		<aliases>Batman - Return Of The Joker(ss)</aliases>
+		<name>Batman - Return Of The Joker 蝙蝠俠-小丑歸來</name>
+		<path>Batman - Return of the Joker (USA).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1789510147">
+		<hash>2E93CE72</hash>
+		<region>jp</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>科拿米</publisher>
+		<developer>科拿米</developer>
+		<releasedate>19891222T000000</releasedate>
+		<tips>media/tipsandtricks/Akumajou Densetsu (Japan) 0660273d91265cf1e3a53d440364370c.md</tips>
+		<video>media/videos/Akumajou Densetsu (Japan) 2AEFB2946AA500E4118A8F0A51B25A5E.mp4</video>
+		<logo>media/wheels/Castlevania 3 - Draculas Curse e0bb24c88d6447fd86963ca8448b62c2.png</logo>
+		<manual>media/manuals/Castlevania 3 - Draculas Curse 18e5d8bd752dd3d627d88c5c46914169.pdf</manual>
+		<box>media/boxes/Castlevania 3 - Draculas Curse c4e8a4dd7a5469364fed398984d8607f.png</box>
+		<image>media/images/Akumajou Densetsu (Japan) 4FC32A902B754B048727CB88AFFBD118.png</image>
+		<desc>故事發生在初代惡魔城（西蒙大冒險）215年前，西元1476的歐洲東部瓦拉幾亞（Wallachia），德古拉伯爵因妻子（Lisa）遭魔女狩獵燒死，在極度絕望與憤恨下，他向邪神獻祭，召喚出無數吸血鬼與惡魔大軍，對整片歐洲大陸展開血腥報復。毫無還手之力的東正教會懇求被驅逐的吸血鬼獵人一族-貝爾蒙多家族阻止有史以來最強大的邪惡軍隊，消滅這支由沼澤巨龍、骷髏殺手和不死軍團組成的軍團。你扮演拉爾夫·貝爾蒙多這個角色─西蒙的祖先，手持家族世代相傳的聖鞭「吸血鬼殺手」，獨自一人踏上了前往惡魔城的討伐之路。
+    
+本作有驚人的「多路線分支」與「多戰友切換」系統，被公認為紅白機8位元時代的極致巔峰之作，劇情上也是承先啟後之作。遊戲共15個關卡（單次通關只會經歷10關），3個可選戰友-魔法師Sypha,Lisa之子Alucard,海盜Grant，最終結局會根據玩家最後帶領哪一位戰友（或孤身一人）而產生四種不同的變化。</desc>
+		<rating>0.90</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania 3 - Dracula's Curse(ss)</aliases>
+		<name>Castlevania 3 - Dracula's Curse 惡魔城3-德古拉的詛咒</name>
+		<path>Akumajou Densetsu (Japan).nes</path>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<hash>F7346E46</hash>
+		<name>Nekketsu Monogatari</name>
+		<path>Nekketsu Monogatari.nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1790330974">
+		<hash>F3FFFC7A</hash>
+		<region>us</region>
+		<players>1-2</players>
+		<genreid>1537</genreid>
+		<genre>Racing, Driving</genre>
+		<publisher>Codemasters Software</publisher>
+		<developer>Codemasters Software</developer>
+		<releasedate>19910101T000000</releasedate>
+		<tips>media/tipsandtricks/Micro Machines 7bf74ccfe45fe011964a995a77d0cfa8.md</tips>
+		<video>media/videos/Micro Machines 864ef83ca560816c922b879e2a946ec4.mp4</video>
+		<logo>media/wheels/Micro Machines 35e9594c74fdb54b3f831e2f37e66376.png</logo>
+		<manual>media/manuals/Micro Machines 1c378a4fa2887dbf65e3079c7ed3e542.pdf</manual>
+		<box>media/boxes/Micro Machines 9d198d9dbb3ba0322170165f3feb95d7.png</box>
+		<image>media/images/Micro Machines d6cdf11dd9c08c41a6d9c0aad171f654.png</image>
+		<desc>NES平台的《微型機械》有著極為獨特的地位。雖然它是非官方授權的「盜版卡匣（Unlicensed）」，但其技術完成度高到不可思議，在國外遊戲媒體IGN的「史上前百大NES遊戲」 評選中位居第31名，是名次最高的非授權遊戲。
+    
+密技：進入遊戲，開始進行第一場的排位賽（Qualifying Race）。不論你跑第幾名（即使失敗也沒關係），在賽車衝過終點線、畫面變色之前，立刻用1P手把同時按住：【上+B+Select】。持續按住這三個鍵不要放開，當畫面完全變色切換時，再按下【Start】鍵。成功的話，畫面會跳轉到一個隱藏的製作人員名單畫面（Credits）。接著按下【Start】退出名單回到遊戲，你會發現你的起始生命值直接從原本的3隻命變成6隻命，並且順利晉級下一關！</desc>
+		<rating>0.70</rating>
+		<licences>Micro Machines</licences>
+		<aliases>Micro Machines(ss)</aliases>
+		<name>Micro Machines 微型機械</name>
+		<path>Micro Machines.nes</path>
+	</game>
+	<game source="Recalbox" timestamp="1790330981">
+		<hash>45705BDC</hash>
+		<region>us</region>
+		<players>1-2</players>
+		<genreid>1537</genreid>
+		<genre>Racing, Driving</genre>
+		<publisher>Codemasters Software</publisher>
+		<developer>Codemasters Software</developer>
+		<releasedate>19910101T000000</releasedate>
+		<tips>media/tipsandtricks/Micro Machines(Aladdin) 7bf74ccfe45fe011964a995a77d0cfa8.md</tips>
+		<video>media/videos/Micro Machines 864ef83ca560816c922b879e2a946ec4.mp4</video>
+		<logo>media/wheels/Micro Machines 35e9594c74fdb54b3f831e2f37e66376.png</logo>
+		<manual>media/manuals/Micro Machines 1c378a4fa2887dbf65e3079c7ed3e542.pdf</manual>
+		<box>media/boxes/Micro Machines 9d198d9dbb3ba0322170165f3feb95d7.png</box>
+		<image>media/images/Micro Machines d6cdf11dd9c08c41a6d9c0aad171f654.png</image>
+		<desc>NES平台的《微型機械》有著極為獨特的地位。雖然它是非官方授權的「盜版卡匣,Unlicensed」，但其技術完成度高到不可思議，在國外遊戲媒體IGN的「史上百大NES遊戲」第31名，是名次最高的非授權遊戲。這一個阿拉丁版已經修正貼圖閃爍和極度黑色彩安全性，是最完整且安全的最終版。
+    
+密技：進入遊戲，開始進行第一場的排位賽（Qualifying Race）。不論你跑第幾名（即使失敗也沒關係），在賽車衝過終點線、畫面變色之前，立刻用1P手把同時按住：【上+B+Select】。持續按住這三個鍵不要放開，當畫面完全變色切換時，再按下【Start】鍵。成功的話，畫面會跳轉到一個隱藏的製作人員名單畫面（Credits）。接著按下【Start】退出名單回到遊戲，你會發現你的起始生命值直接從原本的3隻命變成6隻命，並且順利晉級下一關！</desc>
+		<rating>0.70</rating>
+		<licences>Micro Machines</licences>
+		<aliases>Micro Machines(ss)</aliases>
+		<name>Micro Machines 微型機械</name>
+		<path>Micro Machines(Aladdin).nes</path>
+	</game>
+</gameList>

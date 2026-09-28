@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1789923819">
+		<hash>452A679E</hash>
+		<developer>Pigsy</developer>
+		<image>media/images/pigsy_MD_SOTN_DEMO.png</image>
+		<desc>PS1惡魔城-月下夜想曲的fan-demake MD版，2025年聖誕節展示用ROM</desc>
+		<name>pigsy sotn xmas 2025 pigsy-MD月下夜想曲展示</name>
+		<path>pigsy sotn xmas 2025.bin</path>
+	</game>
+	<game source="Recalbox" timestamp="1789923782">
+		<hash>95C0D221</hash>
+		<players>1-2</players>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>SEGA</publisher>
+		<developer>SEGA</developer>
+		<releasedate>19900424T000000</releasedate>
+		<tips>media/tipsandtricks/Michael Jackson's Moonwalker (World) 1d28b87469be140c65724cf3e89a005c.md</tips>
+		<video>media/videos/Michael Jacksons Moonwalker 3be51d0b015cc30172b2d366b4157155.mp4</video>
+		<logo>media/wheels/Michael Jacksons Moonwalker cb5ad60c50629e59fb59ac621f1c1ab3.png</logo>
+		<manual>media/manuals/Michael Jacksons Moonwalker 181b8ef4fbab089723d24b5ed3668aff.pdf</manual>
+		<box>media/boxes/Michael Jacksons Moonwalker a2293083b136d3474071b4ef4db4e236.png</box>
+		<image>media/images/Michael Jacksons Moonwalker a3ce3939b412de02a9afdc15d0bca064.png</image>
+		<desc>MD版《麥可·傑克森的月球漫步》的原型版（Prototype，日期為1990年4月24日，於2018年流出）與最終的市售正式版相比，最大的差異在於第三關的背景音樂使用了完整〈Thriller〉、第六關（最終關卡）是變身懸崖大砲對決但未完成導致不能破關，以及破關時的電玩製作名譽與工作人員名單有別。</desc>
+		<name>moonwalker prototype 外星戰將原型版</name>
+		<path>moonwalker prototype.bin</path>
+	</game>
+	<game source="Recalbox" timestamp="1789923793">
+		<hash>4EB766E3</hash>
+		<developer>Akeruz/Street-Fighter---Sega-Genesis</developer>
+		<logo>media/wheels/street fighter1_MD_DEMO_wheel.png</logo>
+		<image>media/images/street fighter1_MD_DEMO_gameplay.png</image>
+		<desc>主要由民間獨立開發者Gamerisk、Ray_Castello以及Titan等人組成的團隊進行開發。他們嘗試將1987年的大型電玩街機畫面與系統，硬塞進MD規格的卡帶裡。團隊重新編寫了碰撞與輸入判定，出招變得像《快打旋風2》一樣流暢且符合直覺，並且直接讓玩家可以自由選擇街機裡的敵方角色，例如：激（Geki）、烈（Retsu）、李（Lee）、元（Gen）、鳥人（Birdie）、鷹（Eagle）等</desc>
+		<name>street fighter 1 DEMO 快打旋風1代MD試玩版</name>
+		<path>street fighter 1 DEMO megadrive.bin</path>
+	</game>
+	<game source="Recalbox" timestamp="1789923817">
+		<hash>7FDAB038</hash>
+		<region>eu,us</region>
+		<players>1-2</players>
+		<genreid>263</genreid>
+		<genre>Beat'em Up</genre>
+		<publisher>SEGA</publisher>
+		<developer>SEGA</developer>
+		<releasedate>19940601T000000</releasedate>
+		<video>media/videos/Streets Of Rage 3 8b0ab0d5babab93cca7f00f08bb54c27.mp4</video>
+		<logo>media/wheels/Streets Of Rage 3 92fdc2b91519b85c00d2960d1f5bc0e7.png</logo>
+		<manual>media/manuals/Streets Of Rage 3 da5ed371a7dae92fcb2fba0998821fd2.pdf</manual>
+		<box>media/boxes/Streets Of Rage 3 2449f4a1b5a34b4c0436b034e40df62f.png</box>
+		<image>media/images/Streets Of Rage 3 ac516b2623811761680dbe99995dbb3c.png</image>
+		<desc>在日版《怒之鐵拳3》中橡木城發生「拉克辛（Laxine）放射性元素」核彈爆炸事件約3萬人死亡，約8萬人受傷。國防部部長Petrov神秘失蹤。炸彈被Mr.X遍佈利馬各國。利馬各國之間的戰爭很可能就此發生。Blaze得知這兩件事後，給在辛迪加特的Zan博士寫信。於是，Axel、Blaze、Zan、Sammy這四個人開始行動，整治Mr.X，制止悲劇的再一次發生。
+而美版《怒之鐵拳3》中，警察局局長Petrov失蹤，Blaze寫信請求Axel幫助。於是，Axel、Blaze、Zan、Sammy這四個人開始行動，一邊拆除城市各處的炸彈，一邊對抗Mr.X的陰謀並拯救局長。
+共有3位隱藏角色可解鎖使用：袋鼠「維克多」、前作反派-死神希瓦、老金屬生化人-阿修(日版限定)。</desc>
+		<rating>0.80</rating>
+		<licences>Streets of Rage</licences>
+		<aliases>Streets Of Rage 3(ss)</aliases>
+		<name>Streets of Rage 3 格鬥三人組3</name>
+		<path>Streets of Rage 3.SMD</path>
+	</game>
+	<game source="Recalbox" timestamp="1789927931">
+		<hash>11CE1F9E</hash>
+		<region>wor</region>
+		<players>1-2</players>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>SEGA</publisher>
+		<developer>SEGA</developer>
+		<releasedate>19901001T000000</releasedate>
+		<tips>media/tipsandtricks/Michael Jackson's Moonwalker (World) (Rev A) 1d28b87469be140c65724cf3e89a005c.md</tips>
+		<video>media/videos/Michael Jacksons Moonwalker 3be51d0b015cc30172b2d366b4157155.mp4</video>
+		<logo>media/wheels/Michael Jacksons Moonwalker cb5ad60c50629e59fb59ac621f1c1ab3.png</logo>
+		<manual>media/manuals/Michael Jacksons Moonwalker 181b8ef4fbab089723d24b5ed3668aff.pdf</manual>
+		<box>media/boxes/Michael Jacksons Moonwalker a2293083b136d3474071b4ef4db4e236.png</box>
+		<image>media/images/Michael Jacksons Moonwalker a3ce3939b412de02a9afdc15d0bca064.png</image>
+		<desc>改編自1988年麥可·傑克森的自傳式音樂電影《外星戰將》。劇情圍繞在麥可（Michael）要從大反派Mr.Big手中，救出一群被綁架的無辜兒童。在救出所有孩子後，麥可一路追擊Mr.Big到外星荒漠與基地。此時，流星的力量讓麥可進化，他化身為巨大機器人與太空船，在太空中與Mr.Big的最終兵器展開激烈的雷射砲火對決。最後成功消滅邪惡組織，拯救了全人類的未來。
+    
+正式修正版因為版權問題把音樂Thriller替換為《Another Part of Me》，最後變身和初版一樣是太空船空戰。</desc>
+		<rating>0.75</rating>
+		<licences>Michael Jackson</licences>
+		<aliases>Michael Jackson's Moonwalker(ss)</aliases>
+		<name>Michael Jackson's Moonwalker外星戰將-修正版</name>
+		<path>Michael Jackson's Moonwalker (World) (Rev A).md</path>
+	</game>
+	<game source="Recalbox" timestamp="1789923787">
+		<hash>91B57D2B</hash>
+		<region>jp</region>
+		<genreid>263</genreid>
+		<genre>Platform / Fighter Scrolling,Platform</genre>
+		<publisher>柯拿米</publisher>
+		<developer>柯拿米</developer>
+		<releasedate>19940318T000000</releasedate>
+		<tips>media/tipsandtricks/Akumajou Dracula - Vampire Killer (Japan) 45ec8b098d6aac8a7e9a3abefacc5519.md</tips>
+		<video>media/videos/Castlevania - The New Generation e156ed14182ec78671836785681f2bd4.mp4</video>
+		<logo>media/wheels/Castlevania - The New Generation cd5b06d6b794cf06ce14ddfe23a33f60.png</logo>
+		<manual>media/manuals/Castlevania - The New Generation 04e6d3118ca6adf4c2812c0fa4870d81.pdf</manual>
+		<box>media/boxes/Castlevania - The New Generation 31328e894f4ad8754e2420ac151061b6.png</box>
+		<image>media/images/Castlevania - The New Generation 14f9078ce422a7b8499d4936d46436ef.png</image>
+		<desc>故事背景設定在第一次世界大戰時期1917年的歐洲，被誤打誤撞施用黑魔法復活了的德古拉的姪女——伊莉莎白·巴特麗伯爵夫人暗中引發了WW1要用「死者靈魂」作為祭品復活德古拉。此時，兩位年輕人挺身而出，誓言阻止德古拉重返人間。關卡打破以往只在德古拉城堡的限制，玩家會前往羅馬競技場、比薩斜塔、凡爾賽宮等歐洲著名地標。首次提供兩位風格完全不同的角色供玩家選擇：約翰·莫里斯（John Morris）：貝爾蒙特家族分支的後裔，昆西·莫里斯之子，使用經典的聖鞭。他的鞭子可以斜向揮動，甚至能抓取天花板進行空中盪躍。艾瑞克·勒卡德（Eric Lecarde）：為了復仇而戰的西班牙青年，使用妖槍阿魯卡多（由Alucard打造）。他的攻擊範圍大、可八方向出招，還能利用長槍進行高跳。</desc>
+		<rating>0.90</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania - The New Generation(ss)</aliases>
+		<name>Akumajou Dracula : Vampire Killer 惡魔城MD-吸血鬼殺手</name>
+		<path>Akumajou Dracula - Vampire Killer (Japan).md</path>
+	</game>
+	<game source="Recalbox" timestamp="1789925575">
+		<hash>FB1EA6DF</hash>
+		<region>us</region>
+		<genreid>263</genreid>
+		<genre>Platform / Fighter Scrolling,Platform</genre>
+		<publisher>柯拿米</publisher>
+		<developer>柯拿米</developer>
+		<releasedate>19940317T000000</releasedate>
+		<tips>media/tipsandtricks/Castlevania - Bloodlines (US) (1994) (Action Platform) (Sega Genesis) 45ec8b098d6aac8a7e9a3abefacc5519.md</tips>
+		<video>media/videos/Castlevania - The New Generation e156ed14182ec78671836785681f2bd4.mp4</video>
+		<logo>media/wheels/Castlevania - The New Generation b5b97176d99c3e48c1477681623c3fd8.png</logo>
+		<manual>media/manuals/Castlevania - The New Generation daa7d1fed5078befab120544f3e0b287.pdf</manual>
+		<box>media/boxes/Castlevania - The New Generation e574bc7459b9f4898fd067ec7e5bdc6d.png</box>
+		<image>media/images/Castlevania - The New Generation 45b1aa81957fb7ff2069107506108285.png</image>
+		<desc>故事背景設定在第一次世界大戰時期1917年的歐洲，被誤打誤撞施用黑魔法復活了的德古拉的姪女——伊莉莎白·巴特麗伯爵夫人暗中引發了WW1要用「死者靈魂」作為祭品復活德古拉。此時，兩位年輕人挺身而出，誓言阻止德古拉重返人間。關卡打破以往只在德古拉城堡的限制，玩家會前往羅馬競技場、比薩斜塔、凡爾賽宮等歐洲著名地標。首次提供兩位風格完全不同的角色供玩家選擇：約翰·莫里斯（John_Morris）：貝爾蒙特家族分支的後裔，昆西·莫里斯之子，使用經典的聖鞭。他的鞭子可以斜向揮動，甚至能抓取天花板進行空中盪躍。艾瑞克·勒卡德（Eric_Lecarde）：為了復仇而戰的西班牙青年，使用妖槍阿魯卡多之矛。他的攻擊範圍大、可八方向出招，還能利用長槍進行高跳。</desc>
+		<rating>0.90</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania - The New Generation(ss)</aliases>
+		<name>Castlevania : Bloodlines 惡魔城MD-血族</name>
+		<path>Castlevania - Bloodlines (US) (1994) (Action Platform) (Sega Genesis).md</path>
+	</game>
+	<game source="Recalbox" timestamp="1789927913">
+		<hash>6A70791B</hash>
+		<region>wor</region>
+		<players>1-2</players>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>SEGA</publisher>
+		<developer>SEGA</developer>
+		<releasedate>19900824T000000</releasedate>
+		<tips>media/tipsandtricks/Michael Jackson's Moonwalker (World) 1d28b87469be140c65724cf3e89a005c.md</tips>
+		<video>media/videos/Michael Jacksons Moonwalker 3be51d0b015cc30172b2d366b4157155.mp4</video>
+		<logo>media/wheels/Michael Jacksons Moonwalker cb5ad60c50629e59fb59ac621f1c1ab3.png</logo>
+		<manual>media/manuals/Michael Jacksons Moonwalker 181b8ef4fbab089723d24b5ed3668aff.pdf</manual>
+		<box>media/boxes/Michael Jacksons Moonwalker a2293083b136d3474071b4ef4db4e236.png</box>
+		<image>media/images/Michael Jacksons Moonwalker a3ce3939b412de02a9afdc15d0bca064.png</image>
+		<desc>改編自1988年麥可·傑克森的自傳式音樂電影《外星戰將》。劇情圍繞在麥可（Michael）要從大反派Mr.Big手中，救出一群被綁架的無辜兒童。在救出所有孩子後，麥可一路追擊Mr.Big到外星荒漠與基地。此時，流星的力量讓麥可進化，他化身為巨大機器人與太空船，在太空中與Mr.Big的最終兵器展開激烈的雷射砲火對決。最後成功消滅邪惡組織，拯救了全人類的未來。
+這個初版的墓園關卡旋律片段BGM是Thriller，最後變身是太空船空戰。
+
+
+
+</desc>
+		<rating>0.75</rating>
+		<licences>Michael Jackson</licences>
+		<aliases>Michael Jackson's Moonwalker(ss)</aliases>
+		<name>Michael Jackson's Moonwalker 外星戰將</name>
+		<path>Michael Jackson's Moonwalker (World).md</path>
+	</game>
+	<game source="Recalbox" timestamp="1790330857">
+		<hash>B3ABB15E</hash>
+		<region>eu</region>
+		<players>1-8</players>
+		<genreid>1537</genreid>
+		<genre>Racing, Driving</genre>
+		<publisher>Codemasters</publisher>
+		<developer>Supersonic Software</developer>
+		<releasedate>19961001T000000</releasedate>
+		<video>media/videos/Micro Machines - Military d8a0556cff82a0a22e7facd6c12e6dde.mp4</video>
+		<logo>media/wheels/Micro Machines - Military fb2503c7fe4d7d7ea8e46a93b5b08856.png</logo>
+		<manual>media/manuals/Micro Machines - Military af9d25ac5f27017da32ee88a73f00a6f.pdf</manual>
+		<box>media/boxes/Micro Machines - Military 77850394dceb4d12e879ca733244bc44.png</box>
+		<image>media/images/Micro Machines - Military 13f220960356b627b61d3efc5e1985fa.png</image>
+		<desc>微型機械軍事版僅在歐規PAL區推出。這款作品打破常規，首度在車輛上實裝了飛彈與機槍等武器。玩家可以一邊開著坦克、軍用吉普車或攻擊直升機，一邊把對手轟出廚房餐桌或浴缸賽道。卡匣配備「J-Cart」——本體上內建兩個手把插孔。
+    
+This entry in the Micro Machines series flirts with a military theme. Using a top-down view, you race on different scaled-down tracks such as a pond, a kitchen table, a workbench, in the garden, .... The theme is reflected in the vehicles (helicopters, speedboats, tanks, supply trucks...), as well as in the music.
+
+Up to 16 players can participate through the hot-seat party mode, but 8 racers can race simultaneously using the J-Cart and by sharing a part of the joypad. There are different game types, such as regular races (challenges), time trials, and battle arenas, in which you have to survive for a set amount of time while enemy vehicles charge. Other players can be shot to slow them down.
+</desc>
+		<rating>0.85</rating>
+		<licences>Micro Machines</licences>
+		<aliases>Micro Machines - Military(ss)</aliases>
+		<name>Micro Machines : Military 微型機械-軍事版</name>
+		<path>Micro Machines Military.md</path>
+	</game>
+	<game source="Recalbox" timestamp="1790330889">
+		<hash>23319D0D</hash>
+		<region>eu</region>
+		<players>1-8</players>
+		<genreid>1537</genreid>
+		<genre>Racing, Driving</genre>
+		<publisher>Codemasters</publisher>
+		<developer>Supersonic Software</developer>
+		<releasedate>19950701T000000</releasedate>
+		<tips>media/tipsandtricks/Micro Machines Turbo Tournament 96 154732cb5904fe1f9a933f9ddce583b1.md</tips>
+		<video>media/videos/Micro Machines - Turbo Tournament 96 7c05feb629f314e8bb6e3fb5686ae7cc.mp4</video>
+		<logo>media/wheels/Micro Machines - Turbo Tournament 96 16ea21143b09e7961f1667fa0446c88d.png</logo>
+		<manual>media/manuals/Micro Machines - Turbo Tournament 96 b703ff18cc407351715436b4ff619041.pdf</manual>
+		<box>media/boxes/Micro Machines - Turbo Tournament 96 d4267ec70f0ad34eece975481d0f098a.png</box>
+		<image>media/images/Micro Machines - Turbo Tournament 96 42885c85d9cf4174a7bb8f5d6098d6e2.png</image>
+		<desc>微型機械'96內建了「地圖編輯器」，2代基礎上的終極強化版，「2D俯視微型賽車的最高傑作」，大幅增加了新載具（如氣墊船、直升機），每種車的操作手感與慣性截然不同，速度感與流暢度完勝超任（SNES）版。卡匣配備「J-Cart」——本體上內建兩個手把插孔。
+    
+Micro Machines: Turbo Tournament 96 is a sequel to Micro Machines 2 and although the gameplay and the typical top-down view still remain the same, this fun racing game offers a great number of new features.
+
+Besides Challenge-Race, Head to Head-Race, League-Race, Time Trial Challenge-Race and Time Trial-Race, an outstanding Multiplayer Mode is included with the J-Cart. Just plug two additional joypads into the cartridge slots and up to 8 (!) players can race simultaneously on the same track (always two players sharing one pad). With an included Construction Kit, you can even create own tracks and store them. Up to nine tracks can be saved.
+</desc>
+		<rating>0.90</rating>
+		<licences>Micro Machines</licences>
+		<aliases>Micro Machines - Turbo Tournament '96(ss)</aliases>
+		<name>Micro Machines : Turbo Tournament 96 微型機械'96</name>
+		<path>Micro Machines Turbo Tournament 96.md</path>
+	</game>
+</gameList>

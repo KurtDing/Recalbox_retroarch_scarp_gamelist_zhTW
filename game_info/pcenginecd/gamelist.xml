@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1790598711">
+		<hash>61B10A30</hash>
+		<region>jp</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Telenet</publisher>
+		<developer>Shin-Nihon Laser Soft</developer>
+		<releasedate>19900907T000000</releasedate>
+		<video>media/videos/Valis 3 1a049bd32597314989296cba9685b632.mp4</video>
+		<logo>media/wheels/Valis 3 f060fa6616a75d5051ebe53a645d0e6a.png</logo>
+		<manual>media/manuals/Valis 3 8921c094efae27d519825d7dcf293d84.pdf</manual>
+		<box>media/boxes/Valis 3 50dfaeeab855d77f69e4284ca197c4df.png</box>
+		<image>media/images/Valis 3 091f05133981e2b8025e8f2c1915e27f.png</image>
+		<desc>暗黑界正面臨毀滅危機，魔王「葛梅斯」企圖侵略人類與夢幻界，三位背負不同命運的少女攜手反擊。首度引入隨時切換3位角色的機制。三人在武器（優子的聖劍、麗奈的魔法追蹤彈、香織的長鞭）與法術上完全不同，讓關卡攻略的豐富度與策略性達到最高點。</desc>
+		<rating>0.75</rating>
+		<licences>Valis</licences>
+		<aliases>Valis 3(ss)</aliases>
+		<name>Valis III 夢幻戰士 III</name>
+		<path>Valis III (Japan).chd</path>
+	</game>
+	<game source="Recalbox" timestamp="1790598679">
+		<hash>D2257F54</hash>
+		<region>jp</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Telenet</publisher>
+		<developer>Riot</developer>
+		<releasedate>19920319T000000</releasedate>
+		<video>media/videos/Mugen Senshi Valis - The Legend Of A Fantasm Soldier 2d63d0a323a853f7127d6719e0fe0f63.mp4</video>
+		<logo>media/wheels/Mugen Senshi Valis - The Legend Of A Fantasm Soldier e3408a9a82d8f60d63be45bf53973572.png</logo>
+		<manual>media/manuals/Mugen Senshi Valis - The Legend Of A Fantasm Soldier 8357503a2d460a9d0139a350c1322a72.pdf</manual>
+		<box>media/boxes/Mugen Senshi Valis - The Legend Of A Fantasm Soldier e1bfe5be1102e47171972ed60e594d24.png</box>
+		<image>media/images/Mugen Senshi Valis - The Legend Of A Fantasm Soldier e832922f2adb4dee37ae06e38996e1b3.png</image>
+		<desc>夢幻戰士初代PC Engine CD-ROM2重製版。傳說的起點，麻生優子首度拿起瓦利斯聖劍，擊敗惡魔君王羅格雷斯，但也親手擊敗了被洗腦的摯友麗子。開創「清涼鎧甲」始祖，在1986年以「穿著水手服的女高中生拿著聖劍，變身後變成性感比基尼鎧甲」作為最大招牌，在保守的電玩界引爆極大話題，直接啟蒙並影響往後30年日本動漫與遊戲的女角設計。加入了大容量的精美過場動畫與真人聲優配音，在那個還是電子音效與像素方塊的年代，讓無數玩家大受震撼，奠定它的殿堂級地位。</desc>
+		<rating>0.80</rating>
+		<licences>Valis</licences>
+		<aliases>Mugen Senshi Valis - The Legend Of A Fantasm Soldier(ss)</aliases>
+		<name>Mugen Senshi Valis - The Legend Of A Fantasm Soldier</name>
+		<path>Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).chd</path>
+	</game>
+</gameList>

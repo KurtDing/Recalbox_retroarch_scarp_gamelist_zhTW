@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1789847978">
+		<hash>ECE42D0E</hash>
+		<region>jp</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>Capcom</publisher>
+		<developer>Inti Creates</developer>
+		<releasedate>20050421T000000</releasedate>
+		<video>media/videos/Mega Man Zero 4 9e1eb889980180e785990fc9aef76ac8.mp4</video>
+		<logo>media/wheels/Mega Man Zero 4 4c9cfb713b67d18214b6708b88ad3cc2.png</logo>
+		<manual>media/manuals/Mega Man Zero 4 2e76589736a8ab3bd3cdedbbd7fdc67f.pdf</manual>
+		<box>media/boxes/Mega Man Zero 4 795942b98bc38b0733cf3d636831a7d7.png</box>
+		<image>media/images/Mega Man Zero 4 9da1cf43a3dbf1b471683e89f6958e63.png</image>
+		<desc>The Zero Knuckle... the baddest new tool in Zero's arsenal lets you steal enemies' weapons and use them in battle. Employ this along with countless other cool moves to fight the Neo Arcadian army, defeat the evil Dr. Weil and help the caravan of humans reach the peace and security of Area Zero.</desc>
+		<rating>0.80</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man Zero 4(ss)</aliases>
+		<name>Rockman Zero 4 洛克人Z4</name>
+		<path>Rockman Zero 4 (Japan).gba</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853879">
+		<hash>FF2A67B1</hash>
+		<region>jp</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>Capcom</publisher>
+		<developer>Inti Creates</developer>
+		<releasedate>20020426T000000</releasedate>
+		<video>media/videos/Mega Man Zero d6d2852ff04e374d833dd76efe984b55.mp4</video>
+		<logo>media/wheels/Mega Man Zero 42ad3097c8e7274fbdac92ebf1675b91.png</logo>
+		<manual>media/manuals/Mega Man Zero 61157ef10d1449094a60e55e014d6ca2.pdf</manual>
+		<box>media/boxes/Mega Man Zero 5739d757a2da0b374d000dd00c945dc3.png</box>
+		<image>media/images/Mega Man Zero dc021cc5526d57ee70c4a09727625971.png</image>
+		<desc>It is the year 22XX...
+
+The legendary heroes of the Reploids, X and Zero, defeated the evil Sigma long ago, and a new army was created to prevent outbreaks of the Maverick Virus. But as time went on, the army became oppressive, and began to deal out a paranoid brand of justice. It is said that their leader, once a great warrior, has become cold and calculating, eliminating any Reploid that dares oppose him.
+
+A hero is needed in these dark times, and that is exactly what Ciel and her rebel group have found in an old ruin...a hero from the past, reborn in the future.
+
+Zero has come into a time he does not know, to save it from a figure of the past...the fate of freedom rests on his shoulders.</desc>
+		<rating>0.75</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man Zero(ss)</aliases>
+		<name>Rockman Zero 洛克人Z1</name>
+		<path>Rockman Zero (Japan).gba</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848540">
+		<hash>CE2B48C4</hash>
+		<region>jp</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Capcom</publisher>
+		<developer>Capcom</developer>
+		<releasedate>20020810T000000</releasedate>
+		<video>media/videos/Mega Man And Bass 0283b2f395ccf3919f1eafffb09102cd.mp4</video>
+		<logo>media/wheels/Mega Man And Bass 582fffb91a7fc1802e80deda0a3884ce.png</logo>
+		<manual>media/manuals/Mega Man And Bass 71808956495b4bb3b4a6ef4ea2586735.pdf</manual>
+		<box>media/boxes/Mega Man And Bass 9c9c5d50bbd5ef2dcd988543781c528f.png</box>
+		<image>media/images/Mega Man And Bass 848109f9fa6d62c20af8e74a7584d425.png</image>
+		<desc>The mighty robot King has taken over Dr. Wily's base, invaded the Robot Museum, and stolen 100 CDs containing secret robot plans, hoping to create the ultimate unstoppable army of robots! And to make matters worse, he's sent 8 robot masters to prove his new-found power!
+
+Mega Man is the only one who can stop him...or so he thought! Bass, Dr. Wily's greatest creation and Mega Man's sworn rival, is actually fighting ALONGSIDE Mega Man for once! Of course, it's only to prove that he's the strongest robot ever made, and he'll do it by smashing King's army of mechanical maniacs!
+
+Now, Mega Man and Bass are heading out to get back all of the CD's that King stole. Run, jump, slide, dash, and blast your way through to destroy this new menace!</desc>
+		<rating>0.65</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man And Bass(ss)</aliases>
+		<name>Rockman &amp; Forte 洛克人與佛魯迪</name>
+		<path>Rockman &amp; Forte (Japan).gba</path>
+	</game>
+	<game source="Recalbox" timestamp="1789847416">
+		<hash>A817AA47</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>256</genreid>
+		<genre>Shooter / Run and Gun,Shooter</genre>
+		<publisher>Konami</publisher>
+		<developer>Konami</developer>
+		<releasedate>20021114T000000</releasedate>
+		<video>media/videos/Contra Advance - The Alien Wars Ex a6c175f917d4d5c8a75e4f4426c72f80.mp4</video>
+		<logo>media/wheels/Contra Advance - The Alien Wars Ex f20503129875a6c7544625423c7f0866.png</logo>
+		<manual>media/manuals/Contra Advance - The Alien Wars Ex 743165c350f31db19a30109e3f03707d.pdf</manual>
+		<box>media/boxes/Contra Advance - The Alien Wars Ex e10d6d37b6ff9a90a376e8f7b0df0b01.png</box>
+		<image>media/images/Contra Advance - The Alien Wars Ex 17a30177d82b8b29fdcb56e0e192b66a.png</image>
+		<desc>In Contra Advance The Alien Wars EX, take down massive hordes of aliens, robots, and monsters to stop the evil Red Falcon from taking over the world! Featuring all new levels and graphics from the original Super Nintendo® hit, Contra's fast paced shooting action will keep you on the edge of your seat!</desc>
+		<rating>0.70</rating>
+		<licences>Contra</licences>
+		<aliases>Contra Advance - The Alien Wars Ex(ss)</aliases>
+		<name>Contra Hard Spirits 魂斗羅:鐵血精神</name>
+		<path>Contra Hard Spirits (Japan) (En).gba</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850974">
+		<hash>379B3248</hash>
+		<region>jp</region>
+		<genreid>512</genreid>
+		<genre>Adventure</genre>
+		<publisher>Konami</publisher>
+		<developer>Konami</developer>
+		<releasedate>20020606T000000</releasedate>
+		<video>media/videos/Castlevania - Harmony Of Dissonance 51a2361b900c58ad75ddaab8487c3616.mp4</video>
+		<logo>media/wheels/Castlevania - Harmony Of Dissonance dd0d9950a3cf248e61812945e5622a07.png</logo>
+		<manual>media/manuals/Castlevania - Harmony Of Dissonance ba16ead6abce2e88cb7a7dfd086563b9.pdf</manual>
+		<box>media/boxes/Castlevania - Harmony Of Dissonance 63f620eb53c88a055a5f264eb77a036f.png</box>
+		<image>media/images/Castlevania - Harmony Of Dissonance f8e15de0fc37ef770ff04aeeb2d91bf4.png</image>
+		<desc>Nearly fifty years has past since Simon Belmont rescued the land from the curse of Dracula. Now, Simon's descendant Juste Belmont, must acquire the relics of Dracula to unravel the disappearance of his childhood friend Lydie. The castle's enchanting mysteries and danger await all those who dare enter.</desc>
+		<rating>0.85</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania - Harmony Of Dissonance(ss)</aliases>
+		<name>Castlevania : Byakuya no Concerto 惡魔城-白夜的協奏曲</name>
+		<path>Castlevania - Byakuya no Concerto (Japan).gba</path>
+	</game>
+	<game source="Recalbox" timestamp="1789852815">
+		<hash>284E3092</hash>
+		<region>jp</region>
+		<genreid>257</genreid>
+		<genre>Platform,Action / Adventure,Action</genre>
+		<publisher>Konami</publisher>
+		<developer>Konami</developer>
+		<releasedate>20030509T000000</releasedate>
+		<video>media/videos/Castlevania - Aria Of Sorrow e7550085d5aa7a34ce6fc51fc4001816.mp4</video>
+		<logo>media/wheels/Castlevania - Aria Of Sorrow 8acf358262ee2e146ae82654366e209c.png</logo>
+		<manual>media/manuals/Castlevania - Aria Of Sorrow 650ec7e11b860a098e48a91d8dc88101.pdf</manual>
+		<box>media/boxes/Castlevania - Aria Of Sorrow c47cbf68faa286a78c7a1e151090ff0c.png</box>
+		<image>media/images/Castlevania - Aria Of Sorrow 18291adc4473218892ebda9703c79a92.png</image>
+		<desc>The year is 2035 and Soma Cruz is about to witness the first solar eclipse of the 21st century when he suddenly blacks out -- only to awaken inside a mysterious castle. As Soma, you must navigate the castle's labyrinths while confronting perilous monsters at every turn. But beware, you must escape before the evil consumes you!</desc>
+		<rating>0.90</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania - Aria Of Sorrow(ss)</aliases>
+		<name>Castlevania:Akatsuki no Minuet 惡魔城-曉月圓舞曲</name>
+		<path>Castlevania - Akatsuki no Minuet (Japan).gba</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848471">
+		<hash>F3E41D73</hash>
+		<region>jp</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Konami</publisher>
+		<developer>Konami</developer>
+		<releasedate>20010321T000000</releasedate>
+		<video>media/videos/Castlevania e12acfb4317406d7c82742ac8ffed971.mp4</video>
+		<logo>media/wheels/Castlevania 3adff8f3bb959cbfaf3589510b3c76e3.png</logo>
+		<maps>
+			<map title="1" path="media/maps/Castlevania 6409a7a62099e370f0da6fe4e3822ff5.jpg" />
+		</maps>
+		<manual>media/manuals/Castlevania 2104b2783a6d885f378a9e6ac24babbc.pdf</manual>
+		<box>media/boxes/Castlevania 0932c26f00e504c3b25b05c7d000b414.png</box>
+		<image>media/images/Castlevania 126c0b864f50209d6f341a63ec2aa381.png</image>
+		<desc>The year is 1830. At an old Austrian castle, the worshipers of Chaos attempted to revive the Lord of Darkness, Count Dracula. Vampire Hunter Morris Baldwin and his apprentices, Nathan Graves and Hugh Baldwin, heard of this and headed to Castlevania to stop Count Dracula's resurrection and restoration of power. However, they arrived a few seconds too late and Camilla, a minion of Count Dracula, started the rite to revive her master.
+Now it is up to you to fight your way through various monsters, and Dracula's minions, in order to defeat the Lord of Darkness!</desc>
+		<rating>0.85</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania(ss)</aliases>
+		<name>Akumajou Dracula : Circle of the Moon 惡魔城-月輪</name>
+		<path>Akumajou Dracula - Circle of the Moon (Japan).gba</path>
+	</game>
+	<game source="Recalbox" timestamp="1790614709">
+		<hash>6376A60D</hash>
+		<region>us</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>Nintendo</publisher>
+		<developer>Capcom</developer>
+		<releasedate>20050110T000000</releasedate>
+		<video>media/videos/Legend Of Zelda - The Minish Cap The 1bf5ccc85397b8e15c097462c3ed19b7.mp4</video>
+		<logo>media/wheels/Legend Of Zelda - The Minish Cap The c91aca22db794d89a9f8d89e8a082bbe.png</logo>
+		<manual>media/manuals/Legend Of Zelda - The Minish Cap The 013e5cf93e04d9b4f89af9799f3bcb4b.pdf</manual>
+		<box>media/boxes/Legend Of Zelda - The Minish Cap The 310483cc757f96f0bf667c848b841141.png</box>
+		<image>media/images/Legend Of Zelda - The Minish Cap The 923b18936880235997b36a418f67e335.png</image>
+		<desc>故事發生在《天空之劍》之後、《四人之劍》之前，揭開了傳說聖劍四神劍（Four Sword）的誕生由來。海拉魯王國正在舉辦慶祝「皮克爾節」的百年武術大會。然而，大會冠軍——神祕的魔術師古夫（Vaati）心懷鬼胎，他不但當場黑化打破了封印魔物的「皮克爾之劍」，釋放了無數妖魔，更施展黑魔法將薩爾達公主變成了石頭。為了拯救公主、重鑄聖劍，國王派出了年輕的鐵匠學徒林克前往傳說中只有純真孩童才能看見的皮克爾森林。半路上，林克解救了一頂會說話的神祕魔法帽——艾塞羅（Ezlo）。艾塞羅成為林克的夥伴（也就是林克頭上那頂招牌綠帽），賦予林克「身體縮小」的能力。林克必須穿梭在人類的龐大世界與皮克爾族的微觀世界之間，收集四大元素重鑄聖劍。</desc>
+		<rating>0.90</rating>
+		<licences>The Legend of Zelda</licences>
+		<aliases>Legend Of Zelda - The Minish Cap, The(ss)</aliases>
+		<name>The Legend of Zelda:The Minish Cap 薩爾達傳說:縮小帽</name>
+		<path> The Legend of Zelda The Minish Cap.gba</path>
+	</game>
+	<game source="Recalbox" timestamp="1789907739">
+		<hash>3EF54827</hash>
+		<region>wor</region>
+		<players>1-4</players>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Limited Run Games</publisher>
+		<developer>Wayforward</developer>
+		<releasedate>20250428T000000</releasedate>
+		<video>media/videos/Shantae Advance - Risky Revolution 6f1100273a3197d91817bdfacb9252b9.mp4</video>
+		<logo>media/wheels/Shantae Advance - Risky Revolution 6b51ff65302aed253cbb6e487354307b.png</logo>
+		<box>media/boxes/Shantae Advance - Risky Revolution 4183006950f0dec4d13fbd3743a8e840.png</box>
+		<image>media/images/Shantae Advance - Risky Revolution 434ba071bc99ee36697f81c4431181f4.png</image>
+		<desc>最初是2004年計畫在GBA平台推出的正統續作，當年找不到發行商而被迫腰斬，僅留下一個未完工的DEMO。睽違20年後，原班人馬找回當年的GBA開發工具重新將其完全復活！實體卡匣於2025年4月率先限量發售，隨後於8月正式登陸Switch、PC(Steam)、PS5、PS4與Xbox等現代平台。劇情承接2002年的GBC初代香緹，發生在二代之前，香緹的宿敵——女海盜里絲琦．布茲（Risky&#160;Boots）打算透過「旋轉並拼接整個亮片大陸（Sequin&#160;Land）」，將原本位於內陸的繁華城鎮移位到海岸邊，好讓她的海盜船隊能夠輕而易舉地登陸洗劫。香緹如一代可以用長髮鞭打敵人，並能透過跳肚皮舞變身成6種不同的動物型態進行解謎。</desc>
+		<licences>Shantae</licences>
+		<aliases>Shantae Advance - Risky Revolution(ss)</aliases>
+		<name>Shantae Advance:Risky Revolution 香緹-里絲琦的革命</name>
+		<path>Shantae Advance - Risky Revolution (World) (Limited Run Games).gba</path>
+	</game>
+</gameList>

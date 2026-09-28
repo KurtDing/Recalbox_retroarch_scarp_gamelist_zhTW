@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1790019934">
+		<hash>D974ABEA</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>Nintendo</publisher>
+		<developer>Nintendo EAD</developer>
+		<releasedate>19981212T000000</releasedate>
+		<video>media/videos/Legend Of Zelda - Links Awakening Dx The 20217af21bd394fc3a57e331befb95e1.mp4</video>
+		<logo>media/wheels/Legend Of Zelda - Links Awakening Dx The f548b2365b1768c792c3b681455fa2f5.png</logo>
+		<manual>media/manuals/Legend Of Zelda - Links Awakening Dx The bdebfecf1064060e4502f85d6510de49.pdf</manual>
+		<box>media/boxes/Legend Of Zelda - Links Awakening Dx The 4710bd14c73161ddd5a299dd459e230a.png</box>
+		<image>media/images/Legend Of Zelda - Links Awakening Dx The 003c39400d9c6dac9b7beecaf52bd1da.png</image>
+		<desc>在《眾神的三角力量》擊敗魔王加儂後，勇者林克為了修行搭船出海，卻在途中遭遇暴風雨，船隻解體。林克漂流到了神祕的「庫霍林島」，並被女孩瑪琳救起。林克得知想要離開這座島，必須集齊8個樂器喚醒沉睡中的島嶼守護神「風之魚」。但在冒險過程中，島上的魔物（噩夢）不斷警告林克：這座島只是風之魚的一場夢，如果風之魚醒來，島上的一切、瑪琳、所有居民都會徹底消失。
+    
+織夢島DX是任天堂在GameBoyColor（GBC）上推出的官方彩色加強版，追加全新隱藏關卡「彩色地牢」，裡面的解謎全都需要利用「顏色」來判斷。</desc>
+		<rating>0.90</rating>
+		<licences>The Legend of Zelda</licences>
+		<aliases>Legend Of Zelda - Link's Awakening Dx, The(ss)</aliases>
+		<name>Zelda no Densetsu - Yume o Miru Shima DX 薩爾達傳說-織夢島DX</name>
+		<path>Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced).gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853585">
+		<hash>480D0259</hash>
+		<region>wor</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂</developer>
+		<releasedate>20000530T000000</releasedate>
+		<video>media/videos/Wario Land 3 42bb13b801d2e911bd347719586739b3.mp4</video>
+		<logo>media/wheels/Wario Land 3 7e6ba35e6ffef3b4c393ecd35a968449.png</logo>
+		<manual>media/manuals/Wario Land 3 cf664051ea3ea3eb7b82c684c9a65588.pdf</manual>
+		<box>media/boxes/Wario Land 3 2a4c9b615ebc96e64ba868095a25ffea.png</box>
+		<image>media/images/Wario Land 3 8037949d3bdca8800dd00fe3dde23a0f.png</image>
+		<desc>某天，瓦利歐駕駛著他的私人直升機在空中兜風，但中途引擎故障墜落在一片樹林裡。他在探索森林時發現了一個神秘的山洞，裡面擺放著一個古老的八音盒。當貪財的瓦利歐試圖轉動音樂盒時，突然被一股魔力吸入音樂盒中的不可思議國度。一個自稱是神明的「神秘面具人」告訴瓦利歐：他被邪惡力量封印，只要瓦利歐幫忙走遍世界、收集隱藏在各處的5個魔力樂器解開封印，神明就會實現瓦利歐的願望，並將他傳送回現實世界，裡面的所有寶藏也可以讓瓦利歐帶走。</desc>
+		<rating>0.80</rating>
+		<licences>Wario</licences>
+		<aliases>Wario Land 3(ss)</aliases>
+		<name>Wario Land 3 瓦利歐樂園3:不可思議的音樂盒</name>
+		<path>Wario Land 3 (World) (En,Ja).gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789852169">
+		<hash>4BE4A8ED</hash>
+		<region>jp</region>
+		<genreid>1024</genreid>
+		<genre>Simulation</genre>
+		<publisher>柯拿米</publisher>
+		<developer>KCEK</developer>
+		<releasedate>19990211T000000</releasedate>
+		<video>media/videos/Tokimeki Memorial Pocket - Culture Hen - Komorebi No Melody 45780da41dddd5a0f66ddccd1718a02a.mp4</video>
+		<logo>media/wheels/Tokimeki Memorial Pocket - Culture Hen - Komorebi No Melody e0eaa559a7d9260485b3f150c094ec01.png</logo>
+		<box>media/boxes/Tokimeki Memorial Pocket - Culture Hen - Komorebi No Melody c781642b68043e94c589c59511eb2a35.png</box>
+		<image>media/images/Tokimeki Memorial Pocket - Culture Hen - Komorebi No Melody 5fe2a73d45de449db623e65387a4220d.png</image>
+		<desc>純愛手札POCKET文化篇和《體育篇:蒼空的畫布》是雙版本作品，柯拿米依據主角參加的「社團屬性」將遊戲拆成兩個版本，並且各有一個獨佔原創隱藏角色。在小遊戲部份文化篇是《節奏DJ》，體育篇是《勁爆熱舞》（DDR）。全破後可以經由對戰傳輸線把資料傳到另一個版本。</desc>
+		<aliases>Tokimeki Memorial Pocket - Culture Hen - Komorebi No Melody(ss)</aliases>
+		<name>Tokimeki Memorial Pocket:Culture Hen, Komorebi no Melody 純愛手札POCKET文化篇:木漏之日的旋律</name>
+		<path>Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody (CN).gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789851085">
+		<hash>725CF31C</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Japanese RPG,Role Playing Game</genre>
+		<publisher>Namco (南夢宮)</publisher>
+		<developer>Namco (南夢宮)</developer>
+		<releasedate>20001110T000000</releasedate>
+		<video>media/videos/Tales Of Phantasia - Narikiri Dungeon 26f00e5453bdf8b93a2bfcb357c6ba45.mp4</video>
+		<logo>media/wheels/Tales Of Phantasia - Narikiri Dungeon 1ff498a8eee96a468ddaf5dad13f29e5.png</logo>
+		<box>media/boxes/Tales Of Phantasia - Narikiri Dungeon 0ff8915e15a325c9c590898ddfdce878.png</box>
+		<image>media/images/Tales Of Phantasia - Narikiri Dungeon 50087362070a761bdac090c68ac7bd28.png</image>
+		<desc>《時空幻境》本傳結束的104年後（時空曆4408年）的外傳。守護世界的女神諾倫（Norn）現身，將前世犯下滔天大罪而被毀滅的罪人轉世雙胞胎——哥哥迪歐（Dio）與妹妹梅露（Mel）託付給失去力量、在世間流浪的精靈「艾絲特」（Ethos）撫養。13年後兄妹長大，女神再度降臨讓他們接受命運的考驗以贖清前世的罪孽。諾倫賦予了他們「變裝士（Narikiri Artist）」能力——只要穿上特定職業的衣服，就能獲得該職業的技能與魔法。
+    
+因為GBC的硬體限制，本無法像家用機那樣跑出完全即時的橫向捲軸格鬥（Linear Motion Battle）。製作團隊研發「Petit LMBS 縮小版線性動作戰鬥」系統：它巧妙地將半即時制與回合指令融合。玩家只能控制主動角色，透過特定的方向鍵加A/B鍵組合來直接敲出必殺技，其他隊友則由AI自動輔助。遊戲的樂趣在於收集各種衣服（透過寶箱、商店買賣或完成特定支線任務請裁縫師製作），每一套衣服都有獨立的熟練度與隱藏衍生招式。後續在PSP有再復刻x版。</desc>
+		<licences>Tales Of</licences>
+		<aliases>Tales Of Phantasia - Narikiri Dungeon(ss)</aliases>
+		<name>Tales of Phantasia : Narikiri Dungeon 時空幻境-變裝迷宮</name>
+		<path>Tales of Phantasia - Narikiri Dungeon (J) [C][!].gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853151">
+		<hash>32739B34</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting</genre>
+		<publisher>卡普空</publisher>
+		<developer>卡普空</developer>
+		<releasedate>20010330T000000</releasedate>
+		<video>media/videos/Street Fighter Alpha - Warriors Dreams b9cd3ab93441ab9f7968377d39e9217c.mp4</video>
+		<logo>media/wheels/Street Fighter Alpha - Warriors Dreams 65b496f60d0df32a2b2d52da7687f40a.png</logo>
+		<box>media/boxes/Street Fighter Alpha - Warriors Dreams e5fbf2be25f678fd08e66e571237418a.png</box>
+		<image>media/images/Street Fighter Alpha - Warriors Dreams 0cc5c15d767dfbe3b2f3e54eb793a498.png</image>
+		<desc>在快打旋風1第一屆大賽擊敗沙加特的隆（Ryu），一邊旅行一邊苦惱於體內「殺意波動」的覺醒；他的同門肯（Ken）則剛從美國歸來企圖與其再次切磋。同時，美國空軍中尉查理·納許（Charlie）為了追查軍隊內部的腐敗，隻身前往影法組織（Shadaloo）調查首腦貝卡（M. Bison）；占卜師蘿絲（Rose）則預言到了貝卡即將用精神力量吞噬世界，決定挺身封印惡魔。</desc>
+		<rating>0.60</rating>
+		<licences>Street Fighter</licences>
+		<aliases>Street Fighter Alpha - Warriors' Dreams(ss)</aliases>
+		<name>Street Fighter Alpha : Warriors' Dreams GB快打旋風阿法</name>
+		<path>Street Fighter Alpha - Warriors' Dreams (Japan).gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848274">
+		<hash>E994B59B</hash>
+		<region>us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>卡普空</publisher>
+		<developer>Wayforward</developer>
+		<releasedate>20020602T000000</releasedate>
+		<video>media/videos/Shantae 9b02e1a105ac09d803c173364476c3eb.mp4</video>
+		<logo>media/wheels/Shantae e35c93c8600b9224fc36d54fdd55d062.png</logo>
+		<manual>media/manuals/Shantae fecad54c3c7794fa47c20cc1f7a308be.pdf</manual>
+		<box>media/boxes/Shantae 3001649e3adb03b71bf7fbf8166dc2a2.png</box>
+		<image>media/images/Shantae abf96d26b88193e912daf004e366d25d.png</image>
+		<desc>玩家扮演一位與遊戲同名的半精靈女孩「香緹」（Shantae），在一座名為Sepuin的大陸上展開冒險，並阻止邪惡女海盜「里絲琦·布茲」（Risky Boots）的征服計畫。香緹把自己的長髮當作武器來擊退敵人，此外還能透過跳舞來變身為各種動物，施展特殊能力來突破眼前的謎題與阻礙。</desc>
+		<rating>0.80</rating>
+		<licences>Shantae</licences>
+		<aliases>Shantae(ss)</aliases>
+		<name>Shantae 香緹</name>
+		<path>Shantae (USA).gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789847181">
+		<hash>17913DD0</hash>
+		<region>jp</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>卡普空</publisher>
+		<developer>卡普空</developer>
+		<releasedate>20010719T000000</releasedate>
+		<video>media/videos/Mega Man Xtreme 2 845f34547ac901a7687a8674545e96ba.mp4</video>
+		<logo>media/wheels/Mega Man Xtreme 2 1b362d3a039eb42e37e32ea8ebdaa302.png</logo>
+		<manual>media/manuals/Mega Man Xtreme 2 8ed46748a4ef6bd95c43b41bf2c4205b.pdf</manual>
+		<box>media/boxes/Mega Man Xtreme 2 1e9b1dca41595d3a39c1157d21a30e2d.png</box>
+		<image>media/images/Mega Man Xtreme 2 317c97f98dfdf8fffe039b26d051a1da.png</image>
+		<desc>故事背景設定在《洛克人X3》之後。某座研究小島上的雷普利機器人突然集體失去意識，靈魂（DNA核心）被奪走。艾克斯與傑洛一同前往該島調查。登場頭目融合《洛克人X1、X2與X3》的頭目，並有原創的魔王「貝爾卡娜」與「加雷斯」。玩家可以切換操作艾克斯與傑洛兩位角色，並加入了DNA靈魂點數系統，可用於購買與強化角色的晶片能力。</desc>
+		<rating>0.75</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man Xtreme 2(ss)</aliases>
+		<name>Rockman X2 : Soul Eraser GB洛克人X2:吸魂者</name>
+		<path>Rockman X2 - Soul Eraser (J) [C][!].gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853141">
+		<hash>919077AB</hash>
+		<region>jp</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>卡普空</publisher>
+		<developer>卡普空</developer>
+		<releasedate>20001020T000000</releasedate>
+		<video>media/videos/Mega Man Xtreme 32bf7e4f26762cd023831ab8c65e73df.mp4</video>
+		<logo>media/wheels/Mega Man Xtreme 3b64e0f76430ec45d74f5f60e4610118.png</logo>
+		<box>media/boxes/Mega Man Xtreme 29517258f27860d747e2188f6f905215.png</box>
+		<image>media/images/Mega Man Xtreme 91813178b6a59fcf172df5aa9e58c1de.png</image>
+		<desc>故事發生在《洛克人X2》之後。非正規獵人基地的主電腦遭到神秘駭客入侵，導致過去的非正規機器人資料遭到篡改並在網絡空間實體化。艾克斯必須潛入「網路世界」去修復資料。登場頭目融合了《洛克人X1與X2》的經典頭目（如冰凍企鵝、電網蜘蛛、巨輪鴕鳥等），並有原創的影子獵人頭目。具非正規獵人正常的難易度選擇，通關後可解鎖更高難度的隱藏關卡。</desc>
+		<rating>0.80</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man Xtreme(ss)</aliases>
+		<name>Rockman X : Cyber Mission GB洛克人X:幻電任務</name>
+		<path>Rockman X (J) [C][!].gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789847299">
+		<hash>7831F84D</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>256</genreid>
+		<genre>Action / Adventure,Action</genre>
+		<publisher>柯拿米</publisher>
+		<developer>柯拿米</developer>
+		<releasedate>20000427T000000</releasedate>
+		<video>media/videos/Metal Gear Solid 5a6eacf3c4781d674cec206426235337.mp4</video>
+		<logo>media/wheels/Metal Gear Solid 13c5dc4ba177b2ddcdf62fa77da0bf6e.png</logo>
+		<manual>media/manuals/Metal Gear Solid b6dcb272488e9315fa0448b6d661f4b2.pdf</manual>
+		<box>media/boxes/Metal Gear Solid 84e7b71c6678a1808806e34adf5f1372.png</box>
+		<image>media/images/Metal Gear Solid f490ee5160b9116cdef441c7208a31ee.png</image>
+		<desc>本作在劇情上屬於獨立的平行時空（非正史），故事接續在1987年MSX2電腦上初代《Metal Gear》（世外桃源Outer Heaven事件）的7年後。美國政府秘密研發的雙足步行核武機體「Metal Gear GANDER」在南美進行演習時，中非武裝游擊組織「真杜拉解放戰線」（Gindra Liberation Force，簡稱GLF）突然發動襲擊，奪走這台Metal Gear，並綁架了核心研發科學家。美國軍方隨後派遣頂尖特種部隊「三角洲部隊」前往營救，卻全軍覆沒。眼看局勢陷入核戰爭危機，軍方只好找回已退役的前FOXHOUND指揮官坎貝爾上校（Roy Campbell）主持大局。坎貝爾深知，唯一能勝任這個潛入任務的，只有7年前隻身摧毀Outer Heaven的傳奇士兵——固蛇（Solid Snake）。此時在阿拉斯加隱居的Snake起初拒絕，但......</desc>
+		<rating>0.80</rating>
+		<licences>Metal Gear</licences>
+		<aliases>Metal Gear Solid(ss)</aliases>
+		<name>Metal Gear : Ghost Babel 特攻神諜:幽靈通天塔</name>
+		<path>Metal Gear - Ghost Babel (Japan).gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789854091">
+		<hash>D7E9F5D7</hash>
+		<region>us</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>任天堂</publisher>
+		<developer>卡普空</developer>
+		<releasedate>20010514T000000</releasedate>
+		<video>media/videos/Legend Of Zelda - Oracle Of Seasons The 686233e29c0aba093a7231572122d3e7.mp4</video>
+		<logo>media/wheels/Legend Of Zelda - Oracle Of Seasons The 51d4a81e5aa971bf12f0f8ddb33fa869.png</logo>
+		<maps>
+			<map title="v0" path="media/maps/Legend Of Zelda - Oracle Of Seasons The 87911874bf0de0cd04802f8931eb1e09.jpg" />
+		</maps>
+		<manual>media/manuals/Legend Of Zelda - Oracle Of Seasons The 1c2d7328846e7f69f2a13ecbe9da5e75.pdf</manual>
+		<box>media/boxes/Legend Of Zelda - Oracle Of Seasons The 832dd83b9463edadf7edfdd84e7aa838.png</box>
+		<image>media/images/Legend Of Zelda - Oracle Of Seasons The 6a3d7a92c4e59e182dd5567e62704952.png</image>
+		<desc>林克受到三角神力的引導，被傳送到了異大地「荷洛多姆」。在這裡，掌管四季的大地巫女「迪瓏」被北方將軍「歐諾克斯」擄走。歐諾克斯將原本保護四季的神殿沉入地底，導致這個世界的季節完全陷入瘋狂與混亂。林克藉由「四季之杖」自由切換春夏秋冬，一邊解決地形難題，一邊收集8個「大地精靈」，最終成功擊敗歐諾克斯，救回迪瓏，恢復了大地運作。
+    
+當玩家利用密碼將大地之章與時空之章兩款遊戲連動通關，會觸發真正的幕後黑手：歐諾克斯與貝蘭的惡行，都是為了收集破壞與絕望的火焰，藉此復活魔王。幕後主使雙胞胎庫洛芭老巫婆甚至擄走了薩爾達公主作為祭品。雖然林克及時趕到救下公主，但殘缺的儀式依然強行復活了喪失理智的魔王加儂。林克最終擊碎了加儂的野心，成功拯救了世界。</desc>
+		<rating>0.90</rating>
+		<licences>The Legend of Zelda</licences>
+		<aliases>Legend Of Zelda - Oracle Of Seasons, The(ss)</aliases>
+		<name>The Legend of Zelda:Oracle of Seasons 薩爾達傳說-神祕果實:大地之章 </name>
+		<path>Legend of Zelda, The - Oracle of Seasons (U) [C][!].gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853635">
+		<hash>3800A387</hash>
+		<region>us</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>任天堂</publisher>
+		<developer>卡普空</developer>
+		<releasedate>20010514T000000</releasedate>
+		<video>media/videos/Legend Of Zelda - Oracle Of Ages The 24cfff299a94bc9aa736873fe13a093b.mp4</video>
+		<logo>media/wheels/Legend Of Zelda - Oracle Of Ages The a36e55aea7ee31c2576c272c5b5323f3.png</logo>
+		<manual>media/manuals/Legend Of Zelda - Oracle Of Ages The 8e1e87f94cabc48ccfbcb2d8e5a0205f.pdf</manual>
+		<box>media/boxes/Legend Of Zelda - Oracle Of Ages The b44a96b6da81f17016384adc5fa294ff.png</box>
+		<image>media/images/Legend Of Zelda - Oracle Of Ages The 534ce328e87aea9039e5a7dcb161b7fa.png</image>
+		<desc>同樣受到三角神力的引導，林克被傳送到了另一個異大地「拉布倫魯」。掌管時間的時空巫女「奈爾」被影子魔女「貝蘭」附身。貝蘭利用奈爾的力量穿越回400年前的過去，企圖改變歷史，建立一座讓人民充滿痛苦與絕望的「暗黑之塔」。拯救： 林克藉由「時空之琴」在「過去」與「現在」兩個時空穿梭，利用時空因果關係改變地形、解開謎題。在收集8個「時空記憶」後，林克深入暗黑之塔，成功將貝蘭從奈爾身上驅離並消滅。
+    
+玩家利用密碼將大地之章與時空之章兩款遊戲連動通關，會觸發真正的幕後黑手：歐諾克斯與貝蘭的惡行，都是為了收集破壞與絕望的火焰，藉此復活魔王。幕後主使雙胞胎庫洛芭老巫婆甚至擄走了薩爾達公主作為祭品。雖然林克及時趕到救下公主，但殘缺的儀式依然強行復活了喪失理智的魔王加儂。林克最終擊碎了加儂的野心，成功拯救了世界。</desc>
+		<rating>0.90</rating>
+		<licences>The Legend of Zelda</licences>
+		<aliases>Legend Of Zelda - Oracle Of Ages, The(ss)</aliases>
+		<name>The Legend of Zelda:Oracle of Ages 薩爾達傳說-神祕果實:時空之章</name>
+		<path>Legend of Zelda, The - Oracle of Ages (U) [C][!].gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789846209">
+		<hash>72895639</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / 2D,Fighting</genre>
+		<publisher>Takara</publisher>
+		<developer>Gaibrain</developer>
+		<releasedate>19990319T000000</releasedate>
+		<video>media/videos/Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen 0f6c10a3c698596a48eaf302a2c16a98.mp4</video>
+		<logo>media/wheels/Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen 1672d1662d845ccdd44f58658b092447.png</logo>
+		<box>media/boxes/Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen 75380322ba6cee21cc7275698e4ef9bc.png</box>
+		<image>media/images/Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen 1d31688612533e12795ccb5010320b31.png</image>
+		<desc>Takara激鬥系列最終作。在宇宙的某個異次元深處，出現了一個傳說中能夠實現持有者任何願望的神秘「能量水晶」。這個強大的能量源扭曲了時間與空間，將來自變形金剛-野獸戰爭（百變金剛）三部正統與衍生動畫Beast Wars、Beast Wars II、Beast Wars Neo的野獸戰士們全都吸進了同一個異次元空間中，他們決定在這個異次元舞台上證明自己才是最強。
+    
+密技：在password輸入日文 O WA RI DA YO O 解鎖全角色、最高難度與所有隱藏要素，在Galvatron、Magmatron、Lio Convoy上面按SELECT就可以選隱藏角色！另外小遊戲裡按住方向鍵↑＋Select鍵不放同時按下A可選烏賊娘，按住方向鍵↓＋Select鍵不放同時按下A可以選蟬，在海皇子（Scuba）上按住Select鍵不放同時按A可以選魷魚。</desc>
+		<aliases>Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen(ss)</aliases>
+		<name>Kettou Transformers Beast Wars : Beast Senshi Saikyou Ketteisen 決鬥！百變金剛-最強決定戰</name>
+		<path>Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen (Japan) (SGB Enhanced).gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1790330910">
+		<hash>5DD337EB</hash>
+		<region>sa,eu,us</region>
+		<players>1-2</players>
+		<genreid>1537</genreid>
+		<genre>Racing, Driving</genre>
+		<publisher>THQ</publisher>
+		<developer>Codemasters</developer>
+		<releasedate>20000101T000000</releasedate>
+		<video>media/videos/Micro Machines 1 And 2 - Twin Turbo d3588df74d111fb55356b74aaa73b8d7.mp4</video>
+		<logo>media/wheels/Micro Machines 1 And 2 - Twin Turbo 75df105a744b107137c8b8a9c9d74a79.png</logo>
+		<box>media/boxes/Micro Machines 1 And 2 - Twin Turbo 71c471bb5324bf06d9b03dd7dcdf415a.png</box>
+		<image>media/images/Micro Machines 1 And 2 - Twin Turbo df66b9d1b538f35e1517451921701f05.png</image>
+		<desc>《微型機械彩色版》同時收錄了黑白版《微型機械1 + 微型機械2》的完整彩色重製內容，關卡豐富度。這款遊戲的魅力在於其天馬行空的賽道設計，將最平凡的日常生活場景廚房、早餐檯、撞球檯、浴室與浴缸、辦公桌與工作室，變成充滿危機的賽車場。載具15種包含陸上：吉普車、跑車、怪獸卡車、坦克車、四輪沙灘車（ATV），水上/空中：氣墊船、高速汽艇、直升機。並保留系列最經典的「淘汰制（Head-to-Head）」對戰模式。兩名玩家會共享同一個螢幕畫面，當其中一人開得太快、將對手「擠出螢幕」時就獲得1分，先拿滿分數的人獲勝。</desc>
+		<rating>0.70</rating>
+		<licences>Micro Machines</licences>
+		<aliases>Micro Machines 1 And 2 - Twin Turbo(ss)</aliases>
+		<name>Micro Machines 1 and 2 : Twin Turbo 微型機械彩色版</name>
+		<path>Micro Machines 1 and 2 - Twin Turbo.gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1790330919">
+		<hash>B8064453</hash>
+		<region>sa,eu,us</region>
+		<players>1-4</players>
+		<genreid>1537</genreid>
+		<genre>Racing, Driving</genre>
+		<publisher>THQ</publisher>
+		<developer>Novalicious</developer>
+		<releasedate>20001113T000000</releasedate>
+		<video>media/videos/Micro Machines V3 39679e3d22ad256a7500b1a608e0e411.mp4</video>
+		<logo>media/wheels/Micro Machines V3 440943f40c78fa2d1d47c1a4cd86bdc6.png</logo>
+		<box>media/boxes/Micro Machines V3 f917ab6736f857eb20af6521dc3fc2bb.png</box>
+		<image>media/images/Micro Machines V3 516ea2388e3ab4da5988f6f6582a3b8c.png</image>
+		<desc>顛覆想像的「微縮玩具世界」賽道，這款遊戲把場景搬進了日常生活。微型機械V3是PlayStation平台3D版續作的2.5d 45度視角從零開始重新打造移植版，有超過40條的獨特賽道和15種以上迷你載具。完美承襲主機版的「武器與道具系統」，並且有令人驚奇的「單機雙人擠手把」玩法。但由於操控手感與傳統的俯視（Top-down）視角完全不同，方向感容易錯亂，評價普遍不如之前的2D俯視版本。</desc>
+		<rating>0.55</rating>
+		<licences>Micro Machines</licences>
+		<aliases>Micro Machines V3(ss)</aliases>
+		<name>Micro Machines V3 微型機械V3</name>
+		<path>Micro Machines V3.gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789852853">
+		<hash>2C97E90F</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>Chunsoft</publisher>
+		<developer>Chunsoft</developer>
+		<releasedate>20010719T000000</releasedate>
+		<video>media/videos/Fushigi No Dungeon - Fuurai No Shiren Gb2 - Sabaku No Majou b3ab0b45e757810c1bdb25736a3afac5.mp4</video>
+		<logo>media/wheels/Fushigi No Dungeon - Fuurai No Shiren Gb2 - Sabaku No Majou b983aad921678d1aef599de306e15600.png</logo>
+		<box>media/boxes/Fushigi No Dungeon - Fuurai No Shiren Gb2 - Sabaku No Majou 34fc1803f23d9c5243e8513bb0712b5f.png</box>
+		<image>media/images/Fushigi No Dungeon - Fuurai No Shiren Gb2 - Sabaku No Majou 89c621ae0c45f31989f503a3ff28aafc.png</image>
+		<desc>「風來西林系列的最高傑作之一」，時間在《GB風來的西林：月影村的怪物》後。告別了月影村，浪人西林與鼬鼠柯帕再度踏上旅途。他們在試圖橫越一片無邊無際的巨大荒漠時體力不支而暈倒。當西林再次睜開眼時，發現自己與柯帕竟然被關在一座聳立於沙漠中央的詭異巨型城堡——「魔城」的地牢。正當兩人一籌莫展時，一位名叫阿特卡公主的神祕少女突然現身，悄悄打開了牢門並指引一條密道。
+    
+逃出魔城的西林來到了不遠處的沙漠綠洲村莊「城下町」歇腳。他在村子裡的食堂遇到了老朋友佩凱基。村人們與佩凱基告訴西林，那座魔城的地下深處埋藏著傳說中失落的古代遺蹟與無價財寶。為了報答神祕少女的救命之恩，同時解開魔城與古代遺蹟的謎團，西林與夥伴們決定在深夜潛回魔城，正式展開了這場探索「沙漠魔城」的全新冒險！</desc>
+		<rating>0.95</rating>
+		<aliases>Fushigi No Dungeon - Fuurai No Shiren Gb2 - Sabaku No Majou(ss)</aliases>
+		<name>Fushigi no Dungeon:Fuurai no Shiren GB2, Sabaku no Majou GB不可思議迷宮2風塵英雄:沙漠魔城</name>
+		<path>Furai no Siren GB2 (J) [C][!].gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853225">
+		<hash>F90C4977</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>Atlus</publisher>
+		<developer>Access Games</developer>
+		<releasedate>20001117T000000</releasedate>
+		<logo>media/wheels/Shin Megami Tensei - Devil Children - Aka No Sho 886367fedd3aa137ff6ae6ac06f8c8ac.png</logo>
+		<box>media/boxes/Shin Megami Tensei - Devil Children - Aka No Sho 827a10ac6814f971400935cfa09aa88e.png</box>
+		<image>media/images/Shin Megami Tensei - Devil Children - Aka No Sho 96870295f0b46ab7d5b6680002050129.png</image>
+		<desc>真·女神轉生系列衍生外傳惡魔之子第一作，《紅之書》和《黑之書》是雙版本，紅之書主角是半人半魔的少女「要未來」（Kaname Mirai）。未來為了尋找在魔界失蹤的父親，與搭檔——看起來是一隻粉紅色可愛小鳥的魔界降魔「貝爾」（Veil），一同踏入了充滿惡魔的魔界進行冒險。兩款遊戲的劇情時間軸平行發展，未來會和黑之書主人公在不同的魔界區域相遇交錯，共同阻止世界陷入永恆黑暗的危機。惡魔之子融合了神奇寶貝和本傳的風格能進行仲魔交涉收服和合體，並且兩作擁有專屬的限定惡魔，必須透過GBC的通信對戰線（Link Cable）進行惡魔交換或對戰，才能收集完所有的惡魔圖鑑。</desc>
+		<licences>Megami Tensei</licences>
+		<aliases>Shin Megami Tensei - Devil Children - Aka No Sho(ss)</aliases>
+		<name>Shin Megami Tensei Devil Children:Aka no Sho 真·女神轉生:惡魔之子-紅之書</name>
+		<path>Digital Devil Story - Red Children (J) [C][!].gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850571">
+		<hash>55B9AF51</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>Atlus</publisher>
+		<developer>Access Games</developer>
+		<releasedate>20001117T000000</releasedate>
+		<video>media/videos/Shin Megami Tensei - Devil Children - Kuro No Sho 425f5b5ed440a149ea0614566987ca64.mp4</video>
+		<logo>media/wheels/Shin Megami Tensei - Devil Children - Kuro No Sho 0c427526078535932cb7b4887c325898.png</logo>
+		<box>media/boxes/Shin Megami Tensei - Devil Children - Kuro No Sho ecddd6dc6d3c1ec8cd2ba4a660d54dc9.png</box>
+		<image>media/images/Shin Megami Tensei - Devil Children - Kuro No Sho c61900552c648f7d3beb52d817c69581.png</image>
+		<desc>DDS外傳惡魔之子第一作，《紅之書》和《黑之書》是雙版本，黑之書以男主角「甲斐剎那」的視角展開，故事核心圍繞在「尋親與救弟」。某天，剎那收到了一個匿名包裹，裡面裝著一台「通信機（Vinecom）」、一把神祕的「惡魔召喚槍（Devilizer）」，以及一根閃耀著光芒的角。尾隨來的惡魔們擄走剎那的親弟弟「永久」作為人質，為了救弟弟剎那毅然決然踏入魔界（Dem）。旅途中，他得知自己是擁有特殊血統的「惡魔之子，並被告知另一個惡魔之子（未來）正在企圖毀滅魔界與人類世界，他必須尋找「星之鑰」阻止對方的暴行。兩人在各個魔界區域交錯，在不知情的狀況下互視為對手。惡魔之子兩作擁有專屬的限定惡魔，必須透過GBC的通信對戰線（Link Cable）進行交換或對戰，才能收集完所有的圖鑑。</desc>
+		<licences>Megami Tensei</licences>
+		<aliases>Shin Megami Tensei - Devil Children - Kuro No Sho(ss)</aliases>
+		<name>Shin Megami Tensei Devil Children:Kuro no Sho 真·女神轉生:惡魔之子-黑之書</name>
+		<path>Digital Devil Story - Black Children (J) [C][!].gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789847272">
+		<hash>39A10855</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>Atlus</publisher>
+		<developer>Multimedia Intelligence Transfer</developer>
+		<releasedate>20010727T000000</releasedate>
+		<logo>media/wheels/Shin Megami Tensei - Devil Children - Shiro No Sho 0f060829b36f33c9a5192c47748587ee.png</logo>
+		<manual>media/manuals/Shin Megami Tensei - Devil Children - Shiro No Sho 8eae6edb3251b4e799c73bb4c959c278.pdf</manual>
+		<box>media/boxes/Shin Megami Tensei - Devil Children - Shiro No Sho 08fa8d2bf1ff0cf797fcd27a19b06a4c.png</box>
+		<image>media/images/Shin Megami Tensei - Devil Children - Shiro No Sho 897a60cb5172b2971041f680d682447e.png</image>
+		<desc>《白之書》的故事舞台來到黑/赤之書結局的30年後西元2031年，巧妙地導入了「時間旅行」的設定。此時的人類世界與魔界，因不明原因引發的大災難而陷入毀滅邊緣，主角葛葉將真（Kuzuha Shoma）與他的青梅竹馬少女「昴」（Subaru）相依為命。正當世界徹底崩塌之際，將真覺醒了身為「惡魔之子」的血統，並與地獄犬亞種的仲魔「蓋路」（Gayle）締結契約。為了查明世界滅亡的起因並改變這個絕望的未來，將真與昴利用時空機，穿越時空回到了30年前（也就是前作故事發生的時代前後）。隨著故事進行主角會和前作主角剎那與未來相遇，歷過前作的洗禮，他們已經成為戰力強大的惡魔之子。</desc>
+		<licences>Megami Tensei</licences>
+		<aliases>Shin Megami Tensei - Devil Children - Shiro No Sho(ss)</aliases>
+		<name>Shin Megami Tensei Devil Children:Shiro no Sho 真·女神轉生:惡魔之子-白之書</name>
+		<path>Devil Children - Shiro no Syo (J) [C][!].gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1789851087">
+		<hash>6144FC66</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>Imagineer</publisher>
+		<developer>TOSE</developer>
+		<releasedate>20000108T000000</releasedate>
+		<logo>media/wheels/Marie No Atelier Gb f2a99a37ff3793bddd4e0d6461720c0f.png</logo>
+		<box>media/boxes/Marie No Atelier Gb f17299e938eec769eca55ed854e7a129.png</box>
+		<image>media/images/Marie No Atelier Gb ffcea4ad7461f44a1dc860393a4510dd.png</image>
+		<desc>本作時間在PS1《瑪莉的鍊金工房》結局之後。差點被退學的吊車尾瑪莉，在5年的努力後順利從薩爾布魯克王立學院畢業，在城裡開了一家屬於自己的鍊金工房。GB版不再有正傳「5年內做出賢者之石」的退學危機，轉為更為輕鬆、悠閒的日常經營風格。瑪莉要在王都周邊繼續採集材料、接受冒險者委託、調和各種道具，並在經營店面的過程中，與希婭、英格麗老師、騎士道格拉斯等人互動，體驗成為真正鍊金術士後的日常冒險。
+    
+《瑪莉GB》與《艾莉GB》兩款作品內容互補成對的雙版本，玩家可以透過通信線讓兩位主角進行道具交換或調和交流，兩台GBC連線後可以開啟特別的連線關卡，甚至可以調和出單人版本無法製作的隱藏稀有道具！。</desc>
+		<aliases>Marie No Atelier Gb(ss)</aliases>
+		<name>Marie no Atelier GB 瑪莉的鍊金工房GB</name>
+		<path>Atelier Marie (J) [C][!].GBC</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848872">
+		<hash>7967320E</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>Imagineer</publisher>
+		<developer>TOSE</developer>
+		<releasedate>20000108T000000</releasedate>
+		<video>media/videos/Elie No Atelier Gb cae51fca9d801aff4246a0e2257d0f49.mp4</video>
+		<logo>media/wheels/Elie No Atelier Gb e93a4c063e185976b669f54becf6d753.png</logo>
+		<box>media/boxes/Elie No Atelier Gb b306b28abf4575cfacf148d0fc0e6f88.png</box>
+		<image>media/images/Elie No Atelier Gb 6d6621dae3fd53b0eee186153fc875da.png</image>
+		<desc>故事在《艾莉的鍊金工房》畢業之後。曾被瑪莉救過一命而立志成為鍊金術士的艾莉，在經歷了王立學院的嚴格修行後順利畢業。她也選擇在薩爾布魯克正式開了一家自己的鍊金工房，一邊接委託一邊研究鍊金術。某天小妖精長老突然拜訪，希望艾莉能收留「小妖精實習生」把他培養成下一代的小妖精。長老與艾莉定下「4年期限」，艾莉必須一邊維持工房的日常經營，一邊將小妖精培育成獨當一面的鍊金術士！
+    
+ 《艾莉GB》和《瑪莉GB》中各自有限定的獨占採集地與特定道具。當年玩家必須利用GBC的通信線（或紅外線功能）將兩台掌機連線，讓瑪莉與艾莉進行道具交換，才能藉此解鎖極其稀有的隱藏調和配方。</desc>
+		<aliases>Elie No Atelier Gb(ss)</aliases>
+		<name>Elie no Atelier GB 艾莉的鍊金工房GB</name>
+		<path>Atelier Elie (J) [C][!].GBC</path>
+	</game>
+	<game source="Recalbox" timestamp="1789847135">
+		<hash>7FF2042F</hash>
+		<region>eu</region>
+		<genreid>518</genreid>
+		<genre>Adventure / Survival Horror,Adventure</genre>
+		<publisher>Infogrames</publisher>
+		<developer>Pocket Studios</developer>
+		<releasedate>20010627T000000</releasedate>
+		<video>media/videos/Alone In The Dark - The New Nightmare c674cbe04bc5cf721e35f214d6afb8e3.mp4</video>
+		<logo>media/wheels/Alone In The Dark - The New Nightmare a7b483c6c00fc563229a23907b94be89.png</logo>
+		<box>media/boxes/Alone In The Dark - The New Nightmare 329d78e10351cf1afb6c358fbb41bb5d.png</box>
+		<image>media/images/Alone In The Dark - The New Nightmare 83e8413d9fd76f468a6e8451ad5c9390.png</image>
+		<desc>2001年10月31日，超自然現象私家偵探愛德華·卡恩比（Edward Carnby）的摯友兼搭檔菲斯克被發現陳屍於緬因州海岸附近的一座神秘孤島——「暗影島」。為了追查殺害好友的兇手，卡恩比接手調查他生前正在尋找的「古代石碑」。與卡恩比同行的是年輕的大學女教授艾蜜莉·哈特伍德（Aline Cedrac），她前往該島則是為了尋找並協助在此進行秘密研究的摩頓教授。飛機在接近暗影島上空時遭到未知怪的襲擊，他們跳傘逃生時不幸失散—卡恩比落在了大宅外的陰暗森林中，而艾蜜莉則掉落在大宅的屋頂上。
+
+本作在劇情上屬於獨立篇章，玩家只能全程操作愛德華·卡恩比進行冒險。</desc>
+		<rating>0.60</rating>
+		<licences>Alone in the Dark</licences>
+		<aliases>Alone In The Dark - The New Nightmare(ss)</aliases>
+		<name>Alone in the Dark : The New Nightmare 鬼屋魔影4:新噩夢</name>
+		<path>Alone in the Dark - The New Nightmare (E) (M6) [C][!].gbc</path>
+	</game>
+	<game source="Recalbox" timestamp="1790618448">
+		<hash>9CAA00B5</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>Atlus</publisher>
+		<developer>Access Games</developer>
+		<releasedate>19990416T000000</releasedate>
+		<video>media/videos/Megami Tensei Gaiden - Last Bible 2 210f9023f17a17a258f94517176465b7.mp4</video>
+		<logo>media/wheels/Megami Tensei Gaiden - Last Bible 2 a6514e9ce0418a8fb97f2fc602a15362.png</logo>
+		<box>media/boxes/Megami Tensei Gaiden - Last Bible 2 02a7d4e2a34e8b8b4dbe4db565eae11c.png</box>
+		<image>media/images/Megami Tensei Gaiden - Last Bible 2 21bff1a6676b60d7542b8c1ab5d65097.png</image>
+		<desc>黑白GB版的GBC彩色重製。在一個人類與魔獸共存、同時也是魔獸之王統治的國家。主角尤里（Yuri）一出生就被遺棄，被魔獸之王扶養長大。因為這層特殊的背景，尤里從小就與魔獸建立了深厚的情感。某天，魔獸王察覺到古老的威脅——曾經為世界帶來毀滅性災難的古代邪神格里亞斯（Gryas）即將復活，便委託尤里阻止邪神回歸。為了守護自己情同親人的魔獸同伴與世界的和平，尤里與好友們一同踏上了漫長且未知的冒險旅程。
+    
+密技：主角名字取為日文PON會全屬性爆表，取為monster可進入特別的怪物鑑賞選單。妖精(Pixie)之村留守的魔獸必須超過10級。</desc>
+		<rating>0.70</rating>
+		<licences>Megami Tensei</licences>
+		<aliases>Megami Tensei Gaiden - Last Bible 2(ss)</aliases>
+		<name>Megami Tensei Gaiden:Last Bible II 真女神轉生外傳II</name>
+		<path>Megami Tensei Gaiden - Last Bible II (CHS)_fixed.gbc</path>
+	</game>
+</gameList>

@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1789848192">
+		<hash>7496CF96</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>260</genreid>
+		<genre>Shoot'em Up</genre>
+		<publisher>Core Design</publisher>
+		<developer>Core Design</developer>
+		<releasedate>19940101T000000</releasedate>
+		<video>media/videos/Soul Star 59f0fc331bb09e28bb0bac863e809111.mp4</video>
+		<logo>media/wheels/Soul Star 2c5a2ea53e4ef4b077d9bc1cbd26f9eb.png</logo>
+		<manual>media/manuals/Soul Star 35c2462a1236d10dbe7bace444df1893.pdf</manual>
+		<box>media/boxes/Soul Star 187cae174675a8089af5762183df3d58.png</box>
+		<image>media/images/Soul Star 37a7325bc9fe874d8b2e8af63669ce53.png</image>
+		<desc>主角布萊克·漢默特是宇宙中一個古老高貴的戰士種族「低溫突擊隊（Cryo-commandos）」的最後倖存者，他的母星系遭到未知外星生物「Myrkoids」徹底毀滅。漢默特駕駛著他的傳說超級戰艦「特雷貢號（Treaghon）」，展開了長達數個世紀的星際復仇獵殺。他追?著這群毀滅者的步伐，跨越了無數星系與超空間星門，但狡猾的 Myrkoids 總是能屢屢逃脫。</desc>
+		<rating>0.85</rating>
+		<aliases>Soul Star(ss)</aliases>
+		<name>Soul Star 靈魂之星</name>
+		<path>SoulStar (Japan).chd</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848614">
+		<hash>D45002D7</hash>
+		<region>us</region>
+		<genreid>512</genreid>
+		<genre>Adventure</genre>
+		<publisher>Konami</publisher>
+		<developer>Konami</developer>
+		<releasedate>19941130T000000</releasedate>
+		<video>media/videos/Snatcher ac6f8da5cc350cc98a995c88415b0004.mp4</video>
+		<logo>media/wheels/Snatcher 4e2607fba32d5f9a8bf82ba456fa922e.png</logo>
+		<manual>media/manuals/Snatcher f9313ad79313452e5d6458d2373968b5.pdf</manual>
+		<box>media/boxes/Snatcher af18c1275ff4a041069ea24620c94d77.png</box>
+		<image>media/images/Snatcher 938f9e9472e33db84df704aa72a51a36.png</image>
+		<desc>傳奇遊戲製作人小島秀夫於1988年在PC-8801與MSX2上主導的經典科幻文字冒險（AVG）遊戲。西元1996年，蘇聯的意外洩漏了致命生化武器「Lucifer-Alpha」，導致全球近半數人口死亡。50年後，在地球僅存的繁華庇護所——日本「新神戶市」，突然出現了一種神祕的智慧人造人。牠們會暗中殺害社會上的重要高官、富豪，並剝下死者的皮膚「偽裝成受害者本人」潛伏在人類社會中。這群不知真實目的為何的仿生人，被人類恐懼地稱為「Snatcher」。主角吉利安·席德在隨行人工智能偵察機Metal&#160;Gear&#160;Mk.&#160;II（沒錯，正是後來《潛龍諜影》系列中著名機器人的原型）的協助下，在霓虹閃爍陰暗潮濕的新神戶市中展開調查。</desc>
+		<rating>0.80</rating>
+		<aliases>Snatcher(ss)</aliases>
+		<name>Snatcher 攔截者</name>
+		<path>Snatcher (Sega CD) (U)-redump.cue</path>
+	</game>
+	<game source="Recalbox" timestamp="1789928427">
+		<hash>B1C39C2B</hash>
+		<region>us</region>
+		<players>1-2</players>
+		<genreid>260</genreid>
+		<genre>Shoot'em Up / Horizontal,Shoot'em Up</genre>
+		<publisher>Hudson Soft</publisher>
+		<developer>Red Company Corporation</developer>
+		<releasedate>19950101T000000</releasedate>
+		<video>media/videos/Lords Of Thunder 491cdcabeba206464b9013def2f1470b.mp4</video>
+		<logo>media/wheels/Lords Of Thunder abc0c1aaceb224d2d69408019f3dbb5c.png</logo>
+		<manual>media/manuals/Lords Of Thunder fb21d2f308705f2f2b56da7e5ea0d8d3.pdf</manual>
+		<box>media/boxes/Lords Of Thunder 49a640d77e2241d664bd1b78822d2541.png</box>
+		<image>media/images/Lords Of Thunder eb90283cda3d4b13d2f7d9924ca87d8c.png</image>
+		<desc>與前作《Gate&#160;of&#160;Thunder》的科幻太空背景不同，本作舞台在一個充?「劍與魔法」的奇幻世界。和平的「米斯特拉爾（Mistral）大陸」。某一天，野心勃勃的「加爾達帝國（Garuda&#160;Empire）」大仙官長——索恩布爾（Zonbull）突然發起叛亂，並率領麾下的六大魔將軍迅速制壓了整片大陸。其真正目的是解除上古封印，復活暗黑神「扎賀德」。在世界即將陷入永恆黑暗之際，曾將暗黑神封印的傳說英雄「杜」的血脈末裔——劍士蘭迪（Landis）挺身而出。</desc>
+		<rating>0.85</rating>
+		<aliases>Lords Of Thunder(ss)</aliases>
+		<name>Lords of Thunder 雷霆之王</name>
+		<path>Lords of Thunder (USA).chd</path>
+	</game>
+	<game source="Recalbox" timestamp="1790598788">
+		<hash>817A62F8</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>SEGA</publisher>
+		<developer>Working Designs</developer>
+		<releasedate>19940401T000000</releasedate>
+		<video>media/videos/Popful Mail 02348539af4b196eb6616be92b4ba05d.mp4</video>
+		<logo>media/wheels/Popful Mail 706bb06930c0f38ec146a162150828c9.png</logo>
+		<manual>media/manuals/Popful Mail 5ec01ecb98be4067836b39a6fbddfba6.pdf</manual>
+		<box>media/boxes/Popful Mail a504bed57812f9d18eb9e16c45199028.png</box>
+		<image>media/images/Popful Mail ca0e1428945761234ff86c08ea14eb14.png</image>
+		<desc>梅兒（Mail）是性格開朗、愛財如命、有點粗心大意的精靈族賞金獵人。故事開頭，梅兒好不容易逮到瘋狂機械暴徒「胡桃鉗」，結果對方的頭居然掉下來逃跑了。氣炸的梅兒決定去追捕更值錢、200萬金幣的逃亡魔法師「羊頭（Muttonhead）」。在追捕過程中，梅兒陸續遇到了羊頭曾經的溫和派徒弟塔特（Tatt），以及外表像藍色史萊姆、講話用第三人稱自稱的搞怪小龍高（Gaw）。陰錯陽差地湊在一起，被迫肩負起對抗古代邪惡三霸主的重任。</desc>
+		<rating>0.75</rating>
+		<aliases>Popful Mail(ss)</aliases>
+		<name>Popful Mail 美少女劍士梅兒</name>
+		<path>Popful Mail(JP).chd</path>
+	</game>
+	<game source="Recalbox" timestamp="1790598838">
+		<hash>817A62F8</hash>
+		<region>us</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>SEGA</publisher>
+		<developer>Working Designs</developer>
+		<releasedate>19950223T000000</releasedate>
+		<video>media/videos/Popful Mail 02348539af4b196eb6616be92b4ba05d.mp4</video>
+		<logo>media/wheels/Popful Mail f5af7bb2a86574d06f5947b006375f55.png</logo>
+		<manual>media/manuals/Popful Mail d4674a6fc1fd72ee260177ac0a488fb9.pdf</manual>
+		<box>media/boxes/Popful Mail 2ed0a9eefd17260e3ec49499f73607d9.png</box>
+		<image>media/images/Popful Mail 60a7999fcfce2c3ee6504c89bb3f9730.png</image>
+		<desc>In this platform action game, you play as a cute bounty hunter known as Popful Mail. While you might think that a cute Anime chick would have no trouble making a living slashing bad guys with her sword, Popful is having a hard time making ends meet.  One day, however, Popful learns about a magician who has gone rogue and has a hefty bounty on his head. So, her adventure begins as Popful fights her way through a new adventure, and makes new friends along the way.
+
+Primarily this is an action game with very slight RPG elements. As you make your way through the plethora of levels, you will have to collect money from slain foes. You use this money in the shops to buy weapons, armor, health, and so on. Also, this game features interaction with many, many characters through both on-screen dialog and fully animated sequences. Some of these characters become playable as you progress through the game.
+
+This release has the same story and general gameplay style as the  earlier version, but otherwise was made from scratch, having entirely different graphics, locations, enemies, challenges, etc.</desc>
+		<rating>0.75</rating>
+		<aliases>Popful Mail(ss)</aliases>
+		<name>Popful Mail 美少女劍士梅兒</name>
+		<path>Popful Mail (US).chd</path>
+	</game>
+</gameList>

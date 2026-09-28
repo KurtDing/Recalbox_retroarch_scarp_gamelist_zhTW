@@ -1,0 +1,929 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1789853845">
+		<hash>39A6684E</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂</developer>
+		<releasedate>19930606T000000</releasedate>
+		<video>media/videos/Legend of Zelda The - Links Awakening 860a7b365f460078d75bf456d33a49a3.mp4</video>
+		<logo>media/wheels/Legend of Zelda The - Links Awakening 10086409cf260c9de98f076e1ba19cb1.png</logo>
+		<manual>media/manuals/Legend of Zelda The - Links Awakening 9ec683f5bfa16b1048e778f4ea946243.pdf</manual>
+		<box>media/boxes/Legend of Zelda The - Links Awakening d1e4bd5ebe9236b4501bc199b3299526.png</box>
+		<image>media/images/Legend of Zelda The - Links Awakening bff7770ddc2d7f8aec41e14f84352b7c.png</image>
+		<desc>在《眾神的三角力量》擊敗魔王加儂後，勇者林克為了修行搭船出海，卻在途中遭遇暴風雨，船隻解體。林克漂流到了神祕的「庫霍林島」，並被女孩瑪琳救起。
+林克得知想要離開這座島，必須集齊8個「真實樂器」，喚醒沉睡在巨蛋中的島嶼守護神「風之魚」。但在冒險過程中，島上的魔物（噩夢）卻不斷警告林克：這座島其實只是風之魚的一場夢，如果風之魚醒來，島上的一切、所有居民（包括瑪琳）都會徹底消失。</desc>
+		<rating>0.95</rating>
+		<licences>The Legend of Zelda</licences>
+		<aliases>Legend of Zelda, The - Link's Awakening(ss)</aliases>
+		<name>Zelda no Densetsu : Yume o Miru Shima 薩爾達傳說-夢見島</name>
+		<path>Zelda no Densetsu - Yume o Miru Shima (Japan).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853448">
+		<hash>3E7C6B2B</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / Versus,Fighting</genre>
+		<publisher>Tomy</publisher>
+		<developer>Tomy</developer>
+		<releasedate>19941209T000000</releasedate>
+		<video>media/videos/Yu Yu Hakusho Dai-4-dan - Makai Touitsu 8033aa275037ba9d12c16819fb2acd56.mp4</video>
+		<logo>media/wheels/Yu Yu Hakusho Dai-4-dan - Makai Touitsu 1ba3c7d90122ec3af56a193f408f18cf.png</logo>
+		<box>media/boxes/Yu Yu Hakusho Dai-4-dan - Makai Touitsu 955328879a7fc7fe66a63cef4091461c.png</box>
+		<image>media/images/Yu Yu Hakusho Dai-4-dan - Makai Touitsu b31999ba3f5a97ff8e359179007e96f3.png</image>
+		<desc>幽遊第4彈回歸正統格鬥並將系統打磨至巔峰，GB上的漫改格鬥傑作，爽快的打擊流暢度以及S超必殺技系統。還原漫畫最後的「魔界統一武術大會」。仙水事件結束後，魔界陷入雷禪、軀、黃泉三強鼎立的局面。幽助為了避免大戰，提出以「舉辦格鬥大賽」決定下一屆魔界統治者，各路隱世高手紛紛參戰。
+    
+密技：在對戰選人畫面移到右下角的煙鬼，同時按住B和選擇鈕接著按右可以選「雷禪」。</desc>
+		<licences>Yu Yu Hakusho</licences>
+		<aliases>Yu Yu Hakusho Dai-4-dan - Makai Touitsu(ss)</aliases>
+		<name>Yu Yu Hakusho Dai-4-dan:Makai Touitsu Hen 幽遊白書第4彈-魔界統一編</name>
+		<path>Yu Yu Hakusho Dai-4-dan - Makai Touitsu Hen (Japan) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850637">
+		<hash>25C618F6</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>Tomy</publisher>
+		<developer>Tomy</developer>
+		<releasedate>19940603T000000</releasedate>
+		<video>media/videos/Yu Yu Hakusho Dai-3-dan - Makai No Tobira a69471df4796c69e1958822230077a27.mp4</video>
+		<logo>media/wheels/Yu Yu Hakusho Dai-3-dan - Makai No Tobira 007c139de66a6c7f0845b580c7e4b7d7.png</logo>
+		<box>media/boxes/Yu Yu Hakusho Dai-3-dan - Makai No Tobira 5d492f3f1d632715374518e073fa9cb8.png</box>
+		<image>media/images/Yu Yu Hakusho Dai-3-dan - Makai No Tobira d3c67292e4862e8f8558f8940c4163e9.png</image>
+		<desc>GB幽遊全系列唯一ARPG，在大地圖上，遊戲採用俯瞰視角讓玩家移動探索、觸發劇情，遇敵或進入建築物時切換成橫向捲軸清版動作遊戲。改編自「仙水篇（Chapter Black）」，講述蟲寄市內出現了連接魔界的裂縫（魔界之門），幽助等人必須面對擁有特殊領域能力（Territory）的人類能力者（如刃霧要、神谷實），並深入魔界洞穴阻止前任靈界偵探仙水忍。</desc>
+		<licences>Yu Yu Hakusho</licences>
+		<aliases>Yu Yu Hakusho Dai-3-dan - Makai No Tobira(ss)</aliases>
+		<name>Yu Yu Hakusho Dai-3-dan:Makai no Tobira Hen 幽遊白書第3彈-魔界之門編</name>
+		<path>Yu Yu Hakusho Dai-3-dan - Makai no Tobira Hen (Japan).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789846051">
+		<hash>6A6D7350</hash>
+		<region>jp</region>
+		<genreid>262</genreid>
+		<genre>Fighting</genre>
+		<publisher>Tomy</publisher>
+		<releasedate>19931210T000000</releasedate>
+		<video>media/videos/Yu Yu Hakusho Dai-2-dan - Ankoku Bujutsukai b08ac3c068cd4e0b61f88111b9b4ad56.mp4</video>
+		<logo>media/wheels/Yu Yu Hakusho Dai-2-dan - Ankoku Bujutsukai ae95d40e928c9b458abf5c5d986a75f6.png</logo>
+		<box>media/boxes/Yu Yu Hakusho Dai-2-dan - Ankoku Bujutsukai 2788147e9e6106b07f2fcdcd1acf3546.png</box>
+		<image>media/images/Yu Yu Hakusho Dai-2-dan - Ankoku Bujutsukai 547443f459bebcd227abff8910590d9f.png</image>
+		<desc>幽遊第2彈，完全重現最熱血的「暗黑武術大會」正統2D對戰格鬥。主角群前往首縊島，一路上擊敗六遊怪隊、魔性使隊、裏御伽隊，最終在決賽與戶愚呂兄弟展開宿命對決。
+    
+密技：藏馬和戶愚呂弟可以變身成妖狐藏馬和100%戶愚呂弟。方法是在對戰的○○VS○○畫面，先按住B鍵不放。依序輸入十字鍵:下、下、上、上、右、左。放開B鍵，最後按下選擇鈕。如果輸入速度夠快且正確，會聽到一聲成功效果音。另外故事模式可以補接關次數，倒數計時界面時依序按(1)上＋選擇鈕(2)右＋B鍵(3)下＋選擇鈕(4)左＋B鍵。</desc>
+		<licences>Yu Yu Hakusho</licences>
+		<aliases>Yu Yu Hakusho Dai-2-dan - Ankoku Bujutsukai(ss)</aliases>
+		<name>Yu Yu Hakusho Dai-2-dan:Ankoku Bujutsukai Hen 幽遊白書第2彈-暗黑武術會編</name>
+		<path>Yu Yu Hakusho Dai-2-dan - Ankoku Bujutsukai Hen (Japan).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850768">
+		<hash>75E1D268</hash>
+		<region>jp</region>
+		<genreid>260</genreid>
+		<genre>Shoot'em Up</genre>
+		<publisher>任天堂</publisher>
+		<developer>Argonaut Software</developer>
+		<releasedate>19920529T000000</releasedate>
+		<video>media/videos/X e278f75da6f21f7e2928f62b6eefd386.mp4</video>
+		<logo>media/wheels/X e28bff08712e27e12a4f18c3d38029bb.png</logo>
+		<box>media/boxes/X dc1bb5916ebf4d9c41038d0d4c25fe26.png</box>
+		<image>media/images/X 3d00799c3e870eafd10cc744f2828de1.png</image>
+		<desc>第一人稱3D太空坦克射擊遊戲，2D星球「泰塔姆斯&#160;II」遭到神祕外星種族入侵，他們企圖奪取地球的命脈。玩家扮演宇宙戰機「VIXIV」的駕駛員，必須穿梭在3D的線條迷宮與寬廣的星球地表，突破重圍防守基地。</desc>
+		<rating>0.70</rating>
+		<aliases>X(ss)</aliases>
+		<name>X</name>
+		<path>X (Japan).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789849170">
+		<hash>67303954</hash>
+		<region>eu,us</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / Versus,Fighting</genre>
+		<publisher>Playmates Interactive</publisher>
+		<developer>Takara</developer>
+		<releasedate>19950801T000000</releasedate>
+		<video>media/videos/World Heroes 2 Jet cb1e40832ee6aa9c23fd2f8f5e36ef54.mp4</video>
+		<logo>media/wheels/World Heroes 2 Jet 4d9b6f306235b3195e3d5e2baebb2f71.png</logo>
+		<manual>media/manuals/World Heroes 2 Jet a54c0eb40deeb448c7e86f27a29bcb47.pdf</manual>
+		<box>media/boxes/World Heroes 2 Jet 1d23d104663eb5bf55ff72491bafd2a7.png</box>
+		<image>media/images/World Heroes 2 Jet 944f65940d066e397f8fba36fb660b90.png</image>
+		<desc>熱鬥系列第三作，延續大型電玩《世界英雄》的故事，瘋狂科學家布朗博士發明了時空穿梭機。為了證明「誰才是歷史上最強的英雄」，他從世界各個時空召喚了著名的歷史人物與神話英雄齊聚一堂，展開兩屆世界英雄大會。一年後，這14位回到過去的英雄們，再度收到了一封來自現代的邀請函，宣稱要舉辦「第三次世界超武會」。
+    
+密技：開機後當畫面上出現TAKARA商標期間，輸入右、左、A、B、下、A、B、上，可以選Boss宙斯並開啟灼熱模式、空中連續技解鎖、能力分配解鎖。</desc>
+		<rating>0.85</rating>
+		<licences>World Heroes</licences>
+		<aliases>World Heroes 2 Jet(ss)</aliases>
+		<name>World Heroes 2 Jet 熱鬥-世界英雄2 JET</name>
+		<path>World Heroes 2 Jet (USA, Europe) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850515">
+		<hash>9C54358D</hash>
+		<region>eu,us</region>
+		<genreid>257</genreid>
+		<genre>Platform / Run &amp; Jump,Platform</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂</developer>
+		<releasedate>19980309T000000</releasedate>
+		<video>media/videos/Wario Land 2 edb9ac06be1da5617dcac8a231c7f359.mp4</video>
+		<logo>media/wheels/Wario Land 2 8a8c61c5ba8163fcab21c30edab5d773.png</logo>
+		<manual>media/manuals/Wario Land 2 f11a2e4f2bc2c071db3134ac1266b761.pdf</manual>
+		<box>media/boxes/Wario Land 2 c5e5da115373b447740f6bf3bb2857e7.png</box>
+		<image>media/images/Wario Land 2 04cd0a7b87c5ad08a65a4e3dff747474.png</image>
+		<desc>從本作開始，瓦利歐確立了「不死之身」的設定。經歷一代的冒險後，瓦利歐終於成功蓋好了自己的豪華城堡，並將無數的寶藏存放在裡面。然而，心有不甘的糖漿船長帶著黑糖幫手下捲土重來。她們趁瓦利歐在城堡裡呼呼大睡時秘密潛入，偷走了瓦利歐所有的財寶，甚至壞心地打開城堡蓄水閥引發大洪水、定好鬧鐘惡搞他。被鬧鐘吵醒的瓦利歐發現城堡淹水且人去樓空，憤怒地大鬧一場後出發追擊海盜奪回屬於自己的財寶。</desc>
+		<rating>0.75</rating>
+		<licences>Wario</licences>
+		<aliases>Wario Land 2(ss)</aliases>
+		<name>Wario Land II 瓦利歐樂園2:被盜的財寶</name>
+		<path>Wario Land II (USA, Europe) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789847695">
+		<hash>40BE3889</hash>
+		<region>wor</region>
+		<genreid>257</genreid>
+		<genre>Platform,Platform / Run &amp; Jump</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂</developer>
+		<releasedate>19940202T000000</releasedate>
+		<video>media/videos/Wario Land - Super Mario Land 3 5f3e88ba13e6ad96d6de265e82e1d239.mp4</video>
+		<logo>media/wheels/Wario Land - Super Mario Land 3 b0788da575a43d5d1d3baf58ae0b9ecc.png</logo>
+		<maps>
+			<map title="1" path="media/maps/Wario Land - Super Mario Land 3 9fae738f5548646a2eba5a6072c11c90.jpg" />
+		</maps>
+		<manual>media/manuals/Wario Land - Super Mario Land 3 62a5563211e500f9377490a0285002b7.pdf</manual>
+		<box>media/boxes/Wario Land - Super Mario Land 3 a634d6ce150dbc1fa697e13ad82941ec.png</box>
+		<image>media/images/Wario Land - Super Mario Land 3 754ad4d8bb0162ac88a1413390a1fac5.png</image>
+		<desc>在上一作《六個金幣》中，瓦利歐趁瑪利歐不在時強佔了瑪利歐城堡，但最後被瑪利歐奪回並踢出家門。不甘心的瓦利歐為了蓋一座比瑪利歐還大、還豪華的城堡，決定出海搜刮財寶。他盯上了盤據在「廚房島」的海盜團—「黑糖團」，其首領糖漿船長（Captain&#160;Syrup）剛從菇菇王國偷走碧姬公主的純金雕像。瓦利歐計畫打倒海盜、搶走這尊黃金雕像並賣給瑪利歐。</desc>
+		<rating>0.90</rating>
+		<licences>Super Mario Bros | Mario | Wario</licences>
+		<aliases>Wario Land - Super Mario Land 3(ss)</aliases>
+		<name>Wario Land : Super Mario Land 3 超級瑪利歐樂園3:瓦利歐樂園</name>
+		<path>Wario Land - Super Mario Land 3 (World).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848174">
+		<hash>635A9112</hash>
+		<region>eu,us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂</developer>
+		<releasedate>19921102T000000</releasedate>
+		<video>media/videos/Super Mario Land 2 - 6 Golden Coins b6523607be4b1a9d6de268d5acce3d1f.mp4</video>
+		<logo>media/wheels/Super Mario Land 2 - 6 Golden Coins 1d1514be1d241f710a19d7b00bb0c5d8.png</logo>
+		<manual>media/manuals/Super Mario Land 2 - 6 Golden Coins 62e9d75390fa9c6dbfee6fe66b0ecfb7.pdf</manual>
+		<box>media/boxes/Super Mario Land 2 - 6 Golden Coins eefb0eae4722929580cb2f9de2f9e4ef.png</box>
+		<image>media/images/Super Mario Land 2 - 6 Golden Coins 8e3c77c4b529e53d648caa8e2e2d9d83.png</image>
+		<desc>故事緊接在上一代，當瑪利歐大老遠跑到賽拉沙大陸擊敗外星人、救回黛西公主時，他童年時期的死對頭——「瓦利歐」（Wario在任天堂歷史上首度登場），趁瑪利歐家裡沒人，強佔瑪利歐在島嶼上的專屬城堡。瓦利歐施展魔法洗腦了島上的居民，並把城堡大門鎖上。要打開大門，必須找回被藏在六個不同區域（如太空區、巨型玩具區、鯨魚肚子裡）的6個黃金硬幣。瑪利歐必須打敗守護者奪回這些金幣，奪回自己的家。</desc>
+		<rating>0.90</rating>
+		<licences>Super Mario Bros | Mario</licences>
+		<aliases>Super Mario Land 2 - 6 Golden Coins(ss)</aliases>
+		<name>Super Mario Land 2 : 6 Golden Coins 超級瑪利歐樂園2:六個金幣</name>
+		<path>Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev B).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789852378">
+		<hash>2C27EC70</hash>
+		<region>wor</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂 R&amp;D1</developer>
+		<releasedate>19890731T000000</releasedate>
+		<video>media/videos/Super Mario Land 2ca1c29f55a22dbfd42255e47722d539.mp4</video>
+		<logo>media/wheels/Super Mario Land cd8aa7b2aac140abd6d118d8f4dc17ba.png</logo>
+		<manual>media/manuals/Super Mario Land 77a5d5e2205904a3e584ff8c2a3db1d6.pdf</manual>
+		<box>media/boxes/Super Mario Land 0afcf48f97840426eb921e8d1fb10fb8.png</box>
+		<image>media/images/Super Mario Land 5d64000901cc957c632607a67e5a2e0f.png</image>
+		<desc>Gameboy首發大作，舞台不再是大家熟悉的「菇菇王國」，而是一個名為「賽拉沙大陸」（Sarasaland）的和平遙遠國度。某天，神秘的邪惡外星人「泰坦卡」（Tatanga）突然降臨，用催眠光線控制了當地居民，並擄走統治大陸的黛西公主（Princess&#160;Daisy，在瑪利歐歷史上初次登場）。得知消息的瑪利歐為了拯救黛西公主與這個國家，隻身踏上了跨越四個異國風情王國的冒險之旅。
+    
+由於硬體限制，這款遊戲的瑪利歐體型非常小巧。關卡中甚至有瑪利歐駕駛潛水艇和戰鬥機的「橫向捲軸射擊遊戲」關卡，是極為少見的玩法。</desc>
+		<rating>0.80</rating>
+		<licences>Super Mario Bros | Mario</licences>
+		<aliases>Super Mario Land(ss)</aliases>
+		<name>Super Mario Land 超級瑪利歐樂園</name>
+		<path>Super Mario Land (World) (Rev A).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853213">
+		<hash>C775F488</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / Versus,Fighting</genre>
+		<publisher>卡普空</publisher>
+		<developer>Sun L</developer>
+		<releasedate>19950811T000000</releasedate>
+		<video>media/videos/Street Fighter 2 45f4541b7255a4f86733db7a29b4dfef.mp4</video>
+		<logo>media/wheels/Street Fighter 2 8c67639e3f27018cc384180631a6ca35.png</logo>
+		<manual>media/manuals/Street Fighter 2 34c561a8af1fe22045c344a9f06eb90f.pdf</manual>
+		<box>media/boxes/Street Fighter 2 ac71592c01ae92be3add530ca9ff298a.png</box>
+		<image>media/images/Street Fighter 2 631b9af41032501ac82b9269da474f7f.png</image>
+		<desc>本作是首款成功將大型機台「六鍵式」格鬥流暢簡化至「雙鍵」8位元掌機的奇蹟移植版，甚至引入了《超級快打旋風II》的精美頭像與頭部動作。主導世界地下經濟的軍事恐怖組織「影法（Shadaloo）」首腦貝卡（Vega，美版名Bison），為了篩選出世界上最強的人類肉體作為其精神力量的容器，並企圖洗腦、控制各國的格鬥精英成為人間兵器，秘密向全球頂尖高手發出了第二屆「世界格鬥大賽」的邀請函。
+    
+密技：進入單人遊戲（Tournament/故事模式）的角色選擇畫面。將光標移動到隆（Ryu）上，依序輸入：↓、↓、↓、↑，就可以選擇BOSS貝卡。</desc>
+		<rating>0.65</rating>
+		<licences>Street Fighter</licences>
+		<aliases>Street Fighter 2(ss)</aliases>
+		<name>Street Fighter II 快打旋風2</name>
+		<path>Street Fighter II (Japan) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850595">
+		<hash>90D51289</hash>
+		<region>eu,us</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / Versus,Fighting</genre>
+		<publisher>Takara</publisher>
+		<developer>Takara</developer>
+		<releasedate>19940101T000000</releasedate>
+		<video>media/videos/Samurai Shodown ae4798aad5998c687153f72fbc3bbfed.mp4</video>
+		<logo>media/wheels/Samurai Shodown cae31da996216a515e43532ce3bdbffc.png</logo>
+		<box>media/boxes/Samurai Shodown 9d670eef019baed04133f05fa23c4c40.png</box>
+		<image>media/images/Samurai Shodown aca5074ff00b574015c4c9c1a0b6bc67.png</image>
+		<desc>In early feudal Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who had possessed and taken over Amakusa's body, as Ambrosia wishes to shroud the world into eternal darkness. Now, the player must select from out of 12 fierce warriors and plus 3 bonus characters in order to fight for the honor of defeating Amakusa once and for all, while fulfilling a specific mission for each and every warrior in the game.
+
+The Genesis version of the game does not however include the Earthquake which has been removed due to its 16-bit memory capacity and technical size limitations.</desc>
+		<rating>0.75</rating>
+		<licences>Samurai Shodown</licences>
+		<aliases>Samurai Shodown(ss)</aliases>
+		<name>Samurai Shodown 熱鬥-侍魂</name>
+		<path>Samurai Shodown (USA, Europe) (Beta) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853955">
+		<hash>D6FE3C56</hash>
+		<region>jp</region>
+		<genreid>768</genreid>
+		<genre>Role Playing Game</genre>
+		<publisher>Bandai</publisher>
+		<releasedate>19921113T000000</releasedate>
+		<video>media/videos/Saint Paradise - Saikyou No Senshi-tachi dc2fff3568d3d889e0dbb0cc4f29db58.mp4</video>
+		<logo>media/wheels/Saint Paradise - Saikyou No Senshi-tachi 7e43276d6370739160058197b22b6bec.png</logo>
+		<box>media/boxes/Saint Paradise - Saikyou No Senshi-tachi bb95609162ca5451b99974dc3f2f2182.png</box>
+		<image>media/images/Saint Paradise - Saikyou No Senshi-tachi f598f08eb29860d0fa1bc2b05f16230d.png</image>
+		<desc>遊戲劇情濃縮《聖鬥士星矢》原作從序章到中期的高潮，共分為三個主要章節：
+銀河戰爭與暗黑聖鬥士篇：故事從「銀河擂台賽」揭開序幕，隨後一輝率領暗黑聖鬥士搶走黃金聖衣，星矢等人必須出發奪回。
+
+聖域十二宮篇：為了解救被黃金之箭射中的女神雅典娜，星矢一行人闖入聖域。他們必須在12小時內突破由12位最強「黃金聖鬥士」守護的宮殿，最後抵達教皇廳揭發偽教皇的陰謀。
+
+海皇波賽頓篇：遊戲跳過了動畫原創的北歐亞斯格特篇（但玩家在途中仍有機會能取得奧丁神斗衣衣）直接進入海底神殿。星矢們必須擊敗守護七大洋的「海將軍」，並摧毀生命之柱以救出雅典娜、並封印海皇波賽頓。</desc>
+		<aliases>Saint Paradise - Saikyou No Senshi-tachi(ss)</aliases>
+		<name>Saint Paradise : Saikyou no Senshi-tachi 聖鬥士樂園-最強的戰士們</name>
+		<path>Saint Paradise - Saikyou no Senshi-tachi (Japan).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850639">
+		<hash>EEABD3C6</hash>
+		<region>jp</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>卡普空</publisher>
+		<developer>卡普空</developer>
+		<releasedate>19940722T000000</releasedate>
+		<video>media/videos/Mega Man 5 64233ad96ad0d42909e1b77ae2b16bb4.mp4</video>
+		<logo>media/wheels/Mega Man 5 08b06c801550f693652e54a5c47f0e7b.png</logo>
+		<manual>media/manuals/Mega Man 5 c86ead2108879783b65e0ffc1dee1995.pdf</manual>
+		<box>media/boxes/Mega Man 5 81da50bad22125ed1eabdf74cf155fa8.png</box>
+		<image>media/images/Mega Man 5 ddb4cb62f603f6e19562d43925c416f2.png</image>
+		<desc>完全原創故事與頭目的巔峰之作。數個月前，地球突然遭到自稱「地外文明」的神祕機器人軍團─太空領袖（Space&#160;Rulers）襲擊，地表陷入混亂。他們的防禦力極高，連洛克人的「洛克飛彈」都無法造成傷害。萊特博士因此為洛克人開發了全新武器「洛克火箭拳（Mega&#160;Arm）」，洛克人將飛向宇宙，擊敗以太陽系行星命名的九大頭目，並揭開太空領袖背後的真正黑幕。</desc>
+		<rating>0.80</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man 5(ss)</aliases>
+		<name>Rockman World 5 洛克人世界5</name>
+		<path>Rockman World 5 (Japan) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789851851">
+		<hash>16AEC559</hash>
+		<region>jp</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>卡普空</publisher>
+		<developer>卡普空</developer>
+		<releasedate>19931029T000000</releasedate>
+		<video>media/videos/Mega Man 4 5da05c5854041c93abaf18fa2e196e7b.mp4</video>
+		<logo>media/wheels/Mega Man 4 4894e37355d5ff2d1f5b80a76922f42c.png</logo>
+		<manual>media/manuals/Mega Man 4 f55eb2a95fa9e6cf33691d299368c68a.pdf</manual>
+		<box>media/boxes/Mega Man 4 16d3a891c2928ccf3d2eebc3ceae3cf9.png</box>
+		<image>media/images/Mega Man 4 74a61e6829e434a54af9a1d7430b8dab.png</image>
+		<desc>威利博士在世界機器人博覽會上引發暴動，操控了會場上的眾多機器人。這次他製造了破壞力極強的第三位「洛克人殺手」─巴拉德（Ballade）。隨著戰況推進，洛克人將在威利的太空要塞中迎來與巴拉德的宿命決戰。</desc>
+		<rating>0.85</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man 4(ss)</aliases>
+		<name>Rockman World 4 洛克人世界4</name>
+		<path>Rockman World 4 (Japan).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789847887">
+		<hash>E904484F</hash>
+		<region>jp</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>卡普空</publisher>
+		<developer>卡普空</developer>
+		<releasedate>19921211T000000</releasedate>
+		<video>media/videos/Mega Man 3 7375d6e218f0ed029c1697ef8a488898.mp4</video>
+		<logo>media/wheels/Mega Man 3 2aaf7dd6a86821b3852fec5f092d618c.png</logo>
+		<manual>media/manuals/Mega Man 3 19b7a183efa5bc95d77190b532e19b06.pdf</manual>
+		<box>media/boxes/Mega Man 3 379bed2209fe195e4faaf3bda533b507.png</box>
+		<image>media/images/Mega Man 3 9da6fe0a4d878e85e4eb7cd07827e164.png</image>
+		<desc>威利博士控制了某座熱帶島嶼上的地熱發電廠，試圖利用強大的地熱能源來實現征服世界的陰謀。這次他派出了第二位「洛克人殺手」──龐克（Punk）。洛克人追蹤威利來到這座島嶼，展開海陸空的激戰。</desc>
+		<rating>0.80</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man 3(ss)</aliases>
+		<name>Rockman World 3 洛克人世界3</name>
+		<path>Rockman World 3 (Japan).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789849302">
+		<hash>C34D265E</hash>
+		<region>jp</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>卡普空</publisher>
+		<developer>卡普空</developer>
+		<releasedate>19911220T000000</releasedate>
+		<video>media/videos/Mega Man 2 509d64e125ce6b00b9f26b3cc3ce05bd.mp4</video>
+		<logo>media/wheels/Mega Man 2 0c847a20ff7e71386bd2a4d2547e2b6f.png</logo>
+		<manual>media/manuals/Mega Man 2 45c13beb666cb0dc719cea775f20b778.pdf</manual>
+		<box>media/boxes/Mega Man 2 7700a6af2d0cad44a13c30e2c1b001c4.png</box>
+		<image>media/images/Mega Man 2 988bd9d08ce347aacee540d6ea5694e1.png</image>
+		<desc>威利博士偷走了正在開發中的時空旅行機器「研究所時光機」，並前往未來，將「未來的洛克人」綁架並改造。這個被改造的未來洛克人化身為神祕的對手──昆特（Quint）。洛克人除了要面對被威利控制的機器人軍團外，還必須與「未來的自己」展開一場跨越時空的悲劇對決。</desc>
+		<rating>0.65</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man 2(ss)</aliases>
+		<name>Rockman World 2 洛克人世界2</name>
+		<path>Rockman World 2 (Japan).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789851058">
+		<hash>3BE6AC04</hash>
+		<region>jp</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>卡普空</publisher>
+		<developer>卡普空</developer>
+		<releasedate>19910726T000000</releasedate>
+		<video>media/videos/Mega Man - Dr. Wilys Revenge 055725021bcbfa146b440d4fc5ba2f0d.mp4</video>
+		<logo>media/wheels/Mega Man - Dr. Wilys Revenge 27f0aa4cc3ea78392b23e21e6102bb17.png</logo>
+		<manual>media/manuals/Mega Man - Dr. Wilys Revenge 644c829dcef86f0e32e256de68834246.pdf</manual>
+		<box>media/boxes/Mega Man - Dr. Wilys Revenge 4ac93c244e78cc9a8cf2d02c4a1fa26b.png</box>
+		<image>media/images/Mega Man - Dr. Wilys Revenge 5615da2c141b286584297967164d635e.png</image>
+		<desc>《洛克人世界》的時間軸穿插在紅白機元祖洛克人正傳的各代之間。威利博士在過去的戰敗中吸取教訓，製造了時空跳躍裝置回到過去，盜取了已被洛克人打敗的機器人並加以強化（結合紅白機1代與2代的頭目）。同時，他製造了專門用來刺殺洛克人的「洛克人殺手」第一號──安卡（Enker）。洛克人必須再次挺身而出阻止他的野心。</desc>
+		<rating>0.80</rating>
+		<licences>Mega Man</licences>
+		<aliases>Mega Man - Dr. Wily's Revenge(ss)</aliases>
+		<name>Rockman World 洛克人世界</name>
+		<path>Rockman World (Japan).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853242">
+		<hash>B9AB5319</hash>
+		<region>us</region>
+		<players>1-2</players>
+		<genreid>1537</genreid>
+		<genre>Racing, Driving</genre>
+		<publisher>GameTek</publisher>
+		<developer>Gremlin Graphics Software</developer>
+		<releasedate>19940101T000000</releasedate>
+		<video>media/videos/Race Days f7af8e6d479ade8ffc38b312e7be70dd.mp4</video>
+		<logo>media/wheels/Race Days 2cdf801543d83b06ade5b8fd86e95747.png</logo>
+		<box>media/boxes/Race Days b9d9a3ebbf146dbf1e0aac78bf97bc19.png</box>
+		<image>media/images/Race Days 254ed89c0dba59875f609360b9fb430e.png</image>
+		<desc>同時收錄《金幣賽車》和《四輪驅動越野賽》，完美支援GB對戰連接線。兩款遊戲都內建了生涯模式。玩家必須從地方的小型比賽開始累積經驗和獎金，買新輪胎、升級引擎或是補充氮氣加速，一路打進全國錦標賽。</desc>
+		<rating>0.60</rating>
+		<aliases>Race Days(ss)</aliases>
+		<name>Race Days 賽車二合一</name>
+		<path>Race Days (USA).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848128">
+		<hash>0A12F53C</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / Versus,Fighting</genre>
+		<publisher>Playmates Interactive</publisher>
+		<developer>Takara</developer>
+		<releasedate>19950801T000000</releasedate>
+		<video>media/videos/World Heroes 2 Jet 10fcb04dafbbb0f7451615d5e4bf8202.mp4</video>
+		<logo>media/wheels/World Heroes 2 Jet 4d9b6f306235b3195e3d5e2baebb2f71.png</logo>
+		<manual>media/manuals/World Heroes 2 Jet a54c0eb40deeb448c7e86f27a29bcb47.pdf</manual>
+		<box>media/boxes/World Heroes 2 Jet 1d23d104663eb5bf55ff72491bafd2a7.png</box>
+		<image>media/images/World Heroes 2 Jet cbafcba140367266fabbfecdeefa7723.png</image>
+		<desc>熱鬥系列第三作，在《世界英雄》前兩代的故事中，瘋狂科學家布朗博士發明了時空穿梭機。為了證明「誰才是歷史上最強的英雄」，他從世界各個時空召喚了著名的歷史人物與神話英雄齊聚一堂，展開兩屆世界英雄大會。一年後，這14位回到過去的英雄們，再度收到了一封來自現代的邀請函，宣稱要舉辦「第三次世界超武會」。
+    
+開機後當畫面上出現TAKARA商標期間，輸入右、左、A、B、下、A、B、上，可以選Boss宙斯並開啟灼熱模式、空中連續技解鎖、能力分配解鎖。</desc>
+		<rating>0.85</rating>
+		<licences>World Heroes</licences>
+		<aliases>World Heroes 2 Jet(ss)</aliases>
+		<name>World Heroes 2 Jet 熱鬥-世界英雄2 JET</name>
+		<path>Nettou World Heroes 2 Jet (Japan) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850431">
+		<hash>D5A6B132</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / Versus,Fighting</genre>
+		<publisher>Takara</publisher>
+		<developer>Tamsoft</developer>
+		<releasedate>19960322T000000</releasedate>
+		<video>media/videos/Battle Arena Toshinden 171a439109dbad788551d127f7a2a35f.mp4</video>
+		<logo>media/wheels/Battle Arena Toshinden 80f63567f9f39e504ce614e5458b0379.png</logo>
+		<manual>media/manuals/Battle Arena Toshinden 720d92293d8475d47211b1b0eda665a5.pdf</manual>
+		<box>media/boxes/Battle Arena Toshinden 3c44862f7b497d4fe24e32421add7244.png</box>
+		<image>media/images/Battle Arena Toshinden 2c5567b9eb2b5dc8072648452cd9dbb6.png</image>
+		<desc>熱鬥系列第四作，PS著名3D格鬥《鬥神傳》的SD移植版。「鬥神武鬥會」是地下世界每隔幾年會祕密舉辦一次的強者之戰。參賽者允許使用除了槍械以外的任何武器進行對抗。參賽者們各懷目的：主角英二（Eiji）為了尋找失蹤的兄長「翔」（Sho）、劍士凱因（Kayin）為了向英二挑戰、旅行劍客主水（Mondo）為了執行密令……等。他們將一步步揭開主辦大會的神祕首腦「蓋亞」（Gaia）以及隱藏在其背後的真正黑幕。
+    
+在TAKARA商標消失、艾麗絲（Ellis）跳出來的瞬間輸入：↑、↓、A、B、→、←、A、B。成功會聽到效果音，能解鎖翔、蓋亞、蓋亞II與烏拉諾斯（URANUS）。在標題畫面（出現PUSH START）時，輸入 →、←、→、←、→、←、→、←（左右連按4次），開啟「熱鬥模式」。</desc>
+		<rating>0.60</rating>
+		<licences>Battle Arena Toshinden</licences>
+		<aliases>Battle Arena Toshinden(ss)</aliases>
+		<name>Nettou Toushinden 熱鬥-鬥神傳</name>
+		<path>Nettou Toushinden (Japan) (Rev A) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789852237">
+		<hash>FECDAE42</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / 2D,Fighting</genre>
+		<publisher>Laguna</publisher>
+		<developer>Takara</developer>
+		<releasedate>19970808T000000</releasedate>
+		<video>media/videos/King Of Fighters The - Heat Of Battle 0872b8ad4c2d34d05ca9e56efa0ca1e7.mp4</video>
+		<logo>media/wheels/King Of Fighters The - Heat Of Battle daa74196cac95331fb331c4c0826f3a7.png</logo>
+		<box>media/boxes/King Of Fighters The - Heat Of Battle 248105c7d866d26634dbb24ed3158396.png</box>
+		<image>media/images/King Of Fighters The - Heat Of Battle a30af6ea752ee01a53e13d0126e1a018.png</image>
+		<desc>熱鬥系列第七作，本次大會不再像前兩屆（94、95）由「路卡爾」祕密舉辦，而是轉為一場公開的全球盛事。然而，大賽背後暗潮洶湧：主角草薙京在賽前遭到神祕男子「高尼茨」（Goenitz）襲擊，促使他練成了新絕招:伍百貳拾四式·神塵/百二十八式·九傷；八神庵帶著兩名神祕女子麥卓與薇絲參賽；而神祕主辦人神樂千鶴，其真正目的是為了尋找能聯手封印大蛇（Orochi）的「三神器」傳人。
+    
+《熱鬥96》的密技粗暴簡單，在開機出現TAKARA商標時，按住方向鍵←+A鍵+B鍵不放連續按選擇SELECT鍵20次以上過程中會聽到好幾種音效，最後會有一聲響亮的「火焰燃燒聲」。可以一次解鎖暴走八神庵、暴走雷歐娜、神樂千鶴、高尼茨、空手道先生（aka.坂崎琢磨），可以同人組隊。還有無腦大招：按SELECT+A就會直接出必殺技；按SELECT+B 就會直接發動超必殺技（大絕）。</desc>
+		<rating>0.70</rating>
+		<licences>The King of Fighters</licences>
+		<aliases>King Of Fighters, The - Heat Of Battle(ss)</aliases>
+		<name>Nettou The King of Fighters '96 熱鬥-格鬥天王96</name>
+		<path>Nettou The King of Fighters '96 (Japan) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789851500">
+		<hash>8712F17B</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / Versus,Fighting</genre>
+		<publisher>SNK</publisher>
+		<developer>SNK</developer>
+		<releasedate>19960426T000000</releasedate>
+		<video>media/videos/King Of Fighters 95 The 35a2d12c31aa1434bcb8db0236a93390.mp4</video>
+		<logo>media/wheels/King Of Fighters 95 The 6e3c418e60ada8799a2cd7980dd07729.png</logo>
+		<box>media/boxes/King Of Fighters 95 The e256d1fafa6a59b49b0173f3b25fa5d0.png</box>
+		<image>media/images/King Of Fighters 95 The c19d399f40ee4692d75382138a27e1c4.png</image>
+		<desc>熱鬥系列第五作，上一屆KOF94大賽最後，主辦人路卡爾敗在草薙京手中，引爆方舟自盡。然而一年後，世界各地的格鬥家再度收到印有「R」字樣的邀請函。路卡爾並沒有死，他透過肉體改造手術成為「歐米茄·路卡爾」重返戰場！這一次，他不僅洗腦了草薙京的父親「草薙柴舟」使其成為大會中頭目，更釋放了體內的大蛇之力。同時，主角草薙京的宿敵八神庵首度率領「勁敵隊」參戰。格鬥家們必須突破重圍，將草薙柴舟從洗腦中解救出來，並徹底終結瘋狂路卡爾的野心。
+    
+《熱鬥95》的密技粗暴簡單，在開機出現TAKARA商標時，按住A+B不放， SELECT按1次開啟EX模式（紅血或氣滿直接按SELECT就能瞬間發大招）。接著再連按 SELECT鍵20次，解鎖柴舟、路卡爾和娜考露露（京的格子上方按方向鍵上）。</desc>
+		<rating>0.65</rating>
+		<licences>The King of Fighters</licences>
+		<aliases>King Of Fighters '95, The(ss)</aliases>
+		<name>Nettou The King of Fighters '95 熱鬥-格鬥天王95</name>
+		<path>Nettou The King of Fighters '95 (Japan) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853755">
+		<hash>995D0838</hash>
+		<region>jp</region>
+		<genreid>262</genreid>
+		<genre>Fighting / 2D,Fighting</genre>
+		<publisher>Takara</publisher>
+		<developer>Betop</developer>
+		<releasedate>19960823T000000</releasedate>
+		<video>media/videos/Nettou Samurai Spirits - Zankurou Musouken 5343f97ea13a2d51aeb0dbeb99240216.mp4</video>
+		<logo>media/wheels/Nettou Samurai Spirits - Zankurou Musouken 4cf6a5ec96c17930e93c4ee02fe0809a.png</logo>
+		<box>media/boxes/Nettou Samurai Spirits - Zankurou Musouken c6a6fa5d86e1a99dde46742b0166bda6.png</box>
+		<image>media/images/Nettou Samurai Spirits - Zankurou Musouken b992b05f5f8ca7af795292d26bac3d0c.png</image>
+		<desc>熱鬥系列第六作，完整保留修羅/羅剎以及劍質系統！1788年夏，被世人稱為「鬼」的瘋狂劍豪——壬無月斬紅郎（Zankuro）現身。手持巨大斬馬刀，在各個村莊展開無差別的血腥屠殺。在一次屠殺中，斬紅郎看到了一名尚在襁褓中的嬰兒，他心中殘存的「人性」讓他無法對毫無抵抗力的孩子下手。意識到自己內心「不完美」的斬紅郎，決定隱居起來，等待世間真正強大的格鬥家（能夠殺死他的人）前來挑戰。
+    
+隱藏可選角色只有一個，在TAKARA商標時，連按SELECT鍵3次解鎖。另外在TAKARA商標亮出時，依序輸入：A、↑、B、←、A、↓、B、→，可以選擇任何一位角色，直接播放他的劇情通關結局。</desc>
+		<aliases>Nettou Samurai Spirits - Zankurou Musouken(ss)</aliases>
+		<name>Nettou Samurai Spirits:Zankurou Musouken 熱鬥-侍魂:斬紅郎無雙劍</name>
+		<path>Nettou Samurai Spirits - Zankurou Musouken (Japan) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853466">
+		<hash>4A306276</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / Versus,Fighting</genre>
+		<publisher>Takara</publisher>
+		<developer>Takara</developer>
+		<releasedate>19940630T000000</releasedate>
+		<video>media/videos/Samurai Shodown ae4798aad5998c687153f72fbc3bbfed.mp4</video>
+		<logo>media/wheels/Samurai Shodown beeaaa00c2f0c515e16f65d0f17105fc.png</logo>
+		<box>media/boxes/Samurai Shodown 4ef46809d854822afdad81874d5d0837.png</box>
+		<image>media/images/Samurai Shodown 78488f7934c948f35a47f2a5d15c41cf.png</image>
+		<desc>GB熱鬥系列第一款作品《熱鬥-侍魂》，日本封建時代初期，邪神「安布羅夏」的僕人天草四郎時貞開始宣揚一種邪教。安布羅夏為了將世界籠罩在永恆的黑暗之中，強行附身並奪取了天草的肉體。現在，12位強悍的戰士（外加3位獎勵角色）為了完成各自背負的使命以及擊敗天草而戰。
+    
+在Genesis（Mega Drive）移植版由於當時16位元卡帶的記憶體容量限制以及技術的瓶頸，刪除了「地震」（Earthquake）這個巨型角色。有趣的是，容量更小的GB熱鬥版反而保留了「地震」這個巨型角色。本作密技:解鎖天草四郎時貞是在TAKARA商標的期間連按A鍵3次。解鎖「黑子」和無限大招「灼熱模式」是在標題畫面連按A鍵4次，成功畫面上的字體會閃爍或聽到音效，接著選人時游標移動到不知火幻庵上，接著按住方向鍵上不放。</desc>
+		<rating>0.75</rating>
+		<licences>Samurai Shodown</licences>
+		<aliases>Samurai Shodown(ss)</aliases>
+		<name>Nettou Samurai Spirits 熱鬥-侍魂</name>
+		<path>Nettou Samurai Spirits (Japan) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850451">
+		<hash>F4031D4C</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / 2D,Fighting</genre>
+		<publisher>Takara</publisher>
+		<developer>Gaibrain</developer>
+		<releasedate>19980327T000000</releasedate>
+		<video>media/videos/Nettou Real Bout Garou Densetsu Special 50d5345bbaa95f49be87b062f0411004.mp4</video>
+		<logo>media/wheels/Nettou Real Bout Garou Densetsu Special e67106f212619a262e4fcfd53179515c.png</logo>
+		<box>media/boxes/Nettou Real Bout Garou Densetsu Special 102b595281baca71a6e3b54f6004057c.png</box>
+		<image>media/images/Nettou Real Bout Garou Densetsu Special 580d7ec2a8912a9603173def88813746.png</image>
+		<desc>熱鬥第八作，容量是當時GB卡匣上限的8Mb。故事是祭典般的亂鬥，主角泰瑞·柏格（Terry Bogard）在南鎮決戰擊敗基斯後，內心深處無法擺脫仇恨的陰影。前作所有高手再度聚集（包括已故的基斯、二代登場的克勞薩等），一路打到最後時大賽看板赫然顯示出「NIGHTMARE」——墜樓身亡的基斯·哈瓦特以「噩夢」的形態成為最終隱藏頭目。同時格鬥天王（KOF）世界的八神庵也被捲入了餓狼傳說的世界中。
+  
+選COM時按住START後按B會隨機。隱藏角色要先進OPTION把游標移到SOUND&#160;TEST按住方向鍵左再按A，進去會看到SOFT DIP，把所有數字調成1後離開。進選人畫面移到克勞薩身上按START鍵頭像會變夢魘基斯，移到比利身上按START鍵頭像會變八神庵。對戰中按選擇鈕不放，再按A或B鈕，就能放大招。</desc>
+		<aliases>Nettou Real Bout Garou Densetsu Special(ss)</aliases>
+		<name>Nettou Real Bout Garou Densetsu Special 熱鬥-餓狼傳說RBS</name>
+		<path>Nettou Real Bout Garou Densetsu Special (Japan) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789846749">
+		<hash>AA98687F</hash>
+		<region>jp</region>
+		<genreid>262</genreid>
+		<genre>Fighting / 2D,Fighting</genre>
+		<publisher>Takara</publisher>
+		<developer>Sun L</developer>
+		<releasedate>19940729T000000</releasedate>
+		<video>media/videos/Nettou Garou Densetsu 2 2738ee58d41f3119684a6e50619b57cc.mp4</video>
+		<logo>media/wheels/Nettou Garou Densetsu 2 bc3eb56b20c533b970f3bb606dc3ff2b.png</logo>
+		<box>media/boxes/Nettou Garou Densetsu 2 d2818d7c5296427eba47cfdd1218bd90.png</box>
+		<image>media/images/Nettou Garou Densetsu 2 3b6a4c3b036d6ddadc885b252a91f366.png</image>
+		<desc>熱鬥系列第二作，放招式會有漫畫對話泡泡的有趣移植版。黑幫老大基斯墜樓後南鎮好不容易恢復平靜之際，來自歐洲人稱「影之帝王」的強大貴族——沃夫格·克勞薩（Wolfgang&#160;Krauser），得知了基斯的敗北。身為基斯同父異母的弟弟，克勞薩擁有遠超越基斯的恐怖實力。為了尋找能打敗基斯的強者，並藉機霸占南鎮擴張勢力，克勞薩接手舉辦了世界性的格鬥大賽「The&#160;King&#160;of&#160;Fighters」。
+    
+在TAKARA商標時，連按SELECT鍵3次解鎖原本隱藏的四位頭目。</desc>
+		<rating>0.65</rating>
+		<licences>Fatal Fury</licences>
+		<aliases>Nettou Garou Densetsu 2(ss)</aliases>
+		<name>Nettou Garou Densetsu 2 : Aratanaru Tatakai 熱鬥-餓狼傳說2</name>
+		<path>Nettou Garou Densetsu 2 - Aratanaru Tatakai (Japan) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789847792">
+		<hash>DEE05370</hash>
+		<region>ua</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂</developer>
+		<releasedate>19910826T000000</releasedate>
+		<tips>media/tipsandtricks/Metroid 2 - Return of Samus (UA) [!] 9c035b711c7675f20ae195e4d2cf7061.md</tips>
+		<video>media/videos/Metroid 2 - Return Of Samus ec0974a8993b8e2632417b85f3988935.mp4</video>
+		<logo>media/wheels/Metroid 2 - Return Of Samus 065f7ec0f76ea1d5c9969efea2281e79.png</logo>
+		<manual>media/manuals/Metroid 2 - Return Of Samus 9aa794dbd59116dd52f172deffe60425.pdf</manual>
+		<box>media/boxes/Metroid 2 - Return Of Samus a3892416b234dd8150adb4524060d1b7.png</box>
+		<image>media/images/Metroid 2 - Return Of Samus ae06780d8747c9362b932bf95be33f70.png</image>
+		<desc>在紅白機的前作賞金獵人薩姆斯·亞蘭（Samus&#160;Aran）在澤貝斯星（Zebes）成功摧毀宇宙海盜的基地並擊敗母腦（Mother&#160;Brain）。本作接受銀河聯邦委託，前往隻身前往危險物種密特羅德的母星SR388，調查精英特種部隊失聯的事故（懷疑是受到密特羅德metroid的攻擊），並且將其行星上的密特羅德消滅掉。</desc>
+		<rating>0.85</rating>
+		<licences>Metroid</licences>
+		<aliases>Metroid 2 - Return Of Samus(ss)</aliases>
+		<name>Metroid II : Return of Samus 銀河戰士2:薩姆斯的回歸</name>
+		<path>Metroid 2 - Return of Samus (UA) [!].gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789847811">
+		<hash>40F25740</hash>
+		<region>eu,us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>任天堂</publisher>
+		<developer>HAL Laboratory</developer>
+		<releasedate>19920427T000000</releasedate>
+		<video>media/videos/Kirbys Dream Land 6292150de04c0e9042c73b582337bc95.mp4</video>
+		<logo>media/wheels/Kirbys Dream Land daad8312aa6ac3981ccc894b0df36230.png</logo>
+		<manual>media/manuals/Kirbys Dream Land fd65d42d3ef0eb0298204eb749d904b6.pdf</manual>
+		<box>media/boxes/Kirbys Dream Land adebf03591e9df1a55129fa952f470dc.png</box>
+		<image>media/images/Kirbys Dream Land d2da4d10b8274e4c6407f13f974b2929.png</image>
+		<desc>《星之卡比》系列的開山之作。在遙遠宇宙的某個角落，有一個和平又快樂的國度叫做「噗噗噗國」。某天夜裡，附近城堡的自私暴君——帝帝帝大王（King&#160;Dedede）帶著他的部下們突然突襲了村莊。他們不僅搶走了居民們所有的儲備食物，還偷走了國家的命脈寶物——四顆「閃之星」（Sparkling&#160;Stars），導致噗噗噗之國的居民陷入了無法進食也無法做夢的危機。在眾人陷入絕望時，一個乘著風而來的神祕白色小傢伙——卡比（Kirby）挺身而出！</desc>
+		<rating>0.80</rating>
+		<licences>Kirby</licences>
+		<aliases>Kirby's Dream Land(ss)</aliases>
+		<name>Kirby's Dream Land 星之卡比</name>
+		<path>Kirby's Dream Land (USA, Europe).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848625">
+		<hash>4D2D8BC3</hash>
+		<region>eu</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / 2D,Fighting</genre>
+		<publisher>Laguna</publisher>
+		<developer>Takara</developer>
+		<releasedate>19980101T000000</releasedate>
+		<video>media/videos/King Of Fighters The - Heat Of Battle 0872b8ad4c2d34d05ca9e56efa0ca1e7.mp4</video>
+		<logo>media/wheels/King Of Fighters The - Heat Of Battle 8e75ce4a0c5f0ddabb99c857e7e32103.png</logo>
+		<box>media/boxes/King Of Fighters The - Heat Of Battle f4479fb35211ccdfbbd8c73ebb33f666.png</box>
+		<image>media/images/King Of Fighters The - Heat Of Battle d7bab44bd36d770de2e9d5da50e51392.png</image>
+		<desc>The battle of the dream teams '96 - READY! 27 of SNK's top fighting heroes face off for fisticuffs! Only King of Fighters lets you combine your favorite characters in exciting teams. Try out endless combinations and bop your way to the top with the toughest team of all! Over 2,900 possible team combinations using the Team Edit Function. It's too much!</desc>
+		<rating>0.70</rating>
+		<licences>The King of Fighters</licences>
+		<aliases>King Of Fighters, The - Heat Of Battle(ss)</aliases>
+		<name>The King of Fighters : Heat of Battle 熱鬥-格鬥天王96歐版</name>
+		<path>King of Fighters, The - Heat of Battle (Europe) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789849955">
+		<hash>1FF84E8C</hash>
+		<region>us</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / Versus,Fighting</genre>
+		<publisher>SNK</publisher>
+		<developer>SNK</developer>
+		<releasedate>19970201T000000</releasedate>
+		<video>media/videos/King Of Fighters 95 The 35a2d12c31aa1434bcb8db0236a93390.mp4</video>
+		<logo>media/wheels/King Of Fighters 95 The 2230857cf875f67c9e3dab1bdee04d06.png</logo>
+		<box>media/boxes/King Of Fighters 95 The f4a5352b94ecf3cb9c4a2c68cc9b8e6f.png</box>
+		<image>media/images/King Of Fighters 95 The 96d3f890b702f8eaee4e8e8612026d91.png</image>
+		<desc>The first sequel in the King of Fighters series picks up a year after the end of the first tournament. Once again, fighters from all over the world receive a mysterious invitation to a team-based fighting tournament. And just like last year, it appears that the notorious criminal Rugal Bernstein is behind it, apparently returning from the dead to raise havok once again...
+
+The King of Fighters '95 introduces Kyo Kusanagi's rival Iori Yagami, and firmly places Kyo as the main character for the rest of the series. The gameplay of The King of Fighters '95 is essentially unchanged from the previous title, though it does introduce the "team edit" concept which would remain as a standard feature of the series. Using the "team edit" feature, it is possible to create a totally customized team using any of the available fighters, or use one of the default teams if you wish.</desc>
+		<rating>0.65</rating>
+		<licences>The King of Fighters</licences>
+		<aliases>King Of Fighters '95, The(ss)</aliases>
+		<name>The King of Fighters '95 熱鬥-格鬥天王95美版</name>
+		<path>King of Fighters '95, The (USA) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848919">
+		<hash>7D890CD0</hash>
+		<region>us</region>
+		<players>1-4</players>
+		<genreid>259</genreid>
+		<genre>Shooter / FPV,Shooter</genre>
+		<publisher>Bullet Proof Software</publisher>
+		<developer>Xanth Software</developer>
+		<releasedate>19911201T000000</releasedate>
+		<video>media/videos/Faceball 2000 e95a81fc0ed80575a5b6cca02f0038a7.mp4</video>
+		<logo>media/wheels/Faceball 2000 71e8cf9c12de5001f271a0daa39d1f47.png</logo>
+		<manual>media/manuals/Faceball 2000 71538f2a769441312c28b086a67d85d7.pdf</manual>
+		<box>media/boxes/Faceball 2000 6d066edc9305bfc003a3fd9b49370077.png</box>
+		<image>media/images/Faceball 2000 0db599e05fc44e31884d22b99d82315c.png</image>
+		<desc>GameBoy歷史上第一款、也是極少數成功實現全3D的第一人稱射擊遊戲（FPS），並且可透過專用的對戰連接線，同時讓16個人連線玩死鬥模式。玩家丟進一個3D線條迷宮中，目標是在迷宮中探索，把其他同樣長著各種詭異笑臉的敵對幾何球體（例如叫做Gremlins、Rovers或Bouncers的敵人）全部用子彈打爆，最終尋找出口前往下一層。 
+    
+密技：在第5關時對著迷宮的門開槍。接著走到出口的正左方牆壁，對著牆壁開槍射擊後直接走過去觸發秘密傳送門。離開前對著左右兩邊的牆壁開槍，可以額外拿到一條命和強力武器「Auto-Mag」。接著踏入出口，遊戲會直接將你傳送到隱藏的極高難度終極考驗——第71關「Guardian」！</desc>
+		<rating>0.90</rating>
+		<licences>Faceball</licences>
+		<aliases>Faceball 2000(ss)</aliases>
+		<name>Faceball 2000 怪臉球2000</name>
+		<path>Faceball 2000 (USA).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789849679">
+		<hash>B40C159C</hash>
+		<region>eu,us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>任天堂</publisher>
+		<developer>Rareware</developer>
+		<releasedate>19971001T000000</releasedate>
+		<video>media/videos/Donkey Kong Land 3 a271317d82d148ee1e18c262aad5ef5f.mp4</video>
+		<logo>media/wheels/Donkey Kong Land 3 99af103493c97239a74edce0373f177d.png</logo>
+		<manual>media/manuals/Donkey Kong Land 3 8d2d6c3962c565e4f43132c4ce9933a8.pdf</manual>
+		<box>media/boxes/Donkey Kong Land 3 eb313dda928b59085a1fec74c9709bd6.png</box>
+		<image>media/images/Donkey Kong Land 3 e34f94baaad84fb7b21cbd19aa7eced4.png</image>
+		<desc>在上一代擊敗了科學怪人庫魯（KAOS）並拯救了全島之後，大金剛（Donkey&#160;Kong）與迪迪剛（Diddy&#160;Kong）聽聞世界上存在著一個充滿無盡寶藏與古老機關的夢幻島嶼——「失落的世界」，就興致勃勃地立刻出發去尋找這個祕境。
+    
+迪西剛（Dixie&#160;Kong）發現那兩個人居然不帶她一起去，感到非常生氣，決定自己出發。這時剛好遇上了力大無窮但心智還像個嬰兒的表弟迪尼剛（Kiddy&#160;Kong），迪尼剛便吵著要當跟屁蟲。無奈之下，迪西剛只好帶他踏上了尋找失落的世界的旅程。</desc>
+		<rating>0.60</rating>
+		<licences>Donkey Kong</licences>
+		<aliases>Donkey Kong Land 3(ss)</aliases>
+		<name>Donkey Kong Land III GB超級大金剛3</name>
+		<path>Donkey Kong Land III (USA, Europe) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853732">
+		<hash>EDAB3378</hash>
+		<region>jp,us</region>
+		<genreid>257</genreid>
+		<genre>Platform / Run &amp; Jump,Platform</genre>
+		<publisher>任天堂</publisher>
+		<developer>任天堂</developer>
+		<releasedate>19940614T000000</releasedate>
+		<video>media/videos/Donkey Kong 405ec63cd45d56c9d94a942c540c0d3e.mp4</video>
+		<logo>media/wheels/Donkey Kong b7975397199fe80e13db6e22084f21c8.png</logo>
+		<manual>media/manuals/Donkey Kong d8fc61e5b93f62f76dbf8c78d0f6459e.pdf</manual>
+		<box>media/boxes/Donkey Kong a426f2b809bc95207865410c8ff21df7.png</box>
+		<image>media/images/Donkey Kong d79588e547e614219c09693dab2cace0.png</image>
+		<desc>遊戲開頭與1981年的街機初代完全一模一樣：大金剛綁架了女主角波琳（Pauline），木匠瑪利歐挺身而出。玩家打通經典的4個單螢幕關卡，最後將高台的鉚釘全部拔除，大金剛頭朝下摔了下去，瑪利歐成功與波琳擁抱重逢。
+    
+突然！大金剛完好無缺爬了起來！趁著瑪利歐不注意，再度一把抓起波琳扛著她逃出了大樓建築工地，一路奔向市中心。這時畫面才彈出真正的世界地圖，玩家會震驚地發現：真正的冒險現在才要開始！後面竟然藏了高達9個全新世界、97個原創益智解謎關卡。
+
+- Classic arcade fun with 10 stages and 100 advanced puzzles
+- Thrilling new adventure elements for added excitement
+- 4 megabyte game contains a battery back-up</desc>
+		<rating>0.80</rating>
+		<licences>Donkey Kong</licences>
+		<aliases>Donkey Kong(ss)</aliases>
+		<name>Donkey Kong 大金剛'94</name>
+		<path>Donkey Kong (Japan, USA) (SGB Enhanced).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848702">
+		<hash>CDE6DE15</hash>
+		<region>jp</region>
+		<genreid>256</genreid>
+		<genre>Shooter / Run and Gun,Shooter</genre>
+		<publisher>Ultra Games</publisher>
+		<developer>柯拿米</developer>
+		<releasedate>19910108T000000</releasedate>
+		<video>media/videos/Operation C dca57b181247e0d3cbadce7f1bd625ec.mp4</video>
+		<logo>media/wheels/Operation C ca2d9de353eb0716f66f27ba51740eba.png</logo>
+		<manual>media/manuals/Operation C f3364a84484ff7ed700c4d026e15ce8e.pdf</manual>
+		<box>media/boxes/Operation C df4c6c9019857d40fa9da48b5645e381.png</box>
+		<image>media/images/Operation C 8ef74296e2b7fe20c6384449cc1f09fc.png</image>
+		<desc>GB上的外傳，故事發生在FC&#160;2代《超級魂斗羅》與SFC&#160;3代《魂斗羅:異形戰爭》間的西元2635年。在前兩次大戰（街機/FC的初代與2代）中，魂斗羅部隊成功粉碎了外星侵略者「紅隼」的陰謀。然而到地球聯邦軍獲得了極密情報：敵對國家的黑毒蛇集團在南太平洋的一座孤島建立了軍事基地，他們在廢墟中用大戰殘留的外星人細胞祕密進行生化實驗，企圖利用異形基因來研發稱霸世界的強力生化武器。
+    
+由於是對地球上其他國家的「祕密軍事設施」進行滲透，而非的外星人全面入侵，因此地球聯邦將此行動定調為極密行動（Operation&#160;C）。比爾·雷澤獨自一人潛入小島，沿途突破了敵方的軍港、地底基地、熱帶叢林，一路殺進最深處的「異變生物實驗區」。比爾目睹了大量被黑毒蛇集團強行培育、複製的外星異形卵與幼蟲。</desc>
+		<rating>0.90</rating>
+		<licences>Contra</licences>
+		<aliases>Operation C(ss)</aliases>
+		<name>Contra GB魂斗羅</name>
+		<path>Contra (Japan).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789851352">
+		<hash>7BFD1CFF</hash>
+		<region>jp</region>
+		<genreid>260</genreid>
+		<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
+		<publisher>T&amp;E Soft</publisher>
+		<developer>T&amp;E Soft</developer>
+		<releasedate>19921218T000000</releasedate>
+		<video>media/videos/Chikyuu Kaihou Gun Zas 7716bf76b7d24e08a0ea907e06c28abe.mp4</video>
+		<logo>media/wheels/Chikyuu Kaihou Gun Zas 537a4f817a883cba6a269877cd0dd3ff.png</logo>
+		<box>media/boxes/Chikyuu Kaihou Gun Zas e6333b5d3db7e95b2cc274fb012e18c0.png</box>
+		<image>media/images/Chikyuu Kaihou Gun Zas cfec88068d53652f876308df12304a7c.png</image>
+		<desc>在未來，一個擁有超高等科技的神祕地外生命體「機械軍團」突然降臨太陽系，以壓倒性的武力迅速佔領了整個地球，人類被迫陷入被奴役與滅絕的危機。為了奪回母星，殘存的人類軍隊集結了所有殘存的資源，秘密成立地球解放軍。研發出了一架集結人類最高科技結晶的究極超時空戰鬥機——
+    
+GameBoy史上最強、畫面最不可思議的硬體奇蹟神作，在只有4階灰階、殘影極度嚴重的初代GB黑白銀幕上，程式設計師達成了以下驚人效果：多層動態滾動，動態殘影調配的半透明護盾與平滑的爆炸火焰，高流暢度的密集彈幕與巨大Boss。</desc>
+		<rating>0.80</rating>
+		<aliases>Chikyuu Kaihou Gun Zas(ss)</aliases>
+		<name>Chikyuu Kaihou Gun ZAS 地球解放軍ZAS</name>
+		<path>Chikyuu Kaihou Gun ZAS (Japan).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789845902">
+		<hash>6977C265</hash>
+		<region>eu</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>柯拿米</publisher>
+		<developer>柯拿米</developer>
+		<releasedate>19900928T000000</releasedate>
+		<video>media/videos/Castlevania - The Adventure 7d518d95c065ec15a15c13f9e3be6a8e.mp4</video>
+		<logo>media/wheels/Castlevania - The Adventure 9b1fecb2ecc91a27458ae1c8dbc1b0a9.png</logo>
+		<manual>media/manuals/Castlevania - The Adventure 78cb9a8e32ba22fe84b741a2ab17b184.pdf</manual>
+		<box>media/boxes/Castlevania - The Adventure 4daa095964572cec159c3d1486fa0e1b.png</box>
+		<image>media/images/Castlevania - The Adventure 2c7a0d349993593675b1aca38079531b.png</image>
+		<desc>故事背景設定在1576年（初代主角西蒙誕生的一百年前）。吸血鬼魔王德古拉伯爵再度復活，為人間帶來黑暗。貝爾蒙特一族的克里斯多福（Christopher&#160;Belmont）挺身而出，手持祖傳的神聖鞭子隻身闖入惡魔城。在經過慘烈的激戰後，克里斯多福成功擊碎了德古拉的肉身，但德古拉的靈魂卻化為霧氣逃走，並暗中等待復仇的時機。</desc>
+		<rating>0.60</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania - The Adventure(ss)</aliases>
+		<name>Castlevania : The Adventure 惡魔城傳說</name>
+		<path>Castlevania Adventure, The ('91) (UE) [!].gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789851340">
+		<hash>8875C8FE</hash>
+		<region>us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>柯拿米</publisher>
+		<developer>柯拿米</developer>
+		<releasedate>19910712T000000</releasedate>
+		<video>media/videos/Castlevania 2 - Belmonts Revenge 8478fb3bd04705914357442a4bc8c676.mp4</video>
+		<logo>media/wheels/Castlevania 2 - Belmonts Revenge dda9e6820cc1c11b9717ce38f115624c.png</logo>
+		<manual>media/manuals/Castlevania 2 - Belmonts Revenge 99f9f3f0f9ad2141f644d30844b25a51.pdf</manual>
+		<box>media/boxes/Castlevania 2 - Belmonts Revenge 9dd553ad11709643f87b8abc95692e87.png</box>
+		<image>media/images/Castlevania 2 - Belmonts Revenge a0f62d8b1bb33c274f4de32e73ba957e.png</image>
+		<desc>時間來到前作的15年後（1591年）。克里斯多福的兒子索雷優·貝爾蒙特（Soleiyu Belmont）年滿15歲，正準備繼承家族的「吸血鬼殺手」聖鞭與滅魔重任。然而，在前作中靈魂化為迷霧的德古拉卻在此時現身，他利用魔力洗腦並綁架了索雷優，企圖藉由他的貝爾蒙特之血讓自己完全復活。為了拯救親生兒子並徹底了結恩怨，老當益壯的克里斯多福再度拿起聖鞭踏上旅程。</desc>
+		<rating>0.80</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania 2 - Belmont's Revenge(ss)</aliases>
+		<name>Castlevania II : Belmont's Revenge 貝爾蒙特的復仇</name>
+		<path>Castlevania 2 - Belmont's Revenge (U) [!].gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850788">
+		<hash>AD9C17FB</hash>
+		<region>us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>柯拿米</publisher>
+		<developer>柯拿米</developer>
+		<releasedate>19980101T000000</releasedate>
+		<video>media/videos/Castlevania Legends e446f14235c7baef3d5dba8f5967f034.mp4</video>
+		<logo>media/wheels/Castlevania Legends d0fd3c63f71f53af7e0cc338677c52b1.png</logo>
+		<manual>media/manuals/Castlevania Legends e446ef8241e6cc44997376f2d73c9e27.pdf</manual>
+		<box>media/boxes/Castlevania Legends f50fea57c0d8cadb9878e83a29d17939.png</box>
+		<image>media/images/Castlevania Legends 0db861bfc2509bddf141f6c7ae92ddb2.png</image>
+		<desc>遊戲的背景設定在1450年，此時吸血鬼獵人一族並不存在。主人公「索妮亞·貝爾蒙特」從小具有能看見靈體的特殊體質，並跟隨祖父學習鞭法。十七歲的某天祖父被魔物殺害、家園被毀後，她憤而拿起祖父遺留下來的神聖鞭子，隻身闖入惡魔城。旅途中她還遇到了德古拉的逆子Alucard，最終索妮亞擊敗了德古拉。經典的副武器在本作變成收集品五大傳家聖物，改使用大量消耗愛心的靈魂武器（Soul&#160;Weapon）以及每關限用一次的爆氣模式（Burning&#160;Mode）。
+    
+原本是惡魔城歷史起源之作，完美結局暗示貝爾蒙特家族的後代其實流淌著阿魯卡多的吸血鬼血脈。但《漆黑的前奏曲》在時間線上與1989年的經典作品《惡魔城傳說》產生了極大的劇情衝突（如拉爾夫的出身與Alucard的沉睡時間線對不上），導致降格為「平行世界的外傳」，同時角色被無限期冷凍。</desc>
+		<rating>0.65</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania Legends(ss)</aliases>
+		<name>Castlevania Legends 惡魔城:漆黑的前奏曲</name>
+		<path>Castlevania - Legends (U) [S].gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789847605">
+		<hash>AF1AE123</hash>
+		<region>eu,us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>GT Interactive Software</publisher>
+		<developer>Viacom New Media</developer>
+		<releasedate>19990301T000000</releasedate>
+		<video>media/videos/Beavis And Butt-head 09ce75ec0fccd744b25d52c9f0a39fad.mp4</video>
+		<logo>media/wheels/Beavis And Butt-head c750e1496909157bf9bc63051edf4f69.png</logo>
+		<manual>media/manuals/Beavis And Butt-head 0a741f5e634ef612e6b7cd9c9bae971c.pdf</manual>
+		<box>media/boxes/Beavis And Butt-head 9d036f73b3a514c424d4711464e4ea0e.png</box>
+		<image>media/images/Beavis And Butt-head a82e6bec97e22fcf67314068c3b756e4.png</image>
+		<desc>Beavis and Butt-head need you! Help the boys escape from Buzzcut's detention! Steer your favorite morons through sewers, parks, Burger World, karate school, and loads of nose-picking, head-banging action! You'll dodge Todd's gang! Kill Cockroaches! Deliver Burgers! And master the dreaded Nad-kick!
+
+Features:
+- More than 10 adventure-packed areas of moronic mayhem - escape detention, flee gangs, outrun rabid dogs, and tear up a karate school.
+- Varied game play views: side-scrolling and overhead perspectives along with challenging mini-games.
+- Diverse environments including the school grounds, city jail, Burger World, the karate school, and more.</desc>
+		<rating>0.35</rating>
+		<licences>Beavis and Butt-head</licences>
+		<aliases>Beavis And Butt-head(ss)</aliases>
+		<name>Beavis and Butt-Head 癟四與大頭蛋</name>
+		<path>Beavis and Butt-Head (USA, Europe).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789852334">
+		<hash>5124BBEC</hash>
+		<region>eu,us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Sunsoft</publisher>
+		<developer>Sunsoft</developer>
+		<releasedate>19920502T000000</releasedate>
+		<video>media/videos/Batman - Return Of The Joker f1de2c29f03e8e9af691d836a33eb4d8.mp4</video>
+		<logo>media/wheels/Batman - Return Of The Joker 76981094eb06d691e1793a68bc4eedb7.png</logo>
+		<manual>media/manuals/Batman - Return Of The Joker df696e26b920a4db22feb229a877cf60.pdf</manual>
+		<box>media/boxes/Batman - Return Of The Joker f69d4dd6f2ce994031c10d1752112685.png</box>
+		<image>media/images/Batman - Return Of The Joker db4db2e40990b8e7d6ca6276d8ee4b26.png</image>
+		<desc>高譚市的犯罪之王小丑再度復活！他帶領暴徒搶劫高譚市的頂級重工業博覽會，不僅奪走高科技軍用晶片，還綁架了數名科學家，企圖利用晶片製造出大規模毀滅導彈。為了應對這次危機，蝙蝠俠啟用全新的「重裝高科技戰甲」。這套戰甲配備了能發射多種彈藥的手腕發射器，並強化滑行與防禦能力。蝙蝠俠必須隻身深入高譚市的陰暗角落，解救科學家並摧毀小丑的計劃。</desc>
+		<rating>0.60</rating>
+		<licences>Batman</licences>
+		<aliases>Batman - Return Of The Joker(ss)</aliases>
+		<name>Batman : Return of the Joker 蝙蝠俠:小丑歸來</name>
+		<path>Batman - Return of the Joker (USA, Europe).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848748">
+		<hash>F1BBDCD9</hash>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>柯拿米</publisher>
+		<developer>柯拿米</developer>
+		<releasedate>19980101T000000</releasedate>
+		<video>media/videos/Castlevania Legends e446f14235c7baef3d5dba8f5967f034.mp4</video>
+		<logo>media/wheels/Castlevania Legends 11e647d04f92a70ef402f34976a80a3c.png</logo>
+		<manual>media/manuals/Castlevania Legends e446ef8241e6cc44997376f2d73c9e27.pdf</manual>
+		<box>media/boxes/Castlevania Legends bf45dc442f66b615e09364f120345c15.png</box>
+		<image>media/images/Castlevania Legends c9f20dd8fadc58cd5d1c144fa485c5a6.png</image>
+		<desc>遊戲的背景設定在1450年，此時吸血鬼獵人一族並不存在。主人公「索妮亞·貝爾蒙特」從小具有能看見靈體的特殊體質，並跟隨祖父學習鞭法。十七歲的某天祖父被魔物殺害、家園被毀後，她憤而拿起祖父遺留下來的神聖鞭子，隻身闖入惡魔城討伐德古拉伯爵。經典的副武器在本作變成收集品五大傳家聖物，改使用大量消耗愛心的靈魂武器（Soul&#160;Weapon）以及每關限用一次的爆氣模式（Burning&#160;Mode）。
+    
+原本是惡魔城歷史起源之作，完美結局甚至暗示貝爾蒙特家族的後代其實流淌著阿魯卡多的吸血鬼血脈。但《漆黑的前奏曲》在時間線上與1989年的經典作品《惡魔城傳說》產生了極大的劇情衝突（如拉爾夫的出身與阿魯卡多的沉睡時間線對不上），導致降格為「平行世界的外傳」，同時角色被無限期冷凍。</desc>
+		<rating>0.65</rating>
+		<name>Akumajou Dracula3(DMG CN)惡魔城3(簡體漢化)</name>
+		<path>Akumajou Dracula3 (DMG CN).gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1789846820">
+		<hash>4825B25F</hash>
+		<region>jp</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>柯拿米</publisher>
+		<developer>柯拿米</developer>
+		<releasedate>19980101T000000</releasedate>
+		<video>media/videos/Castlevania Legends e446f14235c7baef3d5dba8f5967f034.mp4</video>
+		<logo>media/wheels/Castlevania Legends 11e647d04f92a70ef402f34976a80a3c.png</logo>
+		<manual>media/manuals/Castlevania Legends e446ef8241e6cc44997376f2d73c9e27.pdf</manual>
+		<box>media/boxes/Castlevania Legends bf45dc442f66b615e09364f120345c15.png</box>
+		<image>media/images/Castlevania Legends c9f20dd8fadc58cd5d1c144fa485c5a6.png</image>
+		<desc>遊戲的背景設定在1450年，此時吸血鬼獵人一族並不存在。主人公「索妮亞·貝爾蒙特」從小具有能看見靈體的特殊體質，並跟隨祖父學習鞭法。十七歲的某天祖父被魔物殺害、家園被毀後，她憤而拿起祖父遺留下來的神聖鞭子，隻身闖入惡魔城。旅途中她遇到了德古拉的親生兒子Alucard，兩人在共同作戰中暗生情愫，最終索妮亞擊敗了德古拉，但也讓這段戀情成為了家族傳承的起點。經典的副武器在本作變成收集品五大傳家聖物，改使用大量消耗愛心的靈魂武器（Soul&#160;Weapon）以及每關限用一次的爆氣模式（Burning&#160;Mode）。
+    
+原本是惡魔城歷史起源之作，完美結局暗示貝爾蒙特家族的後代其實流淌著阿魯卡多的吸血鬼血脈。但《漆黑的前奏曲》在時間線上與1989年的經典作品《惡魔城傳說》產生了極大的劇情衝突（如拉爾夫的出身與Alucard的沉睡時間線對不上），導致降格為「平行世界的外傳」，同時角色被無限期冷凍。</desc>
+		<rating>0.65</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania Legends(ss)</aliases>
+		<name>Akumajou Dracula:Shikkoku Taru Zensoukyoku,惡魔城:漆黑的前奏曲</name>
+		<path>Akumajou Dracula - Shikkokutaru Zensoukyoku (J) [S][!].gb</path>
+	</game>
+	<game source="Recalbox" timestamp="1790330948">
+		<hash>24666C4D</hash>
+		<region>eu,us</region>
+		<players>1-2</players>
+		<genreid>1537</genreid>
+		<genre>Racing, Driving</genre>
+		<publisher>Supersonic Software</publisher>
+		<developer>Supersonic Software</developer>
+		<releasedate>19960101T000000</releasedate>
+		<video>media/videos/Micro Machines 2 - Turbo Tournament ecea18ada05a6d11d017d196ce0de188.mp4</video>
+		<logo>media/wheels/Micro Machines 2 - Turbo Tournament aba71bc497b52f427dd764a321a1aff9.png</logo>
+		<box>media/boxes/Micro Machines 2 - Turbo Tournament 801c5eda2c78898f1d39e5adbf216b12.png</box>
+		<image>media/images/Micro Machines 2 - Turbo Tournament dce9c32739ca74ccc170bd0ef07a6630.png</image>
+		<desc>微型機械Turbo&#160;Tournament是歐洲限定的黑白GB二代，在黑白畫面上塞進2代特有的氣墊船、直升機，並且保留了比1代更多更細膩的車輛物理甩尾和碰撞慣性。</desc>
+		<rating>0.80</rating>
+		<licences>Micro Machines</licences>
+		<aliases>Micro Machines 2 - Turbo Tournament(ss)</aliases>
+		<name>Micro Machines 2 : Turbo Tournament 微型機械2</name>
+		<path>Micro Machines 2 - Turbo Tournament.gb</path>
+	</game>
+</gameList>

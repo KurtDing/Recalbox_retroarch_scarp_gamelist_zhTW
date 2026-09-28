@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1789849555">
+		<hash>86E7F989</hash>
+		<region>jp,us</region>
+		<genreid>256</genreid>
+		<genre>Shooter / TPV,Shooter</genre>
+		<publisher>SEGA</publisher>
+		<developer>SEGA</developer>
+		<releasedate>19941203T000000</releasedate>
+		<video>media/videos/Space Harrier 55db2a85596aca0999671cdaffe1aaba.mp4</video>
+		<logo>media/wheels/Space Harrier 4ac0bce36143d926d449c1a831e022e2.png</logo>
+		<manual>media/manuals/Space Harrier cef1f164cccb05dd2bd899aea40a2777.pdf</manual>
+		<box>media/boxes/Space Harrier f0ddadc004c377ff3b05dc19c27ad8a0.png</box>
+		<image>media/images/Space Harrier 9c822076a9054a957635c2d095b8e7b9.png</image>
+		<desc>Deep Space. The last blast! You pick up a frantic distress call from deep space. You teleport to the Land of the Dragons which is swarming with incredible monsters. You must laser blast your way by giant snakes and robotic monsters. Blast through rings of fire, blazing dragons, dreaded orbs and mutant space-heads!</desc>
+		<rating>0.70</rating>
+		<licences>Space Harrier</licences>
+		<aliases>Space Harrier(ss)</aliases>
+		<name>Space Harrier 太空哈利</name>
+		<path>Space Harrier (Japan, USA).32x</path>
+	</game>
+	<game source="Recalbox" timestamp="1789852049">
+		<hash>60C49E4D</hash>
+		<region>eu,us</region>
+		<players>1-2</players>
+		<genreid>260</genreid>
+		<genre>Shoot'em Up</genre>
+		<publisher>SEGA</publisher>
+		<developer>SEGA</developer>
+		<releasedate>19950101T000000</releasedate>
+		<video>media/videos/Stellar Assault 6470cb5250aa31a509f73a890d536e3e.mp4</video>
+		<logo>media/wheels/Stellar Assault 8c26c83ae6313eeea0bfd96759eb106b.png</logo>
+		<manual>media/manuals/Stellar Assault fa605776f1a9942ae2198393aa377d1d.pdf</manual>
+		<box>media/boxes/Stellar Assault 64efbb29aff8550929b41fe123eb7f67.png</box>
+		<image>media/images/Stellar Assault 30b7868ffa06851384db845731a7875f.png</image>
+		<desc>在銀河系的邊陲地帶，一股殘暴且科技極度發達的外星未知帝國勢力突然發起大舉入侵，並在宇宙深處動工建造了一座威力無比的「太陽能雷射巨砲（Sun-powered&#160;laser&#160;cannon）」。一旦巨砲蓄能完畢，聯邦的所有防線都將灰飛煙滅。在聯邦軍隊節節敗退的生死關頭，玩家扮演一名剛剛晉升的飛行員，隸屬於聯邦最後的王牌精銳——「暗影中隊（Shadow&#160;Squadron）」。你必須衝入敵陣擊潰帝國整支軍隊，並徹底炸毀巨砲，為聯邦奪回一線生機。</desc>
+		<rating>0.75</rating>
+		<aliases>Stellar Assault(ss)</aliases>
+		<name>Shadow Squadron 暗影中隊</name>
+		<path>Shadow Squadron ~ Stellar Assault (USA, Europe).32x</path>
+	</game>
+	<game source="Recalbox" timestamp="1789851462">
+		<hash>14E5C575</hash>
+		<region>jp,us</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>SEGA</publisher>
+		<developer>SEGA</developer>
+		<releasedate>19950324T000000</releasedate>
+		<video>media/videos/Tempo 6af0dc86e57e80e176bcd8916ad8021a.mp4</video>
+		<logo>media/wheels/Tempo 8bcd069c9ed3daed97f1ee96065b2cb4.png</logo>
+		<manual>media/manuals/Tempo 0b160fe73e59074e78517cc19454e8cd.pdf</manual>
+		<box>media/boxes/Tempo 9a83ee9cd5e5cc53a54e0519fb37b05d.png</box>
+		<image>media/images/Tempo df70af4da135c745dbb824d6987a64c4.png</image>
+		<desc>在一個將音樂與節奏視為生命能量來源的神秘星球上，熱愛舞蹈與音樂的居民原本過著無憂無慮的生活。然而，邪惡的「卡林巴琴王」為了統治世界，竟然施展魔力奪走了星球上所有的聲音、音樂與節奏，企圖將世界陷入永恆的死寂與黑暗中。星球唯一的希望，落在了熱愛饒舌、爵士樂且個性無比自嗨的「綠色蚱蜢特工」——Tempo身上。</desc>
+		<rating>0.75</rating>
+		<aliases>Tempo(ss)</aliases>
+		<name>Tempo 音樂蚱蜢</name>
+		<path>Tempo (Japan, USA).32x</path>
+	</game>
+	<game source="Recalbox" timestamp="1789853292">
+		<hash>B5DE9626</hash>
+		<region>jp,us</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Fighting / 3D,Fighting</genre>
+		<publisher>SEGA</publisher>
+		<developer>SEGA</developer>
+		<releasedate>19951019T000000</releasedate>
+		<video>media/videos/Virtua Fighter 96cb56bdef116a892e63f78d2cb12928.mp4</video>
+		<logo>media/wheels/Virtua Fighter 59d3f80baacc52419beb763215f84c41.png</logo>
+		<manual>media/manuals/Virtua Fighter d7e60a7ab4d4ae85f51135af75e89487.pdf</manual>
+		<box>media/boxes/Virtua Fighter d9a316c1d1f39cc6aeb9eb6fb4655ed2.png</box>
+		<image>media/images/Virtua Fighter 52f91798853e250a3c7a4234f050fb82.png</image>
+		<desc>大型電玩VR快打移植版。Originally released to arcades in 1993, Virtua Fighter was the first of its kind: A one-on-one fighting game featuring fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on deep gameplay based on actual fighting styles, rather than outrageous special moves and story lines.
+
+There are 8 fighters to choose from in Virtua Fighter, and an equal number of fighting backdrops in which to compete. Each fighter has a distinctive fighting style, and their own set of signature moves.</desc>
+		<rating>0.70</rating>
+		<licences>Virtua Fighter</licences>
+		<aliases>Virtua Fighter(ss)</aliases>
+		<name>Virtua Fighter VR快打</name>
+		<path>Virtua Fighter (Japan, USA).32x</path>
+	</game>
+	<game source="Recalbox" timestamp="1789847395">
+		<hash>0908E888</hash>
+		<region>jp</region>
+		<players>1-2</players>
+		<genreid>1537</genreid>
+		<genre>Racing, Driving</genre>
+		<publisher>SEGA</publisher>
+		<developer>SEGA</developer>
+		<releasedate>19941216T000000</releasedate>
+		<video>media/videos/Virtua Racing Deluxe 03e5f70eaf847aab5affca7b1e6c0ab8.mp4</video>
+		<logo>media/wheels/Virtua Racing Deluxe 1fa2782502d9d9222cb15b154f95e22e.png</logo>
+		<manual>media/manuals/Virtua Racing Deluxe 9e204daf83a83a512ccdb6ca569b969c.pdf</manual>
+		<box>media/boxes/Virtua Racing Deluxe 98a67fa7f2308e33dff157cb29012ec1.png</box>
+		<image>media/images/Virtua Racing Deluxe dbf6080424c7bc9471f41a9f90f9592a.png</image>
+		<desc>大型電玩VR賽車移植版。Virtua Racing Deluxe is an enhanced arcade-to-console conversion of Sega's 3D racing game. This game is primarily an arcade-style affair; Players compete in a 5 lap race with timed checkpoints. It's also possible to play with 2 players in a split-screen mode.
+
+The 32X version of Virtua Racing adds a couple of new features. There are now 3 different types of cars to drive, including a stock car and a prototype racer. Furthermore, there are two all-new tracks.</desc>
+		<rating>0.75</rating>
+		<licences>Virtua Racing</licences>
+		<aliases>Virtua Racing Deluxe(ss)</aliases>
+		<name>Virtua Racing Deluxe VR賽車DX</name>
+		<path>Virtua Racing Deluxe (Japan).32x</path>
+	</game>
+	<game source="Recalbox" timestamp="1789845957">
+		<hash>D1A60A47</hash>
+		<region>us</region>
+		<genreid>258</genreid>
+		<genre>Platform / Shooter Scrolling,Platform</genre>
+		<publisher>SEGA</publisher>
+		<developer>Interplay</developer>
+		<releasedate>19951001T000000</releasedate>
+		<video>media/videos/Blackthorne d2928d89cac68231d8147d5e63ebb033.mp4</video>
+		<logo>media/wheels/Blackthorne 1f483e0e367ea22bb68ee38e44713e41.png</logo>
+		<manual>media/manuals/Blackthorne 10d743196d13def8c1276350b42393f5.pdf</manual>
+		<box>media/boxes/Blackthorne e3c8d3d250b778cb2f41f12982f11dc1.png</box>
+		<image>media/images/Blackthorne dc172c549dcf0517e0aee6cd96e1bdc5.png</image>
+		<desc>本作與《失落的維京人》（The&#160;Lost&#160;Vikings）及《搖滾賽車》（Rock&#160;n'&#160;Roll&#160;Racing）並稱為「暴雪早期三大神作」。本作核心機制是「躲入陰影」。當玩家按住「上」鍵時，主角會貼牆躲入背景，此時免疫敵人所有的子彈。玩家必須仔細觀察敵人的開火間隙，趁其換彈或背對你時，跨步走出來開槍轟殺敵人。關卡中還充滿複雜的平台跳躍與雷射陷阱。玩家需要利用遠端蜂型炸彈來炸毀發電機，策略感十足。.</desc>
+		<rating>0.70</rating>
+		<licences>Blackthorne</licences>
+		<aliases>Blackthorne(ss)</aliases>
+		<name>Blackthorne 黑鷹戰士</name>
+		<path>Blackthorne (USA).32x</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850960">
+		<hash>D0B0B842</hash>
+		<region>jp,us</region>
+		<players>1-2</players>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>SEGA</publisher>
+		<developer>Sonic Team</developer>
+		<releasedate>19950421T000000</releasedate>
+		<video>media/videos/Knuckles Chaotix 65e62ff3f2a40064f2f4f0b3e95430f0.mp4</video>
+		<logo>media/wheels/Knuckles Chaotix d9939924f9d41478dcf04b14a6ec6bc5.png</logo>
+		<manual>media/manuals/Knuckles Chaotix ed3ebb2f2e45ecce42bfb569d9deb875.pdf</manual>
+		<box>media/boxes/Knuckles Chaotix 0bef0a808cd16036f788b3e55188035c.png</box>
+		<image>media/images/Knuckles Chaotix 50c0159be6579fe08daacb2b43640c9a.png</image>
+		<desc>在一個從海底突然升起的神秘島嶼「嘉年華島（Carnival Island）」發現了一種蘊含巨大時空能量的神祕結晶——「混沌之環」。反派蛋頭博士（Dr. Eggman）得知消息後，迅速制壓了這座島嶼將混沌戒指的能量與自己的重力控制裝置結合，企圖將整座島改造成征服世界的終極要塞。正在島上進行調查的納克魯斯目睹了這一切。為了阻止蛋頭博士，他救出了被囚禁的同伴，並組成了名為「卡歐蒂斯（Chaotix）」的雜牌軍，利用神奇的「環鏈能量」攜手合作，誓要將蛋頭博士趕出嘉年華島。
+    
+遊戲中玩家必須同時操作兩名角色（由AI控制另一人，或雙人遊玩）。兩名角色之間會由一條充滿彈性的光束能量鏈連接。玩家不能再像以前一樣一味往前衝。必須利用這條能量鏈的物理特性——例如讓一名角色定在原地（Hold），另一名角色拼命往前拉長能量鏈，鬆開後利用如同「橡皮筋彈射」或「圓周運動離心力」的物理慣性，將兩人以超越音速的恐怖速度彈射飛天，玩法極其考驗操作技巧。</desc>
+		<rating>0.75</rating>
+		<licences>Sonic</licences>
+		<aliases>Knuckles' Chaotix(ss)</aliases>
+		<name>Chaotix 音速小子32X</name>
+		<path>Chaotix ~ Knuckles' Chaotix (Japan, USA).32x</path>
+	</game>
+	<game source="Recalbox" timestamp="1789850213">
+		<hash>20CA53EF</hash>
+		<region>eu,us</region>
+		<players>1-2</players>
+		<genreid>260</genreid>
+		<genre>Shoot'em Up / Horizontal,Shoot'em Up</genre>
+		<publisher>SEGA</publisher>
+		<developer>Novotrade</developer>
+		<releasedate>19951001T000000</releasedate>
+		<video>media/videos/Kolibri e0d6d57c173ff38132cc41b7980e8856.mp4</video>
+		<logo>media/wheels/Kolibri 623ad003a17f55ca2c0125fb48bfbae9.png</logo>
+		<manual>media/manuals/Kolibri 6919be951e8eb8cd9c5de82ffcc784d9.pdf</manual>
+		<box>media/boxes/Kolibri 8c68c3524215bb04053ec06acf4a61a7.png</box>
+		<image>media/images/Kolibri 0ba4c1242223b1460d45fb8be342179a.png</image>
+		<desc>「地表最強蜂鳥射擊遊戲」。地心深處存在著一顆維持地球生態平衡與生命力的「大地水晶」。某一天，一顆充滿邪惡力量的「黑暗水晶」從外太空隕落，砸中了大地水晶並開始腐蝕整個地球的生態系統。在力量即將枯竭的絕望之際，大地水晶將它最後的純淨能量向地表發射。這股神聖的能量，陰錯陽差地注入了一隻正在花叢中吸食花蜜、平凡無奇的小蜂鳥（Kolibri）身上。</desc>
+		<rating>0.80</rating>
+		<aliases>Kolibri(ss)</aliases>
+		<name>Kolibri 蜂鳥戰機</name>
+		<path>Kolibri (USA, Europe).32x</path>
+	</game>
+</gameList>

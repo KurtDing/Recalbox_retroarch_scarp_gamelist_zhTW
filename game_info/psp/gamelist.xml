@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1789849428">
+		<hash>1439373D</hash>
+		<region>jp</region>
+		<genreid>256</genreid>
+		<genre>Action / Adventure,Action</genre>
+		<publisher>柯拿米</publisher>
+		<developer>柯拿米</developer>
+		<releasedate>20071108T000000</releasedate>
+		<video>media/videos/Castlevania - The Dracula X Chronicles bc204ea10c47bd455689777264ab8016.mp4</video>
+		<logo>media/wheels/Castlevania - The Dracula X Chronicles 964defae9378291094c9a128e94e9a33.png</logo>
+		<manual>media/manuals/Castlevania - The Dracula X Chronicles d5df1f286bbac8726611b949129403a8.pdf</manual>
+		<box>media/boxes/Castlevania - The Dracula X Chronicles bef56a40865f852ee8562a55df6368ba.png</box>
+		<image>media/images/Castlevania - The Dracula X Chronicles b6b8863a6034fdd0697cf44801271f1b.png</image>
+		<desc>本體是2.5D重製版惡魔城X血之輪迴。除了成功救出12歲的超強美少女「瑪莉亞·雷納德」後，便可解鎖她作為可選角色外，特定關卡中，隱藏著特定的「樂譜」或「道具」，只要玩家在探索時找到它們，就能在主選單永久解鎖隱藏收錄：PS1-惡魔城X月下夜想曲，PCE原始版-惡魔城X血之輪迴，PCE主機插錯系統卡的警示小遊戲-惡魔城Peke。</desc>
+		<rating>0.85</rating>
+		<licences>Castlevania</licences>
+		<aliases>Castlevania - The Dracula X Chronicles(ss)</aliases>
+		<name>Akumajou Dracula X Chronicle 惡魔城X年代記</name>
+		<path>cvn-adxc.iso</path>
+	</game>
+	<game source="Recalbox" timestamp="1789849562">
+		<hash>DDCC23C2</hash>
+		<region>kr,jp</region>
+		<players>1-4</players>
+		<genreid>266</genreid>
+		<genre>Rhythm,Music and Dancing</genre>
+		<publisher>萬代南夢宮</publisher>
+		<developer>萬代南夢宮</developer>
+		<releasedate>20110714T000000</releasedate>
+		<video>media/videos/Taiko No Tatsujin Portable Dx ba4f48a5b5e9a9a8d12a3d920a6ff459.mp4</video>
+		<logo>media/wheels/Taiko No Tatsujin Portable Dx 3b03238c5ca3f2f6359b58c000ba1500.png</logo>
+		<box>media/boxes/Taiko No Tatsujin Portable Dx 50192421ef09a60dd0b5fe34f3bfd0f1.png</box>
+		<image>media/images/Taiko No Tatsujin Portable Dx b2720ea203395efb2dfe433b333c4152.png</image>
+		<desc>PSP上推出的系列第三作，也是該平台上的最終完結巔峰之作。本作的一大賣點是夢幻級的跨界深度聯動（初音未來,偶像大師,魔物獵人,人中之龍），角色甚至會直接在背景伴舞。不同於2代的小鎮音樂會，DX版的單人故事模式變成了「全國大賽」，玩家要與神社巫女「八雲」一起攜帶神轎，在由多個區域組成的日本地圖上四處遠征。在各地挑戰當地道場的太鼓高手、聯動角色或頭目，獲取「幫手（助?人）」和新衣服，目標是稱霸全國、復興道場。遊戲本體直接內建高達70首精心挑選的樂曲，當年透過PSN網路推出了大量的追加下載。如果現在下載老玩家整合的「全DLC完美版」，總曲目量可飆升至170首以上。
+這款遊戲在現今使用PC、手機或安卓掌機上的PPSSPP模擬器執行時，畫面可以開到4K高畫質，背景的初音與艾露貓動態會變得極為細緻。不過，因為模擬器上可能會有微小的音訊延遲（Audio_Latency），建議進入遊戲設定（Options）中調整「音符位置調整（音??調整）」，才能確保敲擊與音樂完美同步。</desc>
+		<licences>Taiko no Tatsujin</licences>
+		<aliases>Taiko No Tatsujin Portable Dx(ss)</aliases>
+		<name>Taiko no Tatsujin Portable DX 太鼓達人-便攜版DX</name>
+		<path>Taiko no Tatsujin Portable DX (Japan, Korea).iso</path>
+	</game>
+	<game source="Recalbox" timestamp="1789848487">
+		<hash>5941BB18</hash>
+		<region>jp</region>
+		<players>1-4</players>
+		<genreid>266</genreid>
+		<genre>Rhythm,Music and Dancing</genre>
+		<publisher>萬代南夢宮</publisher>
+		<developer>萬代南夢宮</developer>
+		<releasedate>20060907T000000</releasedate>
+		<video>media/videos/Taiko No Tatsujin Portable 2 3cc6659fe62f37171c1fe7ea03d93b77.mp4</video>
+		<logo>media/wheels/Taiko No Tatsujin Portable 2 3c12e39512caf167947634edc3aef6df.png</logo>
+		<box>media/boxes/Taiko No Tatsujin Portable 2 6b9079b45de5b832bf31758818bdc0d6.png</box>
+		<image>media/images/Taiko No Tatsujin Portable 2 c7ed5ceacbd09bd861b1ac1eb1d632aa.png</image>
+		<desc>掌機PSP《太鼓之達人》便攜版系列的第二部作品，本作最大的亮點在於首度實裝了劇情內容。講述女主角「小花」為了即將到來的鎮上音樂發表會，正加緊練習鋼琴。主角「和田咚」與「和田喀」為了幫小花加油打氣，必須在一星期內在街上四處奔走、與居民交談、接受曲目挑戰並招募好友，共同為音樂會造勢。收錄了高達62首樂曲，包含前作的22首經典可下載曲目，以及40首全新追加的歌曲。曲目類型涵蓋J-POP、動畫主題曲、古典音樂、遊戲音樂等豐富類別。</desc>
+		<licences>Taiko no Tatsujin</licences>
+		<aliases>Taiko No Tatsujin Portable 2(ss)</aliases>
+		<name>Taiko no Tatsujin Portable 2 太鼓達人-便攜版2</name>
+		<path>Taiko no Tatsujin Portable 2 (Japan).iso</path>
+	</game>
+</gameList>
